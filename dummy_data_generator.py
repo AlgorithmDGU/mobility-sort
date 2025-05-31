@@ -4,7 +4,6 @@ import os
 
 
 def generate_dummy_data(
-    num_items: int = 254,
     providername: str = "gbike",
     lat_range: tuple[float, float] = (36.406900, 36.601200),
     lon_range: tuple[float, float] = (127.128600, 127.370400),
@@ -13,6 +12,7 @@ def generate_dummy_data(
     code: int = 1,
 ) -> dict:
 
+    num_items = random.randint(200, 299)
     items = [
         {
             "battery": random.randint(1, 100),                 

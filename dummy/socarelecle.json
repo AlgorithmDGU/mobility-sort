@@ -8,2296 +8,2251 @@
       "items": {
         "item": [
           {
-            "battery": 82,
+            "battery": 20,
             "citycode": 12,
             "cityname": "세종특별시",
-            "latitude": 36.559269,
-            "longitude": 127.174914,
+            "latitude": 36.492401,
+            "longitude": 127.283763,
             "providername": "socarelecle",
-            "vehicleid": 610497
-          },
-          {
-            "battery": 54,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.566416,
-            "longitude": 127.255328,
-            "providername": "socarelecle",
-            "vehicleid": 611793
-          },
-          {
-            "battery": 16,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.466015,
-            "longitude": 127.216894,
-            "providername": "socarelecle",
-            "vehicleid": 603851
-          },
-          {
-            "battery": 31,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.557695,
-            "longitude": 127.219137,
-            "providername": "socarelecle",
-            "vehicleid": 680386
-          },
-          {
-            "battery": 32,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.598643,
-            "longitude": 127.196032,
-            "providername": "socarelecle",
-            "vehicleid": 686531
-          },
-          {
-            "battery": 16,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.416447,
-            "longitude": 127.161771,
-            "providername": "socarelecle",
-            "vehicleid": 698191
-          },
-          {
-            "battery": 66,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.447693,
-            "longitude": 127.301534,
-            "providername": "socarelecle",
-            "vehicleid": 698228
-          },
-          {
-            "battery": 62,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.419551,
-            "longitude": 127.289233,
-            "providername": "socarelecle",
-            "vehicleid": 652743
-          },
-          {
-            "battery": 40,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.554777,
-            "longitude": 127.229481,
-            "providername": "socarelecle",
-            "vehicleid": 600308
-          },
-          {
-            "battery": 27,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.417229,
-            "longitude": 127.287721,
-            "providername": "socarelecle",
-            "vehicleid": 620486
-          },
-          {
-            "battery": 77,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.496582,
-            "longitude": 127.320415,
-            "providername": "socarelecle",
-            "vehicleid": 658317
-          },
-          {
-            "battery": 99,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.599876,
-            "longitude": 127.177102,
-            "providername": "socarelecle",
-            "vehicleid": 653691
-          },
-          {
-            "battery": 17,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.517728,
-            "longitude": 127.271331,
-            "providername": "socarelecle",
-            "vehicleid": 666628
-          },
-          {
-            "battery": 10,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.424048,
-            "longitude": 127.306582,
-            "providername": "socarelecle",
-            "vehicleid": 600184
-          },
-          {
-            "battery": 34,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.530914,
-            "longitude": 127.246594,
-            "providername": "socarelecle",
-            "vehicleid": 601296
-          },
-          {
-            "battery": 67,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.554531,
-            "longitude": 127.299739,
-            "providername": "socarelecle",
-            "vehicleid": 646057
-          },
-          {
-            "battery": 1,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.49943,
-            "longitude": 127.242746,
-            "providername": "socarelecle",
-            "vehicleid": 619328
-          },
-          {
-            "battery": 32,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.584607,
-            "longitude": 127.158246,
-            "providername": "socarelecle",
-            "vehicleid": 688303
-          },
-          {
-            "battery": 44,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.460104,
-            "longitude": 127.167848,
-            "providername": "socarelecle",
-            "vehicleid": 649867
-          },
-          {
-            "battery": 95,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.593904,
-            "longitude": 127.312396,
-            "providername": "socarelecle",
-            "vehicleid": 614991
-          },
-          {
-            "battery": 61,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.42412,
-            "longitude": 127.231914,
-            "providername": "socarelecle",
-            "vehicleid": 682767
-          },
-          {
-            "battery": 29,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.532718,
-            "longitude": 127.262825,
-            "providername": "socarelecle",
-            "vehicleid": 641352
-          },
-          {
-            "battery": 7,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.410855,
-            "longitude": 127.320197,
-            "providername": "socarelecle",
-            "vehicleid": 660752
-          },
-          {
-            "battery": 21,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.530846,
-            "longitude": 127.233013,
-            "providername": "socarelecle",
-            "vehicleid": 634754
-          },
-          {
-            "battery": 76,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.503581,
-            "longitude": 127.353881,
-            "providername": "socarelecle",
-            "vehicleid": 631732
-          },
-          {
-            "battery": 72,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.458066,
-            "longitude": 127.223389,
-            "providername": "socarelecle",
-            "vehicleid": 669727
+            "vehicleid": 673558
           },
           {
             "battery": 22,
             "citycode": 12,
             "cityname": "세종특별시",
-            "latitude": 36.504315,
-            "longitude": 127.246462,
+            "latitude": 36.589489,
+            "longitude": 127.227181,
             "providername": "socarelecle",
-            "vehicleid": 669129
-          },
-          {
-            "battery": 71,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.544593,
-            "longitude": 127.141951,
-            "providername": "socarelecle",
-            "vehicleid": 688079
-          },
-          {
-            "battery": 54,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.436125,
-            "longitude": 127.135292,
-            "providername": "socarelecle",
-            "vehicleid": 632477
-          },
-          {
-            "battery": 50,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.451529,
-            "longitude": 127.156273,
-            "providername": "socarelecle",
-            "vehicleid": 625294
-          },
-          {
-            "battery": 36,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.436349,
-            "longitude": 127.196913,
-            "providername": "socarelecle",
-            "vehicleid": 646909
-          },
-          {
-            "battery": 14,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.51336,
-            "longitude": 127.196842,
-            "providername": "socarelecle",
-            "vehicleid": 679766
-          },
-          {
-            "battery": 23,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.43484,
-            "longitude": 127.273254,
-            "providername": "socarelecle",
-            "vehicleid": 673961
-          },
-          {
-            "battery": 57,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.406983,
-            "longitude": 127.351249,
-            "providername": "socarelecle",
-            "vehicleid": 608286
-          },
-          {
-            "battery": 62,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.484579,
-            "longitude": 127.369068,
-            "providername": "socarelecle",
-            "vehicleid": 609708
-          },
-          {
-            "battery": 9,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.597231,
-            "longitude": 127.319065,
-            "providername": "socarelecle",
-            "vehicleid": 609196
-          },
-          {
-            "battery": 12,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.458443,
-            "longitude": 127.147851,
-            "providername": "socarelecle",
-            "vehicleid": 667913
-          },
-          {
-            "battery": 1,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.427645,
-            "longitude": 127.247417,
-            "providername": "socarelecle",
-            "vehicleid": 668443
-          },
-          {
-            "battery": 75,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.465687,
-            "longitude": 127.210457,
-            "providername": "socarelecle",
-            "vehicleid": 674318
-          },
-          {
-            "battery": 32,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.543664,
-            "longitude": 127.131755,
-            "providername": "socarelecle",
-            "vehicleid": 606567
-          },
-          {
-            "battery": 78,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.582584,
-            "longitude": 127.265305,
-            "providername": "socarelecle",
-            "vehicleid": 654835
-          },
-          {
-            "battery": 77,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.576797,
-            "longitude": 127.183213,
-            "providername": "socarelecle",
-            "vehicleid": 681063
-          },
-          {
-            "battery": 81,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.41954,
-            "longitude": 127.335892,
-            "providername": "socarelecle",
-            "vehicleid": 606575
-          },
-          {
-            "battery": 36,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.453038,
-            "longitude": 127.310773,
-            "providername": "socarelecle",
-            "vehicleid": 652793
-          },
-          {
-            "battery": 90,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.481992,
-            "longitude": 127.128843,
-            "providername": "socarelecle",
-            "vehicleid": 667632
-          },
-          {
-            "battery": 2,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.585228,
-            "longitude": 127.214653,
-            "providername": "socarelecle",
-            "vehicleid": 642470
-          },
-          {
-            "battery": 100,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.527839,
-            "longitude": 127.14467,
-            "providername": "socarelecle",
-            "vehicleid": 648155
-          },
-          {
-            "battery": 83,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.519296,
-            "longitude": 127.260725,
-            "providername": "socarelecle",
-            "vehicleid": 699959
-          },
-          {
-            "battery": 78,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.531029,
-            "longitude": 127.143303,
-            "providername": "socarelecle",
-            "vehicleid": 609833
-          },
-          {
-            "battery": 68,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.434638,
-            "longitude": 127.28024,
-            "providername": "socarelecle",
-            "vehicleid": 655187
-          },
-          {
-            "battery": 69,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.510885,
-            "longitude": 127.17124,
-            "providername": "socarelecle",
-            "vehicleid": 613397
-          },
-          {
-            "battery": 67,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.489621,
-            "longitude": 127.366815,
-            "providername": "socarelecle",
-            "vehicleid": 625783
-          },
-          {
-            "battery": 35,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.440557,
-            "longitude": 127.209017,
-            "providername": "socarelecle",
-            "vehicleid": 630180
-          },
-          {
-            "battery": 71,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.522636,
-            "longitude": 127.299159,
-            "providername": "socarelecle",
-            "vehicleid": 670032
-          },
-          {
-            "battery": 39,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.506021,
-            "longitude": 127.240532,
-            "providername": "socarelecle",
-            "vehicleid": 642128
-          },
-          {
-            "battery": 56,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.443,
-            "longitude": 127.36739,
-            "providername": "socarelecle",
-            "vehicleid": 605039
-          },
-          {
-            "battery": 79,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.483736,
-            "longitude": 127.278801,
-            "providername": "socarelecle",
-            "vehicleid": 683255
-          },
-          {
-            "battery": 63,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.437846,
-            "longitude": 127.306571,
-            "providername": "socarelecle",
-            "vehicleid": 681031
-          },
-          {
-            "battery": 75,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.426152,
-            "longitude": 127.163103,
-            "providername": "socarelecle",
-            "vehicleid": 686325
+            "vehicleid": 687296
           },
           {
             "battery": 65,
             "citycode": 12,
             "cityname": "세종특별시",
-            "latitude": 36.452402,
-            "longitude": 127.265303,
+            "latitude": 36.600929,
+            "longitude": 127.21902,
             "providername": "socarelecle",
-            "vehicleid": 616997
+            "vehicleid": 689744
           },
           {
-            "battery": 36,
+            "battery": 39,
             "citycode": 12,
             "cityname": "세종특별시",
-            "latitude": 36.486283,
-            "longitude": 127.35314,
+            "latitude": 36.504343,
+            "longitude": 127.134778,
             "providername": "socarelecle",
-            "vehicleid": 623638
-          },
-          {
-            "battery": 64,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.524268,
-            "longitude": 127.277752,
-            "providername": "socarelecle",
-            "vehicleid": 664018
-          },
-          {
-            "battery": 44,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.516168,
-            "longitude": 127.195198,
-            "providername": "socarelecle",
-            "vehicleid": 613152
-          },
-          {
-            "battery": 24,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.441548,
-            "longitude": 127.148289,
-            "providername": "socarelecle",
-            "vehicleid": 647647
-          },
-          {
-            "battery": 41,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.555903,
-            "longitude": 127.227616,
-            "providername": "socarelecle",
-            "vehicleid": 650810
-          },
-          {
-            "battery": 24,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.543086,
-            "longitude": 127.307286,
-            "providername": "socarelecle",
-            "vehicleid": 652756
-          },
-          {
-            "battery": 11,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.507274,
-            "longitude": 127.357313,
-            "providername": "socarelecle",
-            "vehicleid": 642510
-          },
-          {
-            "battery": 17,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.5439,
-            "longitude": 127.157941,
-            "providername": "socarelecle",
-            "vehicleid": 616126
-          },
-          {
-            "battery": 48,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.586339,
-            "longitude": 127.237114,
-            "providername": "socarelecle",
-            "vehicleid": 682221
-          },
-          {
-            "battery": 66,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.562375,
-            "longitude": 127.215239,
-            "providername": "socarelecle",
-            "vehicleid": 656343
-          },
-          {
-            "battery": 51,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.424652,
-            "longitude": 127.324774,
-            "providername": "socarelecle",
-            "vehicleid": 681358
-          },
-          {
-            "battery": 50,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.544143,
-            "longitude": 127.308414,
-            "providername": "socarelecle",
-            "vehicleid": 616148
-          },
-          {
-            "battery": 50,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.539518,
-            "longitude": 127.194052,
-            "providername": "socarelecle",
-            "vehicleid": 686186
-          },
-          {
-            "battery": 3,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.425718,
-            "longitude": 127.203013,
-            "providername": "socarelecle",
-            "vehicleid": 686007
-          },
-          {
-            "battery": 81,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.514768,
-            "longitude": 127.270882,
-            "providername": "socarelecle",
-            "vehicleid": 611090
-          },
-          {
-            "battery": 44,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.534327,
-            "longitude": 127.1626,
-            "providername": "socarelecle",
-            "vehicleid": 653585
-          },
-          {
-            "battery": 18,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.530324,
-            "longitude": 127.367857,
-            "providername": "socarelecle",
-            "vehicleid": 697673
-          },
-          {
-            "battery": 89,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.506998,
-            "longitude": 127.369633,
-            "providername": "socarelecle",
-            "vehicleid": 687412
-          },
-          {
-            "battery": 13,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.426475,
-            "longitude": 127.270418,
-            "providername": "socarelecle",
-            "vehicleid": 667581
-          },
-          {
-            "battery": 98,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.410235,
-            "longitude": 127.203112,
-            "providername": "socarelecle",
-            "vehicleid": 659749
-          },
-          {
-            "battery": 6,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.432114,
-            "longitude": 127.264584,
-            "providername": "socarelecle",
-            "vehicleid": 641600
+            "vehicleid": 637863
           },
           {
             "battery": 90,
             "citycode": 12,
             "cityname": "세종특별시",
-            "latitude": 36.412013,
-            "longitude": 127.232558,
+            "latitude": 36.548425,
+            "longitude": 127.261404,
             "providername": "socarelecle",
-            "vehicleid": 656966
-          },
-          {
-            "battery": 5,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.48674,
-            "longitude": 127.288304,
-            "providername": "socarelecle",
-            "vehicleid": 642840
-          },
-          {
-            "battery": 88,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.434904,
-            "longitude": 127.352174,
-            "providername": "socarelecle",
-            "vehicleid": 607171
-          },
-          {
-            "battery": 62,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.490323,
-            "longitude": 127.152847,
-            "providername": "socarelecle",
-            "vehicleid": 665369
-          },
-          {
-            "battery": 7,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.594403,
-            "longitude": 127.214674,
-            "providername": "socarelecle",
-            "vehicleid": 650700
-          },
-          {
-            "battery": 77,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.548079,
-            "longitude": 127.226885,
-            "providername": "socarelecle",
-            "vehicleid": 609836
-          },
-          {
-            "battery": 44,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.43274,
-            "longitude": 127.282531,
-            "providername": "socarelecle",
-            "vehicleid": 659282
-          },
-          {
-            "battery": 4,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.579406,
-            "longitude": 127.318275,
-            "providername": "socarelecle",
-            "vehicleid": 694851
-          },
-          {
-            "battery": 60,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.512287,
-            "longitude": 127.294669,
-            "providername": "socarelecle",
-            "vehicleid": 694582
-          },
-          {
-            "battery": 19,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.47825,
-            "longitude": 127.250495,
-            "providername": "socarelecle",
-            "vehicleid": 697321
-          },
-          {
-            "battery": 28,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.588661,
-            "longitude": 127.315005,
-            "providername": "socarelecle",
-            "vehicleid": 638085
-          },
-          {
-            "battery": 66,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.556526,
-            "longitude": 127.175769,
-            "providername": "socarelecle",
-            "vehicleid": 666267
-          },
-          {
-            "battery": 82,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.601078,
-            "longitude": 127.253096,
-            "providername": "socarelecle",
-            "vehicleid": 623270
-          },
-          {
-            "battery": 48,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.427103,
-            "longitude": 127.296304,
-            "providername": "socarelecle",
-            "vehicleid": 606383
-          },
-          {
-            "battery": 83,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.501129,
-            "longitude": 127.359404,
-            "providername": "socarelecle",
-            "vehicleid": 610343
-          },
-          {
-            "battery": 83,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.433008,
-            "longitude": 127.294456,
-            "providername": "socarelecle",
-            "vehicleid": 681449
-          },
-          {
-            "battery": 1,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.524365,
-            "longitude": 127.142956,
-            "providername": "socarelecle",
-            "vehicleid": 617631
-          },
-          {
-            "battery": 30,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.566322,
-            "longitude": 127.222772,
-            "providername": "socarelecle",
-            "vehicleid": 654401
-          },
-          {
-            "battery": 17,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.510742,
-            "longitude": 127.207437,
-            "providername": "socarelecle",
-            "vehicleid": 633608
-          },
-          {
-            "battery": 9,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.498336,
-            "longitude": 127.21523,
-            "providername": "socarelecle",
-            "vehicleid": 685237
-          },
-          {
-            "battery": 20,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.510075,
-            "longitude": 127.297362,
-            "providername": "socarelecle",
-            "vehicleid": 617174
-          },
-          {
-            "battery": 17,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.431158,
-            "longitude": 127.204135,
-            "providername": "socarelecle",
-            "vehicleid": 677755
-          },
-          {
-            "battery": 26,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.425496,
-            "longitude": 127.147105,
-            "providername": "socarelecle",
-            "vehicleid": 667304
-          },
-          {
-            "battery": 28,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.41376,
-            "longitude": 127.255899,
-            "providername": "socarelecle",
-            "vehicleid": 619743
-          },
-          {
-            "battery": 67,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.446238,
-            "longitude": 127.284763,
-            "providername": "socarelecle",
-            "vehicleid": 660242
-          },
-          {
-            "battery": 39,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.488294,
-            "longitude": 127.340265,
-            "providername": "socarelecle",
-            "vehicleid": 684944
-          },
-          {
-            "battery": 75,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.485552,
-            "longitude": 127.150903,
-            "providername": "socarelecle",
-            "vehicleid": 693432
-          },
-          {
-            "battery": 66,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.441414,
-            "longitude": 127.245256,
-            "providername": "socarelecle",
-            "vehicleid": 619847
-          },
-          {
-            "battery": 70,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.487207,
-            "longitude": 127.275794,
-            "providername": "socarelecle",
-            "vehicleid": 632616
-          },
-          {
-            "battery": 75,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.530728,
-            "longitude": 127.258954,
-            "providername": "socarelecle",
-            "vehicleid": 686386
-          },
-          {
-            "battery": 80,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.536345,
-            "longitude": 127.184731,
-            "providername": "socarelecle",
-            "vehicleid": 647738
-          },
-          {
-            "battery": 4,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.531501,
-            "longitude": 127.169601,
-            "providername": "socarelecle",
-            "vehicleid": 660860
-          },
-          {
-            "battery": 97,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.430693,
-            "longitude": 127.327102,
-            "providername": "socarelecle",
-            "vehicleid": 657723
-          },
-          {
-            "battery": 27,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.533429,
-            "longitude": 127.241138,
-            "providername": "socarelecle",
-            "vehicleid": 622994
-          },
-          {
-            "battery": 80,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.508931,
-            "longitude": 127.130134,
-            "providername": "socarelecle",
-            "vehicleid": 679619
-          },
-          {
-            "battery": 24,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.486389,
-            "longitude": 127.145655,
-            "providername": "socarelecle",
-            "vehicleid": 649193
-          },
-          {
-            "battery": 20,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.567055,
-            "longitude": 127.252543,
-            "providername": "socarelecle",
-            "vehicleid": 618438
-          },
-          {
-            "battery": 16,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.411874,
-            "longitude": 127.197912,
-            "providername": "socarelecle",
-            "vehicleid": 681619
-          },
-          {
-            "battery": 71,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.407088,
-            "longitude": 127.144487,
-            "providername": "socarelecle",
-            "vehicleid": 625247
-          },
-          {
-            "battery": 63,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.438945,
-            "longitude": 127.251162,
-            "providername": "socarelecle",
-            "vehicleid": 652234
-          },
-          {
-            "battery": 51,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.521732,
-            "longitude": 127.292026,
-            "providername": "socarelecle",
-            "vehicleid": 600629
-          },
-          {
-            "battery": 40,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.492179,
-            "longitude": 127.255986,
-            "providername": "socarelecle",
-            "vehicleid": 634814
-          },
-          {
-            "battery": 88,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.555724,
-            "longitude": 127.340531,
-            "providername": "socarelecle",
-            "vehicleid": 631612
-          },
-          {
-            "battery": 9,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.590285,
-            "longitude": 127.223561,
-            "providername": "socarelecle",
-            "vehicleid": 626062
-          },
-          {
-            "battery": 69,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.488309,
-            "longitude": 127.346353,
-            "providername": "socarelecle",
-            "vehicleid": 651216
-          },
-          {
-            "battery": 44,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.436503,
-            "longitude": 127.358696,
-            "providername": "socarelecle",
-            "vehicleid": 694475
-          },
-          {
-            "battery": 68,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.478033,
-            "longitude": 127.259362,
-            "providername": "socarelecle",
-            "vehicleid": 671074
-          },
-          {
-            "battery": 82,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.494418,
-            "longitude": 127.222836,
-            "providername": "socarelecle",
-            "vehicleid": 634245
-          },
-          {
-            "battery": 82,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.570102,
-            "longitude": 127.353205,
-            "providername": "socarelecle",
-            "vehicleid": 636076
-          },
-          {
-            "battery": 78,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.585635,
-            "longitude": 127.300473,
-            "providername": "socarelecle",
-            "vehicleid": 658307
-          },
-          {
-            "battery": 69,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.413923,
-            "longitude": 127.337974,
-            "providername": "socarelecle",
-            "vehicleid": 648685
-          },
-          {
-            "battery": 71,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.571195,
-            "longitude": 127.337446,
-            "providername": "socarelecle",
-            "vehicleid": 692254
-          },
-          {
-            "battery": 20,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.457046,
-            "longitude": 127.130015,
-            "providername": "socarelecle",
-            "vehicleid": 602649
-          },
-          {
-            "battery": 65,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.439736,
-            "longitude": 127.198716,
-            "providername": "socarelecle",
-            "vehicleid": 601781
-          },
-          {
-            "battery": 26,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.571523,
-            "longitude": 127.157541,
-            "providername": "socarelecle",
-            "vehicleid": 689420
-          },
-          {
-            "battery": 22,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.520031,
-            "longitude": 127.180514,
-            "providername": "socarelecle",
-            "vehicleid": 610113
-          },
-          {
-            "battery": 66,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.528282,
-            "longitude": 127.185463,
-            "providername": "socarelecle",
-            "vehicleid": 624671
-          },
-          {
-            "battery": 39,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.46073,
-            "longitude": 127.355044,
-            "providername": "socarelecle",
-            "vehicleid": 662010
-          },
-          {
-            "battery": 34,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.456232,
-            "longitude": 127.213602,
-            "providername": "socarelecle",
-            "vehicleid": 659336
-          },
-          {
-            "battery": 1,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.449959,
-            "longitude": 127.228583,
-            "providername": "socarelecle",
-            "vehicleid": 633108
-          },
-          {
-            "battery": 88,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.465914,
-            "longitude": 127.289692,
-            "providername": "socarelecle",
-            "vehicleid": 665026
-          },
-          {
-            "battery": 79,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.579858,
-            "longitude": 127.328195,
-            "providername": "socarelecle",
-            "vehicleid": 665686
-          },
-          {
-            "battery": 98,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.588208,
-            "longitude": 127.305911,
-            "providername": "socarelecle",
-            "vehicleid": 625391
-          },
-          {
-            "battery": 9,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.582916,
-            "longitude": 127.304109,
-            "providername": "socarelecle",
-            "vehicleid": 699753
-          },
-          {
-            "battery": 70,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.508268,
-            "longitude": 127.23336,
-            "providername": "socarelecle",
-            "vehicleid": 691832
-          },
-          {
-            "battery": 50,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.594592,
-            "longitude": 127.333154,
-            "providername": "socarelecle",
-            "vehicleid": 675267
-          },
-          {
-            "battery": 1,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.560093,
-            "longitude": 127.161042,
-            "providername": "socarelecle",
-            "vehicleid": 667395
-          },
-          {
-            "battery": 78,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.462227,
-            "longitude": 127.349521,
-            "providername": "socarelecle",
-            "vehicleid": 612882
-          },
-          {
-            "battery": 81,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.591236,
-            "longitude": 127.249998,
-            "providername": "socarelecle",
-            "vehicleid": 634056
-          },
-          {
-            "battery": 40,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.455372,
-            "longitude": 127.200073,
-            "providername": "socarelecle",
-            "vehicleid": 631981
-          },
-          {
-            "battery": 56,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.485872,
-            "longitude": 127.244801,
-            "providername": "socarelecle",
-            "vehicleid": 655673
-          },
-          {
-            "battery": 56,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.480602,
-            "longitude": 127.203687,
-            "providername": "socarelecle",
-            "vehicleid": 668535
-          },
-          {
-            "battery": 42,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.514179,
-            "longitude": 127.361448,
-            "providername": "socarelecle",
-            "vehicleid": 668986
-          },
-          {
-            "battery": 5,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.518264,
-            "longitude": 127.357454,
-            "providername": "socarelecle",
-            "vehicleid": 671584
-          },
-          {
-            "battery": 32,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.441405,
-            "longitude": 127.147795,
-            "providername": "socarelecle",
-            "vehicleid": 698249
-          },
-          {
-            "battery": 61,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.460856,
-            "longitude": 127.151494,
-            "providername": "socarelecle",
-            "vehicleid": 609458
-          },
-          {
-            "battery": 35,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.545543,
-            "longitude": 127.194239,
-            "providername": "socarelecle",
-            "vehicleid": 676870
-          },
-          {
-            "battery": 34,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.483383,
-            "longitude": 127.171443,
-            "providername": "socarelecle",
-            "vehicleid": 688921
-          },
-          {
-            "battery": 25,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.455137,
-            "longitude": 127.353455,
-            "providername": "socarelecle",
-            "vehicleid": 621408
-          },
-          {
-            "battery": 36,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.45113,
-            "longitude": 127.133682,
-            "providername": "socarelecle",
-            "vehicleid": 632514
-          },
-          {
-            "battery": 14,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.547241,
-            "longitude": 127.271903,
-            "providername": "socarelecle",
-            "vehicleid": 605233
-          },
-          {
-            "battery": 81,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.599357,
-            "longitude": 127.354457,
-            "providername": "socarelecle",
-            "vehicleid": 671204
-          },
-          {
-            "battery": 43,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.550389,
-            "longitude": 127.351306,
-            "providername": "socarelecle",
-            "vehicleid": 626553
-          },
-          {
-            "battery": 84,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.562386,
-            "longitude": 127.361328,
-            "providername": "socarelecle",
-            "vehicleid": 654449
-          },
-          {
-            "battery": 58,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.465513,
-            "longitude": 127.247036,
-            "providername": "socarelecle",
-            "vehicleid": 670700
-          },
-          {
-            "battery": 4,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.58391,
-            "longitude": 127.153691,
-            "providername": "socarelecle",
-            "vehicleid": 609297
-          },
-          {
-            "battery": 14,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.488303,
-            "longitude": 127.243476,
-            "providername": "socarelecle",
-            "vehicleid": 625074
-          },
-          {
-            "battery": 8,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.578349,
-            "longitude": 127.249463,
-            "providername": "socarelecle",
-            "vehicleid": 688505
-          },
-          {
-            "battery": 48,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.589299,
-            "longitude": 127.218394,
-            "providername": "socarelecle",
-            "vehicleid": 646051
-          },
-          {
-            "battery": 39,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.559676,
-            "longitude": 127.150024,
-            "providername": "socarelecle",
-            "vehicleid": 638298
-          },
-          {
-            "battery": 50,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.454979,
-            "longitude": 127.202563,
-            "providername": "socarelecle",
-            "vehicleid": 691435
-          },
-          {
-            "battery": 74,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.425541,
-            "longitude": 127.314095,
-            "providername": "socarelecle",
-            "vehicleid": 658421
-          },
-          {
-            "battery": 24,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.475726,
-            "longitude": 127.148511,
-            "providername": "socarelecle",
-            "vehicleid": 677600
-          },
-          {
-            "battery": 74,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.48968,
-            "longitude": 127.27195,
-            "providername": "socarelecle",
-            "vehicleid": 604056
-          },
-          {
-            "battery": 70,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.573522,
-            "longitude": 127.193781,
-            "providername": "socarelecle",
-            "vehicleid": 669810
+            "vehicleid": 621263
           },
           {
             "battery": 12,
             "citycode": 12,
             "cityname": "세종특별시",
-            "latitude": 36.586143,
-            "longitude": 127.326568,
+            "latitude": 36.474761,
+            "longitude": 127.352546,
             "providername": "socarelecle",
-            "vehicleid": 627824
+            "vehicleid": 675322
           },
           {
-            "battery": 92,
+            "battery": 5,
             "citycode": 12,
             "cityname": "세종특별시",
-            "latitude": 36.489859,
-            "longitude": 127.300189,
+            "latitude": 36.579107,
+            "longitude": 127.194695,
             "providername": "socarelecle",
-            "vehicleid": 647602
+            "vehicleid": 691016
           },
           {
-            "battery": 25,
+            "battery": 26,
             "citycode": 12,
             "cityname": "세종특별시",
-            "latitude": 36.519209,
-            "longitude": 127.17208,
+            "latitude": 36.577542,
+            "longitude": 127.242786,
             "providername": "socarelecle",
-            "vehicleid": 669701
+            "vehicleid": 651938
           },
           {
-            "battery": 4,
+            "battery": 53,
             "citycode": 12,
             "cityname": "세종특별시",
-            "latitude": 36.573566,
-            "longitude": 127.331434,
+            "latitude": 36.494351,
+            "longitude": 127.320196,
             "providername": "socarelecle",
-            "vehicleid": 628829
-          },
-          {
-            "battery": 81,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.482484,
-            "longitude": 127.361222,
-            "providername": "socarelecle",
-            "vehicleid": 669009
-          },
-          {
-            "battery": 99,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.549041,
-            "longitude": 127.165438,
-            "providername": "socarelecle",
-            "vehicleid": 609137
-          },
-          {
-            "battery": 40,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.488168,
-            "longitude": 127.346529,
-            "providername": "socarelecle",
-            "vehicleid": 667431
-          },
-          {
-            "battery": 58,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.424067,
-            "longitude": 127.289647,
-            "providername": "socarelecle",
-            "vehicleid": 661232
-          },
-          {
-            "battery": 82,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.530668,
-            "longitude": 127.242967,
-            "providername": "socarelecle",
-            "vehicleid": 622325
-          },
-          {
-            "battery": 55,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.520639,
-            "longitude": 127.175612,
-            "providername": "socarelecle",
-            "vehicleid": 654107
-          },
-          {
-            "battery": 88,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.517447,
-            "longitude": 127.293877,
-            "providername": "socarelecle",
-            "vehicleid": 626644
-          },
-          {
-            "battery": 17,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.573298,
-            "longitude": 127.129134,
-            "providername": "socarelecle",
-            "vehicleid": 605834
-          },
-          {
-            "battery": 40,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.465544,
-            "longitude": 127.274699,
-            "providername": "socarelecle",
-            "vehicleid": 614007
-          },
-          {
-            "battery": 40,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.495483,
-            "longitude": 127.193059,
-            "providername": "socarelecle",
-            "vehicleid": 655989
-          },
-          {
-            "battery": 34,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.588174,
-            "longitude": 127.292646,
-            "providername": "socarelecle",
-            "vehicleid": 638646
-          },
-          {
-            "battery": 31,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.464501,
-            "longitude": 127.241439,
-            "providername": "socarelecle",
-            "vehicleid": 671307
+            "vehicleid": 638729
           },
           {
             "battery": 96,
             "citycode": 12,
             "cityname": "세종특별시",
-            "latitude": 36.575274,
-            "longitude": 127.169687,
+            "latitude": 36.434208,
+            "longitude": 127.356874,
             "providername": "socarelecle",
-            "vehicleid": 677502
+            "vehicleid": 605550
           },
           {
-            "battery": 22,
+            "battery": 100,
             "citycode": 12,
             "cityname": "세종특별시",
-            "latitude": 36.54597,
-            "longitude": 127.315069,
+            "latitude": 36.601158,
+            "longitude": 127.290271,
             "providername": "socarelecle",
-            "vehicleid": 681640
-          },
-          {
-            "battery": 52,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.4768,
-            "longitude": 127.237332,
-            "providername": "socarelecle",
-            "vehicleid": 628680
-          },
-          {
-            "battery": 52,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.422571,
-            "longitude": 127.272426,
-            "providername": "socarelecle",
-            "vehicleid": 624661
-          },
-          {
-            "battery": 77,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.471518,
-            "longitude": 127.172723,
-            "providername": "socarelecle",
-            "vehicleid": 628169
-          },
-          {
-            "battery": 2,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.547513,
-            "longitude": 127.279989,
-            "providername": "socarelecle",
-            "vehicleid": 691721
-          },
-          {
-            "battery": 25,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.492446,
-            "longitude": 127.14129,
-            "providername": "socarelecle",
-            "vehicleid": 690019
+            "vehicleid": 669095
           },
           {
             "battery": 48,
             "citycode": 12,
             "cityname": "세종특별시",
-            "latitude": 36.526099,
-            "longitude": 127.219848,
+            "latitude": 36.512824,
+            "longitude": 127.196593,
             "providername": "socarelecle",
-            "vehicleid": 684567
+            "vehicleid": 662330
           },
           {
-            "battery": 22,
+            "battery": 33,
             "citycode": 12,
             "cityname": "세종특별시",
-            "latitude": 36.545483,
-            "longitude": 127.223301,
+            "latitude": 36.518399,
+            "longitude": 127.208222,
             "providername": "socarelecle",
-            "vehicleid": 607101
+            "vehicleid": 675183
           },
           {
-            "battery": 32,
+            "battery": 15,
             "citycode": 12,
             "cityname": "세종특별시",
-            "latitude": 36.593414,
-            "longitude": 127.257732,
+            "latitude": 36.571436,
+            "longitude": 127.132098,
             "providername": "socarelecle",
-            "vehicleid": 657762
-          },
-          {
-            "battery": 7,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.487115,
-            "longitude": 127.293112,
-            "providername": "socarelecle",
-            "vehicleid": 641173
-          },
-          {
-            "battery": 17,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.532003,
-            "longitude": 127.212312,
-            "providername": "socarelecle",
-            "vehicleid": 639674
-          },
-          {
-            "battery": 84,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.565179,
-            "longitude": 127.302801,
-            "providername": "socarelecle",
-            "vehicleid": 692303
+            "vehicleid": 665103
           },
           {
             "battery": 52,
             "citycode": 12,
             "cityname": "세종특별시",
-            "latitude": 36.437371,
-            "longitude": 127.22053,
+            "latitude": 36.563463,
+            "longitude": 127.344721,
             "providername": "socarelecle",
-            "vehicleid": 691108
+            "vehicleid": 658788
           },
           {
-            "battery": 44,
+            "battery": 59,
             "citycode": 12,
             "cityname": "세종특별시",
-            "latitude": 36.523267,
-            "longitude": 127.233259,
+            "latitude": 36.413042,
+            "longitude": 127.209204,
             "providername": "socarelecle",
-            "vehicleid": 619743
+            "vehicleid": 651318
           },
           {
-            "battery": 54,
+            "battery": 29,
             "citycode": 12,
             "cityname": "세종특별시",
-            "latitude": 36.448356,
-            "longitude": 127.326022,
+            "latitude": 36.452671,
+            "longitude": 127.287447,
             "providername": "socarelecle",
-            "vehicleid": 634786
+            "vehicleid": 611304
           },
           {
-            "battery": 47,
+            "battery": 40,
             "citycode": 12,
             "cityname": "세종특별시",
-            "latitude": 36.454291,
-            "longitude": 127.23125,
+            "latitude": 36.52193,
+            "longitude": 127.286138,
             "providername": "socarelecle",
-            "vehicleid": 626516
+            "vehicleid": 635015
           },
           {
-            "battery": 34,
+            "battery": 41,
             "citycode": 12,
             "cityname": "세종특별시",
-            "latitude": 36.55266,
-            "longitude": 127.203921,
+            "latitude": 36.564657,
+            "longitude": 127.217882,
             "providername": "socarelecle",
-            "vehicleid": 689984
+            "vehicleid": 605600
           },
           {
-            "battery": 89,
+            "battery": 25,
             "citycode": 12,
             "cityname": "세종특별시",
-            "latitude": 36.480847,
-            "longitude": 127.186396,
+            "latitude": 36.4911,
+            "longitude": 127.271113,
             "providername": "socarelecle",
-            "vehicleid": 647756
-          },
-          {
-            "battery": 35,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.498438,
-            "longitude": 127.357367,
-            "providername": "socarelecle",
-            "vehicleid": 667595
+            "vehicleid": 674841
           },
           {
             "battery": 78,
             "citycode": 12,
             "cityname": "세종특별시",
-            "latitude": 36.508315,
-            "longitude": 127.36638,
+            "latitude": 36.439095,
+            "longitude": 127.192731,
             "providername": "socarelecle",
-            "vehicleid": 649083
+            "vehicleid": 604214
           },
           {
-            "battery": 82,
+            "battery": 59,
             "citycode": 12,
             "cityname": "세종특별시",
-            "latitude": 36.437871,
-            "longitude": 127.328111,
+            "latitude": 36.54294,
+            "longitude": 127.196582,
             "providername": "socarelecle",
-            "vehicleid": 678773
+            "vehicleid": 601463
           },
           {
-            "battery": 56,
+            "battery": 61,
             "citycode": 12,
             "cityname": "세종특별시",
-            "latitude": 36.509508,
-            "longitude": 127.191313,
+            "latitude": 36.454462,
+            "longitude": 127.324288,
             "providername": "socarelecle",
-            "vehicleid": 616062
-          },
-          {
-            "battery": 81,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.413286,
-            "longitude": 127.186934,
-            "providername": "socarelecle",
-            "vehicleid": 657707
+            "vehicleid": 647121
           },
           {
             "battery": 84,
             "citycode": 12,
             "cityname": "세종특별시",
-            "latitude": 36.495729,
-            "longitude": 127.174594,
+            "latitude": 36.442362,
+            "longitude": 127.184114,
             "providername": "socarelecle",
-            "vehicleid": 615921
-          },
-          {
-            "battery": 5,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.453674,
-            "longitude": 127.256682,
-            "providername": "socarelecle",
-            "vehicleid": 627927
-          },
-          {
-            "battery": 57,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.567794,
-            "longitude": 127.252937,
-            "providername": "socarelecle",
-            "vehicleid": 639978
-          },
-          {
-            "battery": 22,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.513814,
-            "longitude": 127.337612,
-            "providername": "socarelecle",
-            "vehicleid": 670272
-          },
-          {
-            "battery": 2,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.448107,
-            "longitude": 127.337403,
-            "providername": "socarelecle",
-            "vehicleid": 634932
-          },
-          {
-            "battery": 71,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.446093,
-            "longitude": 127.266283,
-            "providername": "socarelecle",
-            "vehicleid": 670409
-          },
-          {
-            "battery": 35,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.549146,
-            "longitude": 127.174756,
-            "providername": "socarelecle",
-            "vehicleid": 653709
-          },
-          {
-            "battery": 69,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.456246,
-            "longitude": 127.321846,
-            "providername": "socarelecle",
-            "vehicleid": 653181
-          },
-          {
-            "battery": 46,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.452032,
-            "longitude": 127.361222,
-            "providername": "socarelecle",
-            "vehicleid": 699987
-          },
-          {
-            "battery": 73,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.437916,
-            "longitude": 127.322881,
-            "providername": "socarelecle",
-            "vehicleid": 604768
-          },
-          {
-            "battery": 42,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.458769,
-            "longitude": 127.13272,
-            "providername": "socarelecle",
-            "vehicleid": 608388
-          },
-          {
-            "battery": 6,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.544631,
-            "longitude": 127.28193,
-            "providername": "socarelecle",
-            "vehicleid": 621162
-          },
-          {
-            "battery": 99,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.483968,
-            "longitude": 127.211795,
-            "providername": "socarelecle",
-            "vehicleid": 607445
-          },
-          {
-            "battery": 71,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.545041,
-            "longitude": 127.357031,
-            "providername": "socarelecle",
-            "vehicleid": 683671
+            "vehicleid": 662438
           },
           {
             "battery": 64,
             "citycode": 12,
             "cityname": "세종특별시",
-            "latitude": 36.565013,
-            "longitude": 127.232863,
+            "latitude": 36.487876,
+            "longitude": 127.137909,
             "providername": "socarelecle",
-            "vehicleid": 635155
+            "vehicleid": 689609
           },
           {
-            "battery": 5,
+            "battery": 47,
             "citycode": 12,
             "cityname": "세종특별시",
-            "latitude": 36.498566,
-            "longitude": 127.22854,
+            "latitude": 36.478035,
+            "longitude": 127.207495,
             "providername": "socarelecle",
-            "vehicleid": 654549
-          },
-          {
-            "battery": 76,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.523393,
-            "longitude": 127.263517,
-            "providername": "socarelecle",
-            "vehicleid": 687348
-          },
-          {
-            "battery": 42,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.587713,
-            "longitude": 127.353943,
-            "providername": "socarelecle",
-            "vehicleid": 657357
-          },
-          {
-            "battery": 72,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.547128,
-            "longitude": 127.232727,
-            "providername": "socarelecle",
-            "vehicleid": 608325
-          },
-          {
-            "battery": 37,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.471312,
-            "longitude": 127.237632,
-            "providername": "socarelecle",
-            "vehicleid": 642742
-          },
-          {
-            "battery": 35,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.523574,
-            "longitude": 127.196592,
-            "providername": "socarelecle",
-            "vehicleid": 620907
-          },
-          {
-            "battery": 89,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.490122,
-            "longitude": 127.332558,
-            "providername": "socarelecle",
-            "vehicleid": 668675
-          },
-          {
-            "battery": 15,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.429707,
-            "longitude": 127.214383,
-            "providername": "socarelecle",
-            "vehicleid": 632665
-          },
-          {
-            "battery": 24,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.429791,
-            "longitude": 127.347513,
-            "providername": "socarelecle",
-            "vehicleid": 616252
-          },
-          {
-            "battery": 20,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.493746,
-            "longitude": 127.344179,
-            "providername": "socarelecle",
-            "vehicleid": 611249
-          },
-          {
-            "battery": 34,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.497985,
-            "longitude": 127.141647,
-            "providername": "socarelecle",
-            "vehicleid": 652576
-          },
-          {
-            "battery": 83,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.491548,
-            "longitude": 127.233761,
-            "providername": "socarelecle",
-            "vehicleid": 606354
-          },
-          {
-            "battery": 55,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.442277,
-            "longitude": 127.16392,
-            "providername": "socarelecle",
-            "vehicleid": 623351
+            "vehicleid": 634564
           },
           {
             "battery": 88,
             "citycode": 12,
             "cityname": "세종특별시",
-            "latitude": 36.49751,
-            "longitude": 127.353593,
+            "latitude": 36.518986,
+            "longitude": 127.210221,
             "providername": "socarelecle",
-            "vehicleid": 659696
+            "vehicleid": 601520
           },
           {
-            "battery": 15,
+            "battery": 2,
             "citycode": 12,
             "cityname": "세종특별시",
-            "latitude": 36.554328,
-            "longitude": 127.140848,
+            "latitude": 36.435529,
+            "longitude": 127.226103,
             "providername": "socarelecle",
-            "vehicleid": 631638
+            "vehicleid": 640064
           },
           {
-            "battery": 80,
+            "battery": 79,
             "citycode": 12,
             "cityname": "세종특별시",
-            "latitude": 36.511773,
-            "longitude": 127.154893,
+            "latitude": 36.468229,
+            "longitude": 127.35779,
             "providername": "socarelecle",
-            "vehicleid": 679319
+            "vehicleid": 642513
           },
           {
-            "battery": 45,
+            "battery": 42,
             "citycode": 12,
             "cityname": "세종특별시",
-            "latitude": 36.481699,
-            "longitude": 127.157888,
+            "latitude": 36.409147,
+            "longitude": 127.32174,
             "providername": "socarelecle",
-            "vehicleid": 699592
+            "vehicleid": 692893
           },
           {
-            "battery": 87,
+            "battery": 6,
             "citycode": 12,
             "cityname": "세종특별시",
-            "latitude": 36.580358,
-            "longitude": 127.267397,
+            "latitude": 36.501451,
+            "longitude": 127.253719,
             "providername": "socarelecle",
-            "vehicleid": 627587
+            "vehicleid": 638994
           },
           {
-            "battery": 39,
+            "battery": 11,
             "citycode": 12,
             "cityname": "세종특별시",
-            "latitude": 36.48497,
-            "longitude": 127.249159,
+            "latitude": 36.539084,
+            "longitude": 127.239803,
             "providername": "socarelecle",
-            "vehicleid": 603957
+            "vehicleid": 613335
+          },
+          {
+            "battery": 58,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.511327,
+            "longitude": 127.261921,
+            "providername": "socarelecle",
+            "vehicleid": 682010
+          },
+          {
+            "battery": 21,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.544224,
+            "longitude": 127.310416,
+            "providername": "socarelecle",
+            "vehicleid": 686132
+          },
+          {
+            "battery": 97,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.580844,
+            "longitude": 127.172045,
+            "providername": "socarelecle",
+            "vehicleid": 663133
           },
           {
             "battery": 17,
             "citycode": 12,
             "cityname": "세종특별시",
-            "latitude": 36.546082,
-            "longitude": 127.21685,
+            "latitude": 36.42874,
+            "longitude": 127.35623,
             "providername": "socarelecle",
-            "vehicleid": 696071
+            "vehicleid": 651249
+          },
+          {
+            "battery": 10,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.484091,
+            "longitude": 127.191,
+            "providername": "socarelecle",
+            "vehicleid": 615493
+          },
+          {
+            "battery": 4,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.590668,
+            "longitude": 127.302048,
+            "providername": "socarelecle",
+            "vehicleid": 678333
+          },
+          {
+            "battery": 19,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.570624,
+            "longitude": 127.323036,
+            "providername": "socarelecle",
+            "vehicleid": 660723
+          },
+          {
+            "battery": 53,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.563888,
+            "longitude": 127.30786,
+            "providername": "socarelecle",
+            "vehicleid": 691121
+          },
+          {
+            "battery": 44,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.576196,
+            "longitude": 127.197521,
+            "providername": "socarelecle",
+            "vehicleid": 650080
+          },
+          {
+            "battery": 32,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.488649,
+            "longitude": 127.308947,
+            "providername": "socarelecle",
+            "vehicleid": 622156
+          },
+          {
+            "battery": 7,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.456584,
+            "longitude": 127.307834,
+            "providername": "socarelecle",
+            "vehicleid": 606283
+          },
+          {
+            "battery": 86,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.415242,
+            "longitude": 127.267468,
+            "providername": "socarelecle",
+            "vehicleid": 669306
+          },
+          {
+            "battery": 16,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.571223,
+            "longitude": 127.160959,
+            "providername": "socarelecle",
+            "vehicleid": 648447
+          },
+          {
+            "battery": 59,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.599788,
+            "longitude": 127.314869,
+            "providername": "socarelecle",
+            "vehicleid": 646013
+          },
+          {
+            "battery": 29,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.482668,
+            "longitude": 127.342607,
+            "providername": "socarelecle",
+            "vehicleid": 650468
+          },
+          {
+            "battery": 81,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.42653,
+            "longitude": 127.301694,
+            "providername": "socarelecle",
+            "vehicleid": 631272
+          },
+          {
+            "battery": 35,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.53565,
+            "longitude": 127.241788,
+            "providername": "socarelecle",
+            "vehicleid": 627650
+          },
+          {
+            "battery": 46,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.447559,
+            "longitude": 127.163483,
+            "providername": "socarelecle",
+            "vehicleid": 699894
+          },
+          {
+            "battery": 93,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.562376,
+            "longitude": 127.138963,
+            "providername": "socarelecle",
+            "vehicleid": 663294
+          },
+          {
+            "battery": 93,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.544759,
+            "longitude": 127.219827,
+            "providername": "socarelecle",
+            "vehicleid": 643204
+          },
+          {
+            "battery": 15,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.446986,
+            "longitude": 127.215658,
+            "providername": "socarelecle",
+            "vehicleid": 682163
+          },
+          {
+            "battery": 96,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.511109,
+            "longitude": 127.189185,
+            "providername": "socarelecle",
+            "vehicleid": 635735
+          },
+          {
+            "battery": 12,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.446053,
+            "longitude": 127.239605,
+            "providername": "socarelecle",
+            "vehicleid": 686726
+          },
+          {
+            "battery": 98,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.496923,
+            "longitude": 127.189607,
+            "providername": "socarelecle",
+            "vehicleid": 610478
+          },
+          {
+            "battery": 86,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.514522,
+            "longitude": 127.196308,
+            "providername": "socarelecle",
+            "vehicleid": 673579
+          },
+          {
+            "battery": 100,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.502129,
+            "longitude": 127.362007,
+            "providername": "socarelecle",
+            "vehicleid": 631225
+          },
+          {
+            "battery": 34,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.499219,
+            "longitude": 127.335789,
+            "providername": "socarelecle",
+            "vehicleid": 685508
+          },
+          {
+            "battery": 84,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.548513,
+            "longitude": 127.183969,
+            "providername": "socarelecle",
+            "vehicleid": 672535
+          },
+          {
+            "battery": 14,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.446934,
+            "longitude": 127.206678,
+            "providername": "socarelecle",
+            "vehicleid": 648140
+          },
+          {
+            "battery": 21,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.543936,
+            "longitude": 127.133542,
+            "providername": "socarelecle",
+            "vehicleid": 659438
+          },
+          {
+            "battery": 17,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.483888,
+            "longitude": 127.255031,
+            "providername": "socarelecle",
+            "vehicleid": 641473
+          },
+          {
+            "battery": 37,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.566769,
+            "longitude": 127.305617,
+            "providername": "socarelecle",
+            "vehicleid": 691681
+          },
+          {
+            "battery": 26,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.576462,
+            "longitude": 127.187487,
+            "providername": "socarelecle",
+            "vehicleid": 684339
+          },
+          {
+            "battery": 1,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.554073,
+            "longitude": 127.129215,
+            "providername": "socarelecle",
+            "vehicleid": 676879
+          },
+          {
+            "battery": 1,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.57435,
+            "longitude": 127.204505,
+            "providername": "socarelecle",
+            "vehicleid": 668068
+          },
+          {
+            "battery": 14,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.56728,
+            "longitude": 127.366471,
+            "providername": "socarelecle",
+            "vehicleid": 616112
+          },
+          {
+            "battery": 63,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.549419,
+            "longitude": 127.264605,
+            "providername": "socarelecle",
+            "vehicleid": 628051
+          },
+          {
+            "battery": 89,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.462081,
+            "longitude": 127.20499,
+            "providername": "socarelecle",
+            "vehicleid": 661056
+          },
+          {
+            "battery": 6,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.557867,
+            "longitude": 127.221553,
+            "providername": "socarelecle",
+            "vehicleid": 643327
+          },
+          {
+            "battery": 42,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.559866,
+            "longitude": 127.129238,
+            "providername": "socarelecle",
+            "vehicleid": 679183
+          },
+          {
+            "battery": 88,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.519098,
+            "longitude": 127.356542,
+            "providername": "socarelecle",
+            "vehicleid": 696526
+          },
+          {
+            "battery": 38,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.484246,
+            "longitude": 127.145449,
+            "providername": "socarelecle",
+            "vehicleid": 641129
+          },
+          {
+            "battery": 17,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.488028,
+            "longitude": 127.27233,
+            "providername": "socarelecle",
+            "vehicleid": 696382
+          },
+          {
+            "battery": 48,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.49009,
+            "longitude": 127.278863,
+            "providername": "socarelecle",
+            "vehicleid": 644330
+          },
+          {
+            "battery": 95,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.529173,
+            "longitude": 127.191082,
+            "providername": "socarelecle",
+            "vehicleid": 626418
+          },
+          {
+            "battery": 29,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.518359,
+            "longitude": 127.296582,
+            "providername": "socarelecle",
+            "vehicleid": 602388
           },
           {
             "battery": 67,
             "citycode": 12,
             "cityname": "세종특별시",
-            "latitude": 36.439106,
-            "longitude": 127.187727,
+            "latitude": 36.464998,
+            "longitude": 127.275324,
             "providername": "socarelecle",
-            "vehicleid": 610739
+            "vehicleid": 614646
+          },
+          {
+            "battery": 1,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.544279,
+            "longitude": 127.198532,
+            "providername": "socarelecle",
+            "vehicleid": 608984
+          },
+          {
+            "battery": 41,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.578251,
+            "longitude": 127.206526,
+            "providername": "socarelecle",
+            "vehicleid": 672761
+          },
+          {
+            "battery": 27,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.419176,
+            "longitude": 127.361343,
+            "providername": "socarelecle",
+            "vehicleid": 633638
+          },
+          {
+            "battery": 36,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.407439,
+            "longitude": 127.215971,
+            "providername": "socarelecle",
+            "vehicleid": 669665
+          },
+          {
+            "battery": 20,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.555798,
+            "longitude": 127.161558,
+            "providername": "socarelecle",
+            "vehicleid": 654771
+          },
+          {
+            "battery": 15,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.479153,
+            "longitude": 127.185424,
+            "providername": "socarelecle",
+            "vehicleid": 641992
+          },
+          {
+            "battery": 100,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.592536,
+            "longitude": 127.250328,
+            "providername": "socarelecle",
+            "vehicleid": 650577
+          },
+          {
+            "battery": 15,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.580779,
+            "longitude": 127.304353,
+            "providername": "socarelecle",
+            "vehicleid": 667569
+          },
+          {
+            "battery": 25,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.433748,
+            "longitude": 127.160791,
+            "providername": "socarelecle",
+            "vehicleid": 631824
+          },
+          {
+            "battery": 63,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.554588,
+            "longitude": 127.363713,
+            "providername": "socarelecle",
+            "vehicleid": 648725
+          },
+          {
+            "battery": 4,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.533132,
+            "longitude": 127.25679,
+            "providername": "socarelecle",
+            "vehicleid": 679395
+          },
+          {
+            "battery": 15,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.493865,
+            "longitude": 127.34484,
+            "providername": "socarelecle",
+            "vehicleid": 611492
+          },
+          {
+            "battery": 26,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.498828,
+            "longitude": 127.326196,
+            "providername": "socarelecle",
+            "vehicleid": 691059
+          },
+          {
+            "battery": 24,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.410366,
+            "longitude": 127.265832,
+            "providername": "socarelecle",
+            "vehicleid": 629991
+          },
+          {
+            "battery": 28,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.416529,
+            "longitude": 127.322513,
+            "providername": "socarelecle",
+            "vehicleid": 634206
+          },
+          {
+            "battery": 14,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.469816,
+            "longitude": 127.258484,
+            "providername": "socarelecle",
+            "vehicleid": 661769
+          },
+          {
+            "battery": 95,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.503432,
+            "longitude": 127.17913,
+            "providername": "socarelecle",
+            "vehicleid": 681692
+          },
+          {
+            "battery": 20,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.591135,
+            "longitude": 127.19142,
+            "providername": "socarelecle",
+            "vehicleid": 665961
+          },
+          {
+            "battery": 84,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.431122,
+            "longitude": 127.166946,
+            "providername": "socarelecle",
+            "vehicleid": 648858
+          },
+          {
+            "battery": 31,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.571047,
+            "longitude": 127.308573,
+            "providername": "socarelecle",
+            "vehicleid": 637392
+          },
+          {
+            "battery": 76,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.438452,
+            "longitude": 127.321151,
+            "providername": "socarelecle",
+            "vehicleid": 634955
+          },
+          {
+            "battery": 25,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.489116,
+            "longitude": 127.199531,
+            "providername": "socarelecle",
+            "vehicleid": 660049
+          },
+          {
+            "battery": 71,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.454886,
+            "longitude": 127.168177,
+            "providername": "socarelecle",
+            "vehicleid": 638389
+          },
+          {
+            "battery": 61,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.593246,
+            "longitude": 127.162326,
+            "providername": "socarelecle",
+            "vehicleid": 641296
           },
           {
             "battery": 60,
             "citycode": 12,
             "cityname": "세종특별시",
-            "latitude": 36.418015,
-            "longitude": 127.142523,
+            "latitude": 36.57647,
+            "longitude": 127.208814,
             "providername": "socarelecle",
-            "vehicleid": 627182
+            "vehicleid": 606118
+          },
+          {
+            "battery": 44,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.455381,
+            "longitude": 127.198866,
+            "providername": "socarelecle",
+            "vehicleid": 642153
+          },
+          {
+            "battery": 64,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.581892,
+            "longitude": 127.35032,
+            "providername": "socarelecle",
+            "vehicleid": 667100
+          },
+          {
+            "battery": 73,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.51718,
+            "longitude": 127.308441,
+            "providername": "socarelecle",
+            "vehicleid": 686819
+          },
+          {
+            "battery": 94,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.46601,
+            "longitude": 127.357021,
+            "providername": "socarelecle",
+            "vehicleid": 674222
+          },
+          {
+            "battery": 24,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.57434,
+            "longitude": 127.194037,
+            "providername": "socarelecle",
+            "vehicleid": 671904
+          },
+          {
+            "battery": 51,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.429724,
+            "longitude": 127.36593,
+            "providername": "socarelecle",
+            "vehicleid": 655697
+          },
+          {
+            "battery": 52,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.484724,
+            "longitude": 127.164738,
+            "providername": "socarelecle",
+            "vehicleid": 632890
+          },
+          {
+            "battery": 76,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.505831,
+            "longitude": 127.211974,
+            "providername": "socarelecle",
+            "vehicleid": 601792
+          },
+          {
+            "battery": 10,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.474449,
+            "longitude": 127.345538,
+            "providername": "socarelecle",
+            "vehicleid": 649378
+          },
+          {
+            "battery": 69,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.506391,
+            "longitude": 127.343205,
+            "providername": "socarelecle",
+            "vehicleid": 609593
+          },
+          {
+            "battery": 44,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.535405,
+            "longitude": 127.321409,
+            "providername": "socarelecle",
+            "vehicleid": 644245
+          },
+          {
+            "battery": 90,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.457335,
+            "longitude": 127.344643,
+            "providername": "socarelecle",
+            "vehicleid": 621769
+          },
+          {
+            "battery": 25,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.573053,
+            "longitude": 127.138562,
+            "providername": "socarelecle",
+            "vehicleid": 697484
+          },
+          {
+            "battery": 28,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.542664,
+            "longitude": 127.213394,
+            "providername": "socarelecle",
+            "vehicleid": 643117
+          },
+          {
+            "battery": 14,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.491665,
+            "longitude": 127.293995,
+            "providername": "socarelecle",
+            "vehicleid": 602834
+          },
+          {
+            "battery": 76,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.553905,
+            "longitude": 127.232974,
+            "providername": "socarelecle",
+            "vehicleid": 634587
+          },
+          {
+            "battery": 35,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.555023,
+            "longitude": 127.184506,
+            "providername": "socarelecle",
+            "vehicleid": 610628
+          },
+          {
+            "battery": 69,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.419534,
+            "longitude": 127.138948,
+            "providername": "socarelecle",
+            "vehicleid": 637169
+          },
+          {
+            "battery": 4,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.444311,
+            "longitude": 127.289852,
+            "providername": "socarelecle",
+            "vehicleid": 602669
+          },
+          {
+            "battery": 66,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.501678,
+            "longitude": 127.147354,
+            "providername": "socarelecle",
+            "vehicleid": 614765
+          },
+          {
+            "battery": 38,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.43166,
+            "longitude": 127.273788,
+            "providername": "socarelecle",
+            "vehicleid": 686471
+          },
+          {
+            "battery": 87,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.475375,
+            "longitude": 127.305167,
+            "providername": "socarelecle",
+            "vehicleid": 636793
+          },
+          {
+            "battery": 15,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.409191,
+            "longitude": 127.291128,
+            "providername": "socarelecle",
+            "vehicleid": 621041
           },
           {
             "battery": 83,
             "citycode": 12,
             "cityname": "세종특별시",
-            "latitude": 36.544663,
-            "longitude": 127.197552,
+            "latitude": 36.540755,
+            "longitude": 127.201953,
             "providername": "socarelecle",
-            "vehicleid": 675333
+            "vehicleid": 628040
+          },
+          {
+            "battery": 33,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.482865,
+            "longitude": 127.295991,
+            "providername": "socarelecle",
+            "vehicleid": 698125
+          },
+          {
+            "battery": 100,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.478544,
+            "longitude": 127.212622,
+            "providername": "socarelecle",
+            "vehicleid": 661978
+          },
+          {
+            "battery": 100,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.589116,
+            "longitude": 127.258399,
+            "providername": "socarelecle",
+            "vehicleid": 670681
+          },
+          {
+            "battery": 6,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.461631,
+            "longitude": 127.137896,
+            "providername": "socarelecle",
+            "vehicleid": 602127
+          },
+          {
+            "battery": 21,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.535064,
+            "longitude": 127.166032,
+            "providername": "socarelecle",
+            "vehicleid": 666102
+          },
+          {
+            "battery": 80,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.528875,
+            "longitude": 127.13002,
+            "providername": "socarelecle",
+            "vehicleid": 651292
+          },
+          {
+            "battery": 6,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.589225,
+            "longitude": 127.367485,
+            "providername": "socarelecle",
+            "vehicleid": 678457
+          },
+          {
+            "battery": 99,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.492174,
+            "longitude": 127.363282,
+            "providername": "socarelecle",
+            "vehicleid": 602151
+          },
+          {
+            "battery": 46,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.568476,
+            "longitude": 127.333011,
+            "providername": "socarelecle",
+            "vehicleid": 683415
+          },
+          {
+            "battery": 44,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.598411,
+            "longitude": 127.230923,
+            "providername": "socarelecle",
+            "vehicleid": 608543
+          },
+          {
+            "battery": 55,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.503248,
+            "longitude": 127.364065,
+            "providername": "socarelecle",
+            "vehicleid": 655145
+          },
+          {
+            "battery": 15,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.455342,
+            "longitude": 127.352567,
+            "providername": "socarelecle",
+            "vehicleid": 643907
+          },
+          {
+            "battery": 50,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.441622,
+            "longitude": 127.255184,
+            "providername": "socarelecle",
+            "vehicleid": 687118
+          },
+          {
+            "battery": 56,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.445305,
+            "longitude": 127.307801,
+            "providername": "socarelecle",
+            "vehicleid": 639546
+          },
+          {
+            "battery": 41,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.416091,
+            "longitude": 127.172497,
+            "providername": "socarelecle",
+            "vehicleid": 680934
+          },
+          {
+            "battery": 56,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.521111,
+            "longitude": 127.179576,
+            "providername": "socarelecle",
+            "vehicleid": 602470
+          },
+          {
+            "battery": 8,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.584084,
+            "longitude": 127.201863,
+            "providername": "socarelecle",
+            "vehicleid": 692636
+          },
+          {
+            "battery": 57,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.4283,
+            "longitude": 127.370071,
+            "providername": "socarelecle",
+            "vehicleid": 601708
+          },
+          {
+            "battery": 88,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.458638,
+            "longitude": 127.145807,
+            "providername": "socarelecle",
+            "vehicleid": 693392
+          },
+          {
+            "battery": 21,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.43991,
+            "longitude": 127.307274,
+            "providername": "socarelecle",
+            "vehicleid": 641873
+          },
+          {
+            "battery": 30,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.530662,
+            "longitude": 127.318717,
+            "providername": "socarelecle",
+            "vehicleid": 685594
+          },
+          {
+            "battery": 96,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.432775,
+            "longitude": 127.139538,
+            "providername": "socarelecle",
+            "vehicleid": 626342
+          },
+          {
+            "battery": 41,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.412948,
+            "longitude": 127.255298,
+            "providername": "socarelecle",
+            "vehicleid": 655814
+          },
+          {
+            "battery": 33,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.423994,
+            "longitude": 127.235645,
+            "providername": "socarelecle",
+            "vehicleid": 654412
+          },
+          {
+            "battery": 66,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.479446,
+            "longitude": 127.329966,
+            "providername": "socarelecle",
+            "vehicleid": 698334
+          },
+          {
+            "battery": 97,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.569812,
+            "longitude": 127.361401,
+            "providername": "socarelecle",
+            "vehicleid": 641315
+          },
+          {
+            "battery": 43,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.565631,
+            "longitude": 127.186643,
+            "providername": "socarelecle",
+            "vehicleid": 691180
+          },
+          {
+            "battery": 61,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.491608,
+            "longitude": 127.139693,
+            "providername": "socarelecle",
+            "vehicleid": 669868
+          },
+          {
+            "battery": 98,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.578182,
+            "longitude": 127.33829,
+            "providername": "socarelecle",
+            "vehicleid": 647718
+          },
+          {
+            "battery": 20,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.411034,
+            "longitude": 127.359073,
+            "providername": "socarelecle",
+            "vehicleid": 689792
+          },
+          {
+            "battery": 58,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.488795,
+            "longitude": 127.195441,
+            "providername": "socarelecle",
+            "vehicleid": 602641
+          },
+          {
+            "battery": 33,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.526191,
+            "longitude": 127.187755,
+            "providername": "socarelecle",
+            "vehicleid": 657098
+          },
+          {
+            "battery": 60,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.5595,
+            "longitude": 127.189896,
+            "providername": "socarelecle",
+            "vehicleid": 661454
+          },
+          {
+            "battery": 99,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.511803,
+            "longitude": 127.318162,
+            "providername": "socarelecle",
+            "vehicleid": 634538
+          },
+          {
+            "battery": 57,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.4735,
+            "longitude": 127.263484,
+            "providername": "socarelecle",
+            "vehicleid": 608025
+          },
+          {
+            "battery": 15,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.59819,
+            "longitude": 127.356017,
+            "providername": "socarelecle",
+            "vehicleid": 607547
+          },
+          {
+            "battery": 66,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.561345,
+            "longitude": 127.26706,
+            "providername": "socarelecle",
+            "vehicleid": 650028
+          },
+          {
+            "battery": 97,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.499455,
+            "longitude": 127.168408,
+            "providername": "socarelecle",
+            "vehicleid": 629390
+          },
+          {
+            "battery": 44,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.408414,
+            "longitude": 127.28179,
+            "providername": "socarelecle",
+            "vehicleid": 680242
+          },
+          {
+            "battery": 57,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.438749,
+            "longitude": 127.24632,
+            "providername": "socarelecle",
+            "vehicleid": 660232
+          },
+          {
+            "battery": 64,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.564564,
+            "longitude": 127.2812,
+            "providername": "socarelecle",
+            "vehicleid": 626316
+          },
+          {
+            "battery": 33,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.418429,
+            "longitude": 127.367485,
+            "providername": "socarelecle",
+            "vehicleid": 696636
+          },
+          {
+            "battery": 3,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.493225,
+            "longitude": 127.212177,
+            "providername": "socarelecle",
+            "vehicleid": 670524
+          },
+          {
+            "battery": 45,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.490255,
+            "longitude": 127.312428,
+            "providername": "socarelecle",
+            "vehicleid": 687915
+          },
+          {
+            "battery": 100,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.578487,
+            "longitude": 127.320005,
+            "providername": "socarelecle",
+            "vehicleid": 652869
+          },
+          {
+            "battery": 27,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.477437,
+            "longitude": 127.22031,
+            "providername": "socarelecle",
+            "vehicleid": 691779
+          },
+          {
+            "battery": 72,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.524487,
+            "longitude": 127.310407,
+            "providername": "socarelecle",
+            "vehicleid": 677526
+          },
+          {
+            "battery": 25,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.530111,
+            "longitude": 127.254185,
+            "providername": "socarelecle",
+            "vehicleid": 679157
+          },
+          {
+            "battery": 87,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.472752,
+            "longitude": 127.328561,
+            "providername": "socarelecle",
+            "vehicleid": 670410
+          },
+          {
+            "battery": 21,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.552753,
+            "longitude": 127.339089,
+            "providername": "socarelecle",
+            "vehicleid": 644971
+          },
+          {
+            "battery": 29,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.486451,
+            "longitude": 127.293332,
+            "providername": "socarelecle",
+            "vehicleid": 635208
+          },
+          {
+            "battery": 4,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.501292,
+            "longitude": 127.225982,
+            "providername": "socarelecle",
+            "vehicleid": 609038
+          },
+          {
+            "battery": 37,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.439834,
+            "longitude": 127.343425,
+            "providername": "socarelecle",
+            "vehicleid": 671802
+          },
+          {
+            "battery": 13,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.476147,
+            "longitude": 127.231063,
+            "providername": "socarelecle",
+            "vehicleid": 699926
+          },
+          {
+            "battery": 97,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.511544,
+            "longitude": 127.186012,
+            "providername": "socarelecle",
+            "vehicleid": 656527
+          },
+          {
+            "battery": 28,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.41365,
+            "longitude": 127.245239,
+            "providername": "socarelecle",
+            "vehicleid": 665708
+          },
+          {
+            "battery": 98,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.541529,
+            "longitude": 127.1291,
+            "providername": "socarelecle",
+            "vehicleid": 659019
+          },
+          {
+            "battery": 33,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.537471,
+            "longitude": 127.23831,
+            "providername": "socarelecle",
+            "vehicleid": 649328
+          },
+          {
+            "battery": 3,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.468576,
+            "longitude": 127.175943,
+            "providername": "socarelecle",
+            "vehicleid": 664584
+          },
+          {
+            "battery": 79,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.529769,
+            "longitude": 127.261826,
+            "providername": "socarelecle",
+            "vehicleid": 618697
+          },
+          {
+            "battery": 81,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.441652,
+            "longitude": 127.133084,
+            "providername": "socarelecle",
+            "vehicleid": 672145
+          },
+          {
+            "battery": 37,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.579984,
+            "longitude": 127.222937,
+            "providername": "socarelecle",
+            "vehicleid": 662645
+          },
+          {
+            "battery": 97,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.432159,
+            "longitude": 127.214643,
+            "providername": "socarelecle",
+            "vehicleid": 616832
+          },
+          {
+            "battery": 92,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.486898,
+            "longitude": 127.353925,
+            "providername": "socarelecle",
+            "vehicleid": 635667
+          },
+          {
+            "battery": 71,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.476631,
+            "longitude": 127.130526,
+            "providername": "socarelecle",
+            "vehicleid": 620112
+          },
+          {
+            "battery": 35,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.536805,
+            "longitude": 127.251184,
+            "providername": "socarelecle",
+            "vehicleid": 647616
+          },
+          {
+            "battery": 29,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.459008,
+            "longitude": 127.237107,
+            "providername": "socarelecle",
+            "vehicleid": 663542
+          },
+          {
+            "battery": 65,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.50997,
+            "longitude": 127.251419,
+            "providername": "socarelecle",
+            "vehicleid": 690618
+          },
+          {
+            "battery": 61,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.557594,
+            "longitude": 127.179478,
+            "providername": "socarelecle",
+            "vehicleid": 698066
+          },
+          {
+            "battery": 82,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.444567,
+            "longitude": 127.369032,
+            "providername": "socarelecle",
+            "vehicleid": 687049
+          },
+          {
+            "battery": 63,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.42208,
+            "longitude": 127.332149,
+            "providername": "socarelecle",
+            "vehicleid": 609766
+          },
+          {
+            "battery": 89,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.47948,
+            "longitude": 127.203314,
+            "providername": "socarelecle",
+            "vehicleid": 609219
+          },
+          {
+            "battery": 70,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.500036,
+            "longitude": 127.149425,
+            "providername": "socarelecle",
+            "vehicleid": 673301
+          },
+          {
+            "battery": 75,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.438525,
+            "longitude": 127.155469,
+            "providername": "socarelecle",
+            "vehicleid": 623241
+          },
+          {
+            "battery": 34,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.593103,
+            "longitude": 127.162437,
+            "providername": "socarelecle",
+            "vehicleid": 695527
+          },
+          {
+            "battery": 28,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.45315,
+            "longitude": 127.188776,
+            "providername": "socarelecle",
+            "vehicleid": 679102
+          },
+          {
+            "battery": 15,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.542059,
+            "longitude": 127.139633,
+            "providername": "socarelecle",
+            "vehicleid": 609000
+          },
+          {
+            "battery": 59,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.409844,
+            "longitude": 127.269535,
+            "providername": "socarelecle",
+            "vehicleid": 651880
+          },
+          {
+            "battery": 53,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.58245,
+            "longitude": 127.167063,
+            "providername": "socarelecle",
+            "vehicleid": 632720
+          },
+          {
+            "battery": 79,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.488381,
+            "longitude": 127.131742,
+            "providername": "socarelecle",
+            "vehicleid": 620713
+          },
+          {
+            "battery": 77,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.480784,
+            "longitude": 127.209059,
+            "providername": "socarelecle",
+            "vehicleid": 639923
+          },
+          {
+            "battery": 57,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.465421,
+            "longitude": 127.135518,
+            "providername": "socarelecle",
+            "vehicleid": 656677
+          },
+          {
+            "battery": 37,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.565764,
+            "longitude": 127.340902,
+            "providername": "socarelecle",
+            "vehicleid": 610328
+          },
+          {
+            "battery": 11,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.534669,
+            "longitude": 127.364944,
+            "providername": "socarelecle",
+            "vehicleid": 611707
+          },
+          {
+            "battery": 89,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.50912,
+            "longitude": 127.225574,
+            "providername": "socarelecle",
+            "vehicleid": 679971
+          },
+          {
+            "battery": 6,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.458448,
+            "longitude": 127.260389,
+            "providername": "socarelecle",
+            "vehicleid": 637987
+          },
+          {
+            "battery": 69,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.415054,
+            "longitude": 127.208904,
+            "providername": "socarelecle",
+            "vehicleid": 655678
+          },
+          {
+            "battery": 74,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.562637,
+            "longitude": 127.349545,
+            "providername": "socarelecle",
+            "vehicleid": 677963
+          },
+          {
+            "battery": 16,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.528171,
+            "longitude": 127.324096,
+            "providername": "socarelecle",
+            "vehicleid": 602490
+          },
+          {
+            "battery": 94,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.431443,
+            "longitude": 127.326363,
+            "providername": "socarelecle",
+            "vehicleid": 668224
+          },
+          {
+            "battery": 96,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.420325,
+            "longitude": 127.269041,
+            "providername": "socarelecle",
+            "vehicleid": 652452
+          },
+          {
+            "battery": 26,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.444996,
+            "longitude": 127.196983,
+            "providername": "socarelecle",
+            "vehicleid": 696671
+          },
+          {
+            "battery": 51,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.588345,
+            "longitude": 127.137575,
+            "providername": "socarelecle",
+            "vehicleid": 622767
+          },
+          {
+            "battery": 40,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.526058,
+            "longitude": 127.357877,
+            "providername": "socarelecle",
+            "vehicleid": 635412
+          },
+          {
+            "battery": 4,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.535707,
+            "longitude": 127.153109,
+            "providername": "socarelecle",
+            "vehicleid": 636109
+          },
+          {
+            "battery": 15,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.434182,
+            "longitude": 127.236683,
+            "providername": "socarelecle",
+            "vehicleid": 647927
+          },
+          {
+            "battery": 6,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.548695,
+            "longitude": 127.189755,
+            "providername": "socarelecle",
+            "vehicleid": 684991
+          },
+          {
+            "battery": 90,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.591337,
+            "longitude": 127.315383,
+            "providername": "socarelecle",
+            "vehicleid": 629943
+          },
+          {
+            "battery": 30,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.561368,
+            "longitude": 127.15157,
+            "providername": "socarelecle",
+            "vehicleid": 680282
+          },
+          {
+            "battery": 16,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.470424,
+            "longitude": 127.307712,
+            "providername": "socarelecle",
+            "vehicleid": 666918
+          },
+          {
+            "battery": 85,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.538088,
+            "longitude": 127.162584,
+            "providername": "socarelecle",
+            "vehicleid": 690225
+          },
+          {
+            "battery": 20,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.493025,
+            "longitude": 127.24423,
+            "providername": "socarelecle",
+            "vehicleid": 695137
+          },
+          {
+            "battery": 74,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.512757,
+            "longitude": 127.215229,
+            "providername": "socarelecle",
+            "vehicleid": 631227
+          },
+          {
+            "battery": 22,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.562642,
+            "longitude": 127.186296,
+            "providername": "socarelecle",
+            "vehicleid": 674396
+          },
+          {
+            "battery": 48,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.432723,
+            "longitude": 127.166892,
+            "providername": "socarelecle",
+            "vehicleid": 692934
+          },
+          {
+            "battery": 18,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.476278,
+            "longitude": 127.351979,
+            "providername": "socarelecle",
+            "vehicleid": 600973
+          },
+          {
+            "battery": 10,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.555447,
+            "longitude": 127.306226,
+            "providername": "socarelecle",
+            "vehicleid": 680125
+          },
+          {
+            "battery": 74,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.470736,
+            "longitude": 127.33924,
+            "providername": "socarelecle",
+            "vehicleid": 699954
+          },
+          {
+            "battery": 88,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.512436,
+            "longitude": 127.188356,
+            "providername": "socarelecle",
+            "vehicleid": 681182
+          },
+          {
+            "battery": 37,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.596275,
+            "longitude": 127.270863,
+            "providername": "socarelecle",
+            "vehicleid": 669864
+          },
+          {
+            "battery": 89,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.448648,
+            "longitude": 127.36393,
+            "providername": "socarelecle",
+            "vehicleid": 600128
+          },
+          {
+            "battery": 13,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.437632,
+            "longitude": 127.202822,
+            "providername": "socarelecle",
+            "vehicleid": 643034
+          },
+          {
+            "battery": 30,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.504411,
+            "longitude": 127.216788,
+            "providername": "socarelecle",
+            "vehicleid": 642632
+          },
+          {
+            "battery": 50,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.575086,
+            "longitude": 127.154823,
+            "providername": "socarelecle",
+            "vehicleid": 680584
+          },
+          {
+            "battery": 65,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.413166,
+            "longitude": 127.223935,
+            "providername": "socarelecle",
+            "vehicleid": 660710
+          },
+          {
+            "battery": 77,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.426711,
+            "longitude": 127.167253,
+            "providername": "socarelecle",
+            "vehicleid": 617948
+          },
+          {
+            "battery": 60,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.509654,
+            "longitude": 127.352618,
+            "providername": "socarelecle",
+            "vehicleid": 638673
+          },
+          {
+            "battery": 93,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.582302,
+            "longitude": 127.232801,
+            "providername": "socarelecle",
+            "vehicleid": 644425
+          },
+          {
+            "battery": 27,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.583487,
+            "longitude": 127.340608,
+            "providername": "socarelecle",
+            "vehicleid": 648272
+          },
+          {
+            "battery": 11,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.456256,
+            "longitude": 127.320338,
+            "providername": "socarelecle",
+            "vehicleid": 611407
+          },
+          {
+            "battery": 35,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.579242,
+            "longitude": 127.134083,
+            "providername": "socarelecle",
+            "vehicleid": 680611
           }
         ]
       },
-      "numOfRows": 254,
+      "numOfRows": 249,
       "pageNo": 1,
-      "totalCount": 254
+      "totalCount": 249
     }
   }
 }
