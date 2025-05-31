@@ -1,0 +1,2528 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "battery": 76,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.590355,
+            "longitude": 127.28847,
+            "providername": "ALPACA",
+            "vehicleid": 425304
+          },
+          {
+            "battery": 51,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.59295,
+            "longitude": 127.28695,
+            "providername": "ALPACA",
+            "vehicleid": 425249
+          },
+          {
+            "battery": 100,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.593075,
+            "longitude": 127.28478,
+            "providername": "ALPACA",
+            "vehicleid": 425192
+          },
+          {
+            "battery": 96,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.59309,
+            "longitude": 127.284775,
+            "providername": "ALPACA",
+            "vehicleid": 424689
+          },
+          {
+            "battery": 67,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.5931,
+            "longitude": 127.28478,
+            "providername": "ALPACA",
+            "vehicleid": 424929
+          },
+          {
+            "battery": 99,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.593124,
+            "longitude": 127.28481,
+            "providername": "ALPACA",
+            "vehicleid": 426499
+          },
+          {
+            "battery": 59,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.593513,
+            "longitude": 127.284584,
+            "providername": "ALPACA",
+            "vehicleid": 425971
+          },
+          {
+            "battery": 50,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.593533,
+            "longitude": 127.300674,
+            "providername": "ALPACA",
+            "vehicleid": 424364
+          },
+          {
+            "battery": 71,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.59443,
+            "longitude": 127.2845,
+            "providername": "ALPACA",
+            "vehicleid": 424603
+          },
+          {
+            "battery": 66,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.594627,
+            "longitude": 127.28464,
+            "providername": "ALPACA",
+            "vehicleid": 425172
+          },
+          {
+            "battery": 89,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.594997,
+            "longitude": 127.28126,
+            "providername": "ALPACA",
+            "vehicleid": 425431
+          },
+          {
+            "battery": 94,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.5952,
+            "longitude": 127.293106,
+            "providername": "ALPACA",
+            "vehicleid": 424713
+          },
+          {
+            "battery": 47,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.595284,
+            "longitude": 127.29324,
+            "providername": "ALPACA",
+            "vehicleid": 424007
+          },
+          {
+            "battery": 41,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.595486,
+            "longitude": 127.29473,
+            "providername": "ALPACA",
+            "vehicleid": 426380
+          },
+          {
+            "battery": 52,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.59718,
+            "longitude": 127.301254,
+            "providername": "ALPACA",
+            "vehicleid": 426180
+          },
+          {
+            "battery": 93,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.59724,
+            "longitude": 127.29849,
+            "providername": "ALPACA",
+            "vehicleid": 425308
+          },
+          {
+            "battery": 66,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.59736,
+            "longitude": 127.29267,
+            "providername": "ALPACA",
+            "vehicleid": 418873
+          },
+          {
+            "battery": 94,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.599102,
+            "longitude": 127.2901,
+            "providername": "ALPACA",
+            "vehicleid": 424649
+          },
+          {
+            "battery": 59,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.600956,
+            "longitude": 127.29424,
+            "providername": "ALPACA",
+            "vehicleid": 425444
+          },
+          {
+            "battery": 74,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.60113,
+            "longitude": 127.29508,
+            "providername": "ALPACA",
+            "vehicleid": 424434
+          },
+          {
+            "battery": 61,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.601177,
+            "longitude": 127.295,
+            "providername": "ALPACA",
+            "vehicleid": 424440
+          },
+          {
+            "battery": 63,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.601227,
+            "longitude": 127.2893,
+            "providername": "ALPACA",
+            "vehicleid": 425210
+          },
+          {
+            "battery": 66,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.601303,
+            "longitude": 127.30257,
+            "providername": "ALPACA",
+            "vehicleid": 425273
+          },
+          {
+            "battery": 73,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.601315,
+            "longitude": 127.29497,
+            "providername": "ALPACA",
+            "vehicleid": 424465
+          },
+          {
+            "battery": 89,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.60136,
+            "longitude": 127.294945,
+            "providername": "ALPACA",
+            "vehicleid": 425909
+          },
+          {
+            "battery": 50,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.601475,
+            "longitude": 127.294975,
+            "providername": "ALPACA",
+            "vehicleid": 425512
+          },
+          {
+            "battery": 85,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.60173,
+            "longitude": 127.29492,
+            "providername": "ALPACA",
+            "vehicleid": 424604
+          },
+          {
+            "battery": 95,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.60181,
+            "longitude": 127.294815,
+            "providername": "ALPACA",
+            "vehicleid": 426443
+          },
+          {
+            "battery": 56,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.60191,
+            "longitude": 127.29495,
+            "providername": "ALPACA",
+            "vehicleid": 424946
+          },
+          {
+            "battery": 85,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.601955,
+            "longitude": 127.294945,
+            "providername": "ALPACA",
+            "vehicleid": 426363
+          },
+          {
+            "battery": 57,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.601994,
+            "longitude": 127.29498,
+            "providername": "ALPACA",
+            "vehicleid": 424480
+          },
+          {
+            "battery": 59,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.602093,
+            "longitude": 127.29464,
+            "providername": "ALPACA",
+            "vehicleid": 410327
+          },
+          {
+            "battery": 95,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.60258,
+            "longitude": 127.28973,
+            "providername": "ALPACA",
+            "vehicleid": 425320
+          },
+          {
+            "battery": 91,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.60259,
+            "longitude": 127.28973,
+            "providername": "ALPACA",
+            "vehicleid": 424693
+          },
+          {
+            "battery": 82,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.6026,
+            "longitude": 127.29469,
+            "providername": "ALPACA",
+            "vehicleid": 424406
+          },
+          {
+            "battery": 97,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.602634,
+            "longitude": 127.29465,
+            "providername": "ALPACA",
+            "vehicleid": 426274
+          },
+          {
+            "battery": 71,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.60275,
+            "longitude": 127.29472,
+            "providername": "ALPACA",
+            "vehicleid": 424438
+          },
+          {
+            "battery": 85,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.603394,
+            "longitude": 127.29468,
+            "providername": "ALPACA",
+            "vehicleid": 424442
+          },
+          {
+            "battery": 41,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.60347,
+            "longitude": 127.292786,
+            "providername": "ALPACA",
+            "vehicleid": 424322
+          },
+          {
+            "battery": 75,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.603615,
+            "longitude": 127.29394,
+            "providername": "ALPACA",
+            "vehicleid": 425042
+          },
+          {
+            "battery": 62,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.603703,
+            "longitude": 127.29102,
+            "providername": "ALPACA",
+            "vehicleid": 424419
+          },
+          {
+            "battery": 96,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.60374,
+            "longitude": 127.291405,
+            "providername": "ALPACA",
+            "vehicleid": 424634
+          },
+          {
+            "battery": 57,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.60381,
+            "longitude": 127.2968,
+            "providername": "ALPACA",
+            "vehicleid": 425726
+          },
+          {
+            "battery": 39,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.603855,
+            "longitude": 127.297676,
+            "providername": "ALPACA",
+            "vehicleid": 426429
+          },
+          {
+            "battery": 88,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.60409,
+            "longitude": 127.29284,
+            "providername": "ALPACA",
+            "vehicleid": 424123
+          },
+          {
+            "battery": 68,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.604736,
+            "longitude": 127.290924,
+            "providername": "ALPACA",
+            "vehicleid": 425191
+          },
+          {
+            "battery": 79,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.60493,
+            "longitude": 127.29743,
+            "providername": "ALPACA",
+            "vehicleid": 424628
+          },
+          {
+            "battery": 79,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.605457,
+            "longitude": 127.29413,
+            "providername": "ALPACA",
+            "vehicleid": 425746
+          },
+          {
+            "battery": 56,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.60592,
+            "longitude": 127.2922,
+            "providername": "ALPACA",
+            "vehicleid": 424898
+          },
+          {
+            "battery": 58,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.606335,
+            "longitude": 127.28974,
+            "providername": "ALPACA",
+            "vehicleid": 424853
+          },
+          {
+            "battery": 39,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.60678,
+            "longitude": 127.29386,
+            "providername": "ALPACA",
+            "vehicleid": 425575
+          },
+          {
+            "battery": 50,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.60682,
+            "longitude": 127.285736,
+            "providername": "ALPACA",
+            "vehicleid": 425727
+          },
+          {
+            "battery": 51,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.60686,
+            "longitude": 127.297005,
+            "providername": "ALPACA",
+            "vehicleid": 425377
+          },
+          {
+            "battery": 39,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.60727,
+            "longitude": 127.29228,
+            "providername": "ALPACA",
+            "vehicleid": 424897
+          },
+          {
+            "battery": 45,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.60863,
+            "longitude": 127.28922,
+            "providername": "ALPACA",
+            "vehicleid": 419517
+          },
+          {
+            "battery": 87,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.608646,
+            "longitude": 127.29348,
+            "providername": "ALPACA",
+            "vehicleid": 424289
+          },
+          {
+            "battery": 44,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.60869,
+            "longitude": 127.28373,
+            "providername": "ALPACA",
+            "vehicleid": 423908
+          },
+          {
+            "battery": 64,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.608692,
+            "longitude": 127.28377,
+            "providername": "ALPACA",
+            "vehicleid": 424945
+          },
+          {
+            "battery": 85,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.608696,
+            "longitude": 127.28384,
+            "providername": "ALPACA",
+            "vehicleid": 425374
+          },
+          {
+            "battery": 71,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.608707,
+            "longitude": 127.28372,
+            "providername": "ALPACA",
+            "vehicleid": 425043
+          },
+          {
+            "battery": 78,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.608738,
+            "longitude": 127.28375,
+            "providername": "ALPACA",
+            "vehicleid": 425248
+          },
+          {
+            "battery": 55,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.608746,
+            "longitude": 127.2892,
+            "providername": "ALPACA",
+            "vehicleid": 419679
+          },
+          {
+            "battery": 46,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.60876,
+            "longitude": 127.28374,
+            "providername": "ALPACA",
+            "vehicleid": 424633
+          },
+          {
+            "battery": 51,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.608765,
+            "longitude": 127.28381,
+            "providername": "ALPACA",
+            "vehicleid": 424894
+          },
+          {
+            "battery": 99,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.60877,
+            "longitude": 127.28894,
+            "providername": "ALPACA",
+            "vehicleid": 424688
+          },
+          {
+            "battery": 50,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.60878,
+            "longitude": 127.28386,
+            "providername": "ALPACA",
+            "vehicleid": 425467
+          },
+          {
+            "battery": 96,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.60878,
+            "longitude": 127.28893,
+            "providername": "ALPACA",
+            "vehicleid": 425421
+          },
+          {
+            "battery": 71,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.60878,
+            "longitude": 127.28383,
+            "providername": "ALPACA",
+            "vehicleid": 424412
+          },
+          {
+            "battery": 100,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.60878,
+            "longitude": 127.28892,
+            "providername": "ALPACA",
+            "vehicleid": 426389
+          },
+          {
+            "battery": 64,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.608784,
+            "longitude": 127.283844,
+            "providername": "ALPACA",
+            "vehicleid": 424889
+          },
+          {
+            "battery": 88,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.608784,
+            "longitude": 127.28381,
+            "providername": "ALPACA",
+            "vehicleid": 424986
+          },
+          {
+            "battery": 96,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.608784,
+            "longitude": 127.2889,
+            "providername": "ALPACA",
+            "vehicleid": 424468
+          },
+          {
+            "battery": 66,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.608788,
+            "longitude": 127.28385,
+            "providername": "ALPACA",
+            "vehicleid": 424361
+          },
+          {
+            "battery": 96,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.608795,
+            "longitude": 127.28908,
+            "providername": "ALPACA",
+            "vehicleid": 424567
+          },
+          {
+            "battery": 60,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.6088,
+            "longitude": 127.283844,
+            "providername": "ALPACA",
+            "vehicleid": 425550
+          },
+          {
+            "battery": 90,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.608803,
+            "longitude": 127.283844,
+            "providername": "ALPACA",
+            "vehicleid": 424831
+          },
+          {
+            "battery": 86,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.608803,
+            "longitude": 127.28387,
+            "providername": "ALPACA",
+            "vehicleid": 425564
+          },
+          {
+            "battery": 94,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.60881,
+            "longitude": 127.28375,
+            "providername": "ALPACA",
+            "vehicleid": 425063
+          },
+          {
+            "battery": 99,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.60881,
+            "longitude": 127.28908,
+            "providername": "ALPACA",
+            "vehicleid": 425170
+          },
+          {
+            "battery": 100,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.60881,
+            "longitude": 127.28906,
+            "providername": "ALPACA",
+            "vehicleid": 424423
+          },
+          {
+            "battery": 89,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.608818,
+            "longitude": 127.28906,
+            "providername": "ALPACA",
+            "vehicleid": 425018
+          },
+          {
+            "battery": 98,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.608818,
+            "longitude": 127.289085,
+            "providername": "ALPACA",
+            "vehicleid": 412392
+          },
+          {
+            "battery": 100,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.60882,
+            "longitude": 127.28908,
+            "providername": "ALPACA",
+            "vehicleid": 425428
+          },
+          {
+            "battery": 77,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.60882,
+            "longitude": 127.28386,
+            "providername": "ALPACA",
+            "vehicleid": 425406
+          },
+          {
+            "battery": 88,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.60883,
+            "longitude": 127.289085,
+            "providername": "ALPACA",
+            "vehicleid": 425340
+          },
+          {
+            "battery": 89,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.608833,
+            "longitude": 127.28907,
+            "providername": "ALPACA",
+            "vehicleid": 425937
+          },
+          {
+            "battery": 96,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.608833,
+            "longitude": 127.28907,
+            "providername": "ALPACA",
+            "vehicleid": 424985
+          },
+          {
+            "battery": 79,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.608837,
+            "longitude": 127.28906,
+            "providername": "ALPACA",
+            "vehicleid": 423633
+          },
+          {
+            "battery": 49,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.60892,
+            "longitude": 127.29174,
+            "providername": "ALPACA",
+            "vehicleid": 423900
+          },
+          {
+            "battery": 43,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.609062,
+            "longitude": 127.28245,
+            "providername": "ALPACA",
+            "vehicleid": 424387
+          },
+          {
+            "battery": 51,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.609074,
+            "longitude": 127.28225,
+            "providername": "ALPACA",
+            "vehicleid": 424939
+          },
+          {
+            "battery": 65,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.609085,
+            "longitude": 127.282234,
+            "providername": "ALPACA",
+            "vehicleid": 418759
+          },
+          {
+            "battery": 41,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.60922,
+            "longitude": 127.29344,
+            "providername": "ALPACA",
+            "vehicleid": 424957
+          },
+          {
+            "battery": 71,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.60933,
+            "longitude": 127.292656,
+            "providername": "ALPACA",
+            "vehicleid": 425410
+          },
+          {
+            "battery": 82,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.60948,
+            "longitude": 127.283905,
+            "providername": "ALPACA",
+            "vehicleid": 424568
+          },
+          {
+            "battery": 91,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.6095,
+            "longitude": 127.28395,
+            "providername": "ALPACA",
+            "vehicleid": 425699
+          },
+          {
+            "battery": 97,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.609512,
+            "longitude": 127.283966,
+            "providername": "ALPACA",
+            "vehicleid": 425748
+          },
+          {
+            "battery": 54,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.60952,
+            "longitude": 127.283875,
+            "providername": "ALPACA",
+            "vehicleid": 424530
+          },
+          {
+            "battery": 71,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.609524,
+            "longitude": 127.28395,
+            "providername": "ALPACA",
+            "vehicleid": 425338
+          },
+          {
+            "battery": 64,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.609604,
+            "longitude": 127.283936,
+            "providername": "ALPACA",
+            "vehicleid": 421982
+          },
+          {
+            "battery": 57,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.60966,
+            "longitude": 127.28499,
+            "providername": "ALPACA",
+            "vehicleid": 426482
+          },
+          {
+            "battery": 60,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.609665,
+            "longitude": 127.286934,
+            "providername": "ALPACA",
+            "vehicleid": 424851
+          },
+          {
+            "battery": 79,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.609703,
+            "longitude": 127.28503,
+            "providername": "ALPACA",
+            "vehicleid": 424464
+          },
+          {
+            "battery": 46,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.609707,
+            "longitude": 127.29099,
+            "providername": "ALPACA",
+            "vehicleid": 425675
+          },
+          {
+            "battery": 42,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.609707,
+            "longitude": 127.285,
+            "providername": "ALPACA",
+            "vehicleid": 425112
+          },
+          {
+            "battery": 94,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.609737,
+            "longitude": 127.28504,
+            "providername": "ALPACA",
+            "vehicleid": 424593
+          },
+          {
+            "battery": 62,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.609745,
+            "longitude": 127.28505,
+            "providername": "ALPACA",
+            "vehicleid": 424917
+          },
+          {
+            "battery": 100,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.60975,
+            "longitude": 127.284996,
+            "providername": "ALPACA",
+            "vehicleid": 424413
+          },
+          {
+            "battery": 57,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.609753,
+            "longitude": 127.28498,
+            "providername": "ALPACA",
+            "vehicleid": 425337
+          },
+          {
+            "battery": 93,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.60976,
+            "longitude": 127.28497,
+            "providername": "ALPACA",
+            "vehicleid": 425771
+          },
+          {
+            "battery": 99,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.609764,
+            "longitude": 127.284966,
+            "providername": "ALPACA",
+            "vehicleid": 425698
+          },
+          {
+            "battery": 82,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.6098,
+            "longitude": 127.28497,
+            "providername": "ALPACA",
+            "vehicleid": 418559
+          },
+          {
+            "battery": 41,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.60985,
+            "longitude": 127.28495,
+            "providername": "ALPACA",
+            "vehicleid": 425961
+          },
+          {
+            "battery": 45,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.609863,
+            "longitude": 127.284966,
+            "providername": "ALPACA",
+            "vehicleid": 425389
+          },
+          {
+            "battery": 58,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.610306,
+            "longitude": 127.293236,
+            "providername": "ALPACA",
+            "vehicleid": 423839
+          },
+          {
+            "battery": 90,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.61073,
+            "longitude": 127.2849,
+            "providername": "ALPACA",
+            "vehicleid": 424557
+          },
+          {
+            "battery": 62,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.610764,
+            "longitude": 127.29146,
+            "providername": "ALPACA",
+            "vehicleid": 424296
+          },
+          {
+            "battery": 96,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.610764,
+            "longitude": 127.29146,
+            "providername": "ALPACA",
+            "vehicleid": 425716
+          },
+          {
+            "battery": 96,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.610764,
+            "longitude": 127.29147,
+            "providername": "ALPACA",
+            "vehicleid": 425353
+          },
+          {
+            "battery": 46,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.610767,
+            "longitude": 127.2915,
+            "providername": "ALPACA",
+            "vehicleid": 425757
+          },
+          {
+            "battery": 67,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.610767,
+            "longitude": 127.29145,
+            "providername": "ALPACA",
+            "vehicleid": 425176
+          },
+          {
+            "battery": 98,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.610786,
+            "longitude": 127.29148,
+            "providername": "ALPACA",
+            "vehicleid": 424616
+          },
+          {
+            "battery": 59,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.61082,
+            "longitude": 127.29003,
+            "providername": "ALPACA",
+            "vehicleid": 426319
+          },
+          {
+            "battery": 53,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.611008,
+            "longitude": 127.29312,
+            "providername": "ALPACA",
+            "vehicleid": 424827
+          },
+          {
+            "battery": 39,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.611027,
+            "longitude": 127.28615,
+            "providername": "ALPACA",
+            "vehicleid": 424403
+          },
+          {
+            "battery": 96,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.611027,
+            "longitude": 127.29001,
+            "providername": "ALPACA",
+            "vehicleid": 425692
+          },
+          {
+            "battery": 94,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.61103,
+            "longitude": 127.2861,
+            "providername": "ALPACA",
+            "vehicleid": 424579
+          },
+          {
+            "battery": 77,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.61103,
+            "longitude": 127.28612,
+            "providername": "ALPACA",
+            "vehicleid": 424708
+          },
+          {
+            "battery": 59,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.61104,
+            "longitude": 127.290054,
+            "providername": "ALPACA",
+            "vehicleid": 424763
+          },
+          {
+            "battery": 61,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.611053,
+            "longitude": 127.28997,
+            "providername": "ALPACA",
+            "vehicleid": 426374
+          },
+          {
+            "battery": 97,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.611065,
+            "longitude": 127.29003,
+            "providername": "ALPACA",
+            "vehicleid": 425464
+          },
+          {
+            "battery": 65,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.61108,
+            "longitude": 127.29002,
+            "providername": "ALPACA",
+            "vehicleid": 424702
+          },
+          {
+            "battery": 94,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.611084,
+            "longitude": 127.28995,
+            "providername": "ALPACA",
+            "vehicleid": 424152
+          },
+          {
+            "battery": 66,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.611088,
+            "longitude": 127.29,
+            "providername": "ALPACA",
+            "vehicleid": 425682
+          },
+          {
+            "battery": 96,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.611088,
+            "longitude": 127.289955,
+            "providername": "ALPACA",
+            "vehicleid": 424706
+          },
+          {
+            "battery": 67,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.611095,
+            "longitude": 127.2899,
+            "providername": "ALPACA",
+            "vehicleid": 424888
+          },
+          {
+            "battery": 88,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.611115,
+            "longitude": 127.29011,
+            "providername": "ALPACA",
+            "vehicleid": 424885
+          },
+          {
+            "battery": 91,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.611126,
+            "longitude": 127.287285,
+            "providername": "ALPACA",
+            "vehicleid": 426479
+          },
+          {
+            "battery": 62,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.61113,
+            "longitude": 127.28994,
+            "providername": "ALPACA",
+            "vehicleid": 425232
+          },
+          {
+            "battery": 63,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.611134,
+            "longitude": 127.290054,
+            "providername": "ALPACA",
+            "vehicleid": 424425
+          },
+          {
+            "battery": 98,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.611145,
+            "longitude": 127.28714,
+            "providername": "ALPACA",
+            "vehicleid": 424564
+          },
+          {
+            "battery": 38,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.61115,
+            "longitude": 127.289986,
+            "providername": "ALPACA",
+            "vehicleid": 425161
+          },
+          {
+            "battery": 71,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.611156,
+            "longitude": 127.29007,
+            "providername": "ALPACA",
+            "vehicleid": 424836
+          },
+          {
+            "battery": 76,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.61116,
+            "longitude": 127.2899,
+            "providername": "ALPACA",
+            "vehicleid": 425728
+          },
+          {
+            "battery": 80,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.611164,
+            "longitude": 127.28995,
+            "providername": "ALPACA",
+            "vehicleid": 426317
+          },
+          {
+            "battery": 85,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.61118,
+            "longitude": 127.28735,
+            "providername": "ALPACA",
+            "vehicleid": 425230
+          },
+          {
+            "battery": 76,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.61118,
+            "longitude": 127.28733,
+            "providername": "ALPACA",
+            "vehicleid": 424955
+          },
+          {
+            "battery": 76,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.611183,
+            "longitude": 127.28729,
+            "providername": "ALPACA",
+            "vehicleid": 426309
+          },
+          {
+            "battery": 87,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.611187,
+            "longitude": 127.28734,
+            "providername": "ALPACA",
+            "vehicleid": 426213
+          },
+          {
+            "battery": 76,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.61119,
+            "longitude": 127.28729,
+            "providername": "ALPACA",
+            "vehicleid": 426311
+          },
+          {
+            "battery": 99,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.61119,
+            "longitude": 127.28999,
+            "providername": "ALPACA",
+            "vehicleid": 425077
+          },
+          {
+            "battery": 92,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.61119,
+            "longitude": 127.28995,
+            "providername": "ALPACA",
+            "vehicleid": 425434
+          },
+          {
+            "battery": 99,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.611195,
+            "longitude": 127.28737,
+            "providername": "ALPACA",
+            "vehicleid": 425642
+          },
+          {
+            "battery": 94,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.611195,
+            "longitude": 127.287285,
+            "providername": "ALPACA",
+            "vehicleid": 425503
+          },
+          {
+            "battery": 67,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.611195,
+            "longitude": 127.287346,
+            "providername": "ALPACA",
+            "vehicleid": 425026
+          },
+          {
+            "battery": 52,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.6112,
+            "longitude": 127.28732,
+            "providername": "ALPACA",
+            "vehicleid": 426377
+          },
+          {
+            "battery": 76,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.6112,
+            "longitude": 127.28733,
+            "providername": "ALPACA",
+            "vehicleid": 425310
+          },
+          {
+            "battery": 79,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.6112,
+            "longitude": 127.287315,
+            "providername": "ALPACA",
+            "vehicleid": 425624
+          },
+          {
+            "battery": 94,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.611206,
+            "longitude": 127.28734,
+            "providername": "ALPACA",
+            "vehicleid": 425398
+          },
+          {
+            "battery": 60,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.611206,
+            "longitude": 127.28738,
+            "providername": "ALPACA",
+            "vehicleid": 423869
+          },
+          {
+            "battery": 96,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.611206,
+            "longitude": 127.28734,
+            "providername": "ALPACA",
+            "vehicleid": 424443
+          },
+          {
+            "battery": 56,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.611206,
+            "longitude": 127.287315,
+            "providername": "ALPACA",
+            "vehicleid": 424613
+          },
+          {
+            "battery": 67,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.611214,
+            "longitude": 127.287285,
+            "providername": "ALPACA",
+            "vehicleid": 425137
+          },
+          {
+            "battery": 56,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.611214,
+            "longitude": 127.28729,
+            "providername": "ALPACA",
+            "vehicleid": 426267
+          },
+          {
+            "battery": 59,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.611214,
+            "longitude": 127.29,
+            "providername": "ALPACA",
+            "vehicleid": 424887
+          },
+          {
+            "battery": 91,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.611214,
+            "longitude": 127.28739,
+            "providername": "ALPACA",
+            "vehicleid": 419838
+          },
+          {
+            "battery": 66,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.611217,
+            "longitude": 127.28733,
+            "providername": "ALPACA",
+            "vehicleid": 424581
+          },
+          {
+            "battery": 42,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.611217,
+            "longitude": 127.28984,
+            "providername": "ALPACA",
+            "vehicleid": 425469
+          },
+          {
+            "battery": 91,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.61122,
+            "longitude": 127.287315,
+            "providername": "ALPACA",
+            "vehicleid": 418762
+          },
+          {
+            "battery": 85,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.61122,
+            "longitude": 127.28995,
+            "providername": "ALPACA",
+            "vehicleid": 425676
+          },
+          {
+            "battery": 96,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.61122,
+            "longitude": 127.29008,
+            "providername": "ALPACA",
+            "vehicleid": 417623
+          },
+          {
+            "battery": 44,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.61122,
+            "longitude": 127.28735,
+            "providername": "ALPACA",
+            "vehicleid": 425445
+          },
+          {
+            "battery": 73,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.611225,
+            "longitude": 127.28992,
+            "providername": "ALPACA",
+            "vehicleid": 424367
+          },
+          {
+            "battery": 87,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.611225,
+            "longitude": 127.2874,
+            "providername": "ALPACA",
+            "vehicleid": 425679
+          },
+          {
+            "battery": 59,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.611233,
+            "longitude": 127.287384,
+            "providername": "ALPACA",
+            "vehicleid": 426510
+          },
+          {
+            "battery": 85,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.611233,
+            "longitude": 127.28738,
+            "providername": "ALPACA",
+            "vehicleid": 424752
+          },
+          {
+            "battery": 82,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.611233,
+            "longitude": 127.287384,
+            "providername": "ALPACA",
+            "vehicleid": 425325
+          },
+          {
+            "battery": 87,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.611233,
+            "longitude": 127.287346,
+            "providername": "ALPACA",
+            "vehicleid": 425453
+          },
+          {
+            "battery": 72,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.611233,
+            "longitude": 127.28737,
+            "providername": "ALPACA",
+            "vehicleid": 426359
+          },
+          {
+            "battery": 65,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.611237,
+            "longitude": 127.28741,
+            "providername": "ALPACA",
+            "vehicleid": 424858
+          },
+          {
+            "battery": 94,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.611237,
+            "longitude": 127.28732,
+            "providername": "ALPACA",
+            "vehicleid": 426275
+          },
+          {
+            "battery": 65,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.61125,
+            "longitude": 127.28738,
+            "providername": "ALPACA",
+            "vehicleid": 425227
+          },
+          {
+            "battery": 88,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.611256,
+            "longitude": 127.290016,
+            "providername": "ALPACA",
+            "vehicleid": 424615
+          },
+          {
+            "battery": 67,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.612396,
+            "longitude": 127.28873,
+            "providername": "ALPACA",
+            "vehicleid": 425463
+          },
+          {
+            "battery": 92,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.612408,
+            "longitude": 127.288704,
+            "providername": "ALPACA",
+            "vehicleid": 426270
+          },
+          {
+            "battery": 72,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.61311,
+            "longitude": 127.295944,
+            "providername": "ALPACA",
+            "vehicleid": 424789
+          },
+          {
+            "battery": 45,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.61398,
+            "longitude": 127.292694,
+            "providername": "ALPACA",
+            "vehicleid": 425011
+          },
+          {
+            "battery": 100,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.61539,
+            "longitude": 127.31481,
+            "providername": "ALPACA",
+            "vehicleid": 426532
+          },
+          {
+            "battery": 92,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.615578,
+            "longitude": 127.31903,
+            "providername": "ALPACA",
+            "vehicleid": 424758
+          },
+          {
+            "battery": 84,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.617588,
+            "longitude": 127.28953,
+            "providername": "ALPACA",
+            "vehicleid": 425547
+          },
+          {
+            "battery": 44,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.617916,
+            "longitude": 127.3295,
+            "providername": "ALPACA",
+            "vehicleid": 424848
+          },
+          {
+            "battery": 55,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.61796,
+            "longitude": 127.29034,
+            "providername": "ALPACA",
+            "vehicleid": 424399
+          },
+          {
+            "battery": 100,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.618263,
+            "longitude": 127.31162,
+            "providername": "ALPACA",
+            "vehicleid": 425275
+          },
+          {
+            "battery": 83,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.61827,
+            "longitude": 127.32754,
+            "providername": "ALPACA",
+            "vehicleid": 410202
+          },
+          {
+            "battery": 75,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.618317,
+            "longitude": 127.31169,
+            "providername": "ALPACA",
+            "vehicleid": 426369
+          },
+          {
+            "battery": 62,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.61892,
+            "longitude": 127.28854,
+            "providername": "ALPACA",
+            "vehicleid": 426262
+          },
+          {
+            "battery": 96,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.618973,
+            "longitude": 127.31165,
+            "providername": "ALPACA",
+            "vehicleid": 424572
+          },
+          {
+            "battery": 66,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.619095,
+            "longitude": 127.31589,
+            "providername": "ALPACA",
+            "vehicleid": 424880
+          },
+          {
+            "battery": 100,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.619152,
+            "longitude": 127.31159,
+            "providername": "ALPACA",
+            "vehicleid": 425485
+          },
+          {
+            "battery": 64,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.619526,
+            "longitude": 127.31769,
+            "providername": "ALPACA",
+            "vehicleid": 424308
+          },
+          {
+            "battery": 83,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.61968,
+            "longitude": 127.31448,
+            "providername": "ALPACA",
+            "vehicleid": 425470
+          },
+          {
+            "battery": 83,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.6197,
+            "longitude": 127.31017,
+            "providername": "ALPACA",
+            "vehicleid": 423795
+          },
+          {
+            "battery": 100,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.620163,
+            "longitude": 127.31515,
+            "providername": "ALPACA",
+            "vehicleid": 425491
+          },
+          {
+            "battery": 98,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.620228,
+            "longitude": 127.316185,
+            "providername": "ALPACA",
+            "vehicleid": 425409
+          },
+          {
+            "battery": 78,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.620293,
+            "longitude": 127.32012,
+            "providername": "ALPACA",
+            "vehicleid": 424365
+          },
+          {
+            "battery": 70,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.620407,
+            "longitude": 127.320435,
+            "providername": "ALPACA",
+            "vehicleid": 424667
+          },
+          {
+            "battery": 67,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.620564,
+            "longitude": 127.32179,
+            "providername": "ALPACA",
+            "vehicleid": 424958
+          },
+          {
+            "battery": 59,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.620567,
+            "longitude": 127.29063,
+            "providername": "ALPACA",
+            "vehicleid": 425700
+          },
+          {
+            "battery": 68,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.6207,
+            "longitude": 127.31366,
+            "providername": "ALPACA",
+            "vehicleid": 418346
+          },
+          {
+            "battery": 85,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.621048,
+            "longitude": 127.31632,
+            "providername": "ALPACA",
+            "vehicleid": 424952
+          },
+          {
+            "battery": 97,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.621113,
+            "longitude": 127.31949,
+            "providername": "ALPACA",
+            "vehicleid": 426447
+          },
+          {
+            "battery": 77,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.62137,
+            "longitude": 127.31325,
+            "providername": "ALPACA",
+            "vehicleid": 425281
+          },
+          {
+            "battery": 58,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.621525,
+            "longitude": 127.290596,
+            "providername": "ALPACA",
+            "vehicleid": 426202
+          },
+          {
+            "battery": 100,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.62156,
+            "longitude": 127.32208,
+            "providername": "ALPACA",
+            "vehicleid": 421202
+          },
+          {
+            "battery": 97,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.621624,
+            "longitude": 127.32689,
+            "providername": "ALPACA",
+            "vehicleid": 426280
+          },
+          {
+            "battery": 90,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.621635,
+            "longitude": 127.31979,
+            "providername": "ALPACA",
+            "vehicleid": 418090
+          },
+          {
+            "battery": 100,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.621635,
+            "longitude": 127.32671,
+            "providername": "ALPACA",
+            "vehicleid": 425280
+          },
+          {
+            "battery": 97,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.62164,
+            "longitude": 127.32687,
+            "providername": "ALPACA",
+            "vehicleid": 424863
+          },
+          {
+            "battery": 100,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.621647,
+            "longitude": 127.32689,
+            "providername": "ALPACA",
+            "vehicleid": 424658
+          },
+          {
+            "battery": 100,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.62165,
+            "longitude": 127.3269,
+            "providername": "ALPACA",
+            "vehicleid": 422377
+          },
+          {
+            "battery": 93,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.62166,
+            "longitude": 127.32688,
+            "providername": "ALPACA",
+            "vehicleid": 416438
+          },
+          {
+            "battery": 98,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.621662,
+            "longitude": 127.32691,
+            "providername": "ALPACA",
+            "vehicleid": 425617
+          },
+          {
+            "battery": 98,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.621662,
+            "longitude": 127.3269,
+            "providername": "ALPACA",
+            "vehicleid": 425628
+          },
+          {
+            "battery": 99,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.621677,
+            "longitude": 127.32694,
+            "providername": "ALPACA",
+            "vehicleid": 424167
+          },
+          {
+            "battery": 76,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.6218,
+            "longitude": 127.32658,
+            "providername": "ALPACA",
+            "vehicleid": 426129
+          },
+          {
+            "battery": 98,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.621864,
+            "longitude": 127.32666,
+            "providername": "ALPACA",
+            "vehicleid": 424531
+          },
+          {
+            "battery": 72,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.621986,
+            "longitude": 127.32703,
+            "providername": "ALPACA",
+            "vehicleid": 426362
+          },
+          {
+            "battery": 100,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.62244,
+            "longitude": 127.32728,
+            "providername": "ALPACA",
+            "vehicleid": 418678
+          },
+          {
+            "battery": 88,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.62264,
+            "longitude": 127.326805,
+            "providername": "ALPACA",
+            "vehicleid": 413095
+          },
+          {
+            "battery": 49,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.622787,
+            "longitude": 127.28885,
+            "providername": "ALPACA",
+            "vehicleid": 424245
+          },
+          {
+            "battery": 53,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.623142,
+            "longitude": 127.28702,
+            "providername": "ALPACA",
+            "vehicleid": 426259
+          },
+          {
+            "battery": 62,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.6232,
+            "longitude": 127.28705,
+            "providername": "ALPACA",
+            "vehicleid": 426492
+          },
+          {
+            "battery": 69,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.623352,
+            "longitude": 127.32493,
+            "providername": "ALPACA",
+            "vehicleid": 425738
+          },
+          {
+            "battery": 100,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.623425,
+            "longitude": 127.31401,
+            "providername": "ALPACA",
+            "vehicleid": 425331
+          },
+          {
+            "battery": 100,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.623432,
+            "longitude": 127.313995,
+            "providername": "ALPACA",
+            "vehicleid": 425581
+          },
+          {
+            "battery": 100,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.62344,
+            "longitude": 127.314,
+            "providername": "ALPACA",
+            "vehicleid": 424891
+          },
+          {
+            "battery": 100,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.62374,
+            "longitude": 127.33008,
+            "providername": "ALPACA",
+            "vehicleid": 424553
+          },
+          {
+            "battery": 100,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.623783,
+            "longitude": 127.32582,
+            "providername": "ALPACA",
+            "vehicleid": 424524
+          },
+          {
+            "battery": 100,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.6238,
+            "longitude": 127.32581,
+            "providername": "ALPACA",
+            "vehicleid": 425185
+          },
+          {
+            "battery": 100,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.62381,
+            "longitude": 127.32576,
+            "providername": "ALPACA",
+            "vehicleid": 424959
+          },
+          {
+            "battery": 100,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.623837,
+            "longitude": 127.32577,
+            "providername": "ALPACA",
+            "vehicleid": 426302
+          },
+          {
+            "battery": 97,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.62424,
+            "longitude": 127.32634,
+            "providername": "ALPACA",
+            "vehicleid": 425182
+          },
+          {
+            "battery": 91,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.624615,
+            "longitude": 127.32985,
+            "providername": "ALPACA",
+            "vehicleid": 425539
+          },
+          {
+            "battery": 52,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.625656,
+            "longitude": 127.289566,
+            "providername": "ALPACA",
+            "vehicleid": 425405
+          },
+          {
+            "battery": 73,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.62572,
+            "longitude": 127.32483,
+            "providername": "ALPACA",
+            "vehicleid": 426354
+          },
+          {
+            "battery": 99,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.626976,
+            "longitude": 127.32475,
+            "providername": "ALPACA",
+            "vehicleid": 416201
+          },
+          {
+            "battery": 100,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.63014,
+            "longitude": 127.332924,
+            "providername": "ALPACA",
+            "vehicleid": 424861
+          },
+          {
+            "battery": 100,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.630157,
+            "longitude": 127.332924,
+            "providername": "ALPACA",
+            "vehicleid": 424862
+          },
+          {
+            "battery": 100,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.630165,
+            "longitude": 127.3329,
+            "providername": "ALPACA",
+            "vehicleid": 426231
+          },
+          {
+            "battery": 100,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.630165,
+            "longitude": 127.3329,
+            "providername": "ALPACA",
+            "vehicleid": 425414
+          },
+          {
+            "battery": 100,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.630215,
+            "longitude": 127.33296,
+            "providername": "ALPACA",
+            "vehicleid": 425424
+          },
+          {
+            "battery": 96,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.63122,
+            "longitude": 127.329796,
+            "providername": "ALPACA",
+            "vehicleid": 426430
+          },
+          {
+            "battery": 96,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.631245,
+            "longitude": 127.329834,
+            "providername": "ALPACA",
+            "vehicleid": 425201
+          },
+          {
+            "battery": 100,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.631344,
+            "longitude": 127.32988,
+            "providername": "ALPACA",
+            "vehicleid": 426308
+          },
+          {
+            "battery": 94,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.631374,
+            "longitude": 127.33019,
+            "providername": "ALPACA",
+            "vehicleid": 424594
+          },
+          {
+            "battery": 100,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.631443,
+            "longitude": 127.32993,
+            "providername": "ALPACA",
+            "vehicleid": 422228
+          },
+          {
+            "battery": 91,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.63171,
+            "longitude": 127.330284,
+            "providername": "ALPACA",
+            "vehicleid": 424680
+          },
+          {
+            "battery": 100,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.632767,
+            "longitude": 127.32074,
+            "providername": "ALPACA",
+            "vehicleid": 424400
+          },
+          {
+            "battery": 74,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.63278,
+            "longitude": 127.32076,
+            "providername": "ALPACA",
+            "vehicleid": 424979
+          },
+          {
+            "battery": 87,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.632782,
+            "longitude": 127.32075,
+            "providername": "ALPACA",
+            "vehicleid": 425633
+          },
+          {
+            "battery": 100,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.632786,
+            "longitude": 127.32076,
+            "providername": "ALPACA",
+            "vehicleid": 422225
+          },
+          {
+            "battery": 86,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.63279,
+            "longitude": 127.32078,
+            "providername": "ALPACA",
+            "vehicleid": 426345
+          },
+          {
+            "battery": 100,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.63281,
+            "longitude": 127.320786,
+            "providername": "ALPACA",
+            "vehicleid": 425739
+          },
+          {
+            "battery": 100,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.632816,
+            "longitude": 127.320786,
+            "providername": "ALPACA",
+            "vehicleid": 424584
+          },
+          {
+            "battery": 45,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.633003,
+            "longitude": 127.32171,
+            "providername": "ALPACA",
+            "vehicleid": 418867
+          },
+          {
+            "battery": 100,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.633316,
+            "longitude": 127.32107,
+            "providername": "ALPACA",
+            "vehicleid": 426463
+          },
+          {
+            "battery": 97,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.63389,
+            "longitude": 127.3214,
+            "providername": "ALPACA",
+            "vehicleid": 424876
+          },
+          {
+            "battery": 100,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.634487,
+            "longitude": 127.327675,
+            "providername": "ALPACA",
+            "vehicleid": 424883
+          },
+          {
+            "battery": 100,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.63449,
+            "longitude": 127.32767,
+            "providername": "ALPACA",
+            "vehicleid": 425706
+          },
+          {
+            "battery": 100,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.634495,
+            "longitude": 127.32766,
+            "providername": "ALPACA",
+            "vehicleid": 424404
+          },
+          {
+            "battery": 100,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.6345,
+            "longitude": 127.32767,
+            "providername": "ALPACA",
+            "vehicleid": 425755
+          },
+          {
+            "battery": 100,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.634502,
+            "longitude": 127.32768,
+            "providername": "ALPACA",
+            "vehicleid": 425545
+          },
+          {
+            "battery": 100,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.634502,
+            "longitude": 127.327675,
+            "providername": "ALPACA",
+            "vehicleid": 426469
+          },
+          {
+            "battery": 100,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.634506,
+            "longitude": 127.32766,
+            "providername": "ALPACA",
+            "vehicleid": 424823
+          },
+          {
+            "battery": 100,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.634514,
+            "longitude": 127.32769,
+            "providername": "ALPACA",
+            "vehicleid": 419423
+          },
+          {
+            "battery": 78,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.63452,
+            "longitude": 127.327675,
+            "providername": "ALPACA",
+            "vehicleid": 425368
+          },
+          {
+            "battery": 75,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.63473,
+            "longitude": 127.28879,
+            "providername": "ALPACA",
+            "vehicleid": 424390
+          },
+          {
+            "battery": 98,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.637264,
+            "longitude": 127.34321,
+            "providername": "ALPACA",
+            "vehicleid": 424721
+          },
+          {
+            "battery": 90,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.642307,
+            "longitude": 127.34173,
+            "providername": "ALPACA",
+            "vehicleid": 419004
+          }
+        ]
+      },
+      "numOfRows": 300,
+      "pageNo": 1,
+      "totalCount": 279
+    }
+  }
+}
