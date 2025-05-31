@@ -1,0 +1,2303 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "battery": 55,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.51652,
+            "longitude": 127.251468,
+            "providername": "swing",
+            "vehicleid": 292761
+          },
+          {
+            "battery": 12,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.461282,
+            "longitude": 127.261486,
+            "providername": "swing",
+            "vehicleid": 233479
+          },
+          {
+            "battery": 39,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.432144,
+            "longitude": 127.356736,
+            "providername": "swing",
+            "vehicleid": 279974
+          },
+          {
+            "battery": 8,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.56295,
+            "longitude": 127.353691,
+            "providername": "swing",
+            "vehicleid": 249098
+          },
+          {
+            "battery": 62,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.593142,
+            "longitude": 127.184915,
+            "providername": "swing",
+            "vehicleid": 286744
+          },
+          {
+            "battery": 12,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.486547,
+            "longitude": 127.346778,
+            "providername": "swing",
+            "vehicleid": 296572
+          },
+          {
+            "battery": 95,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.554525,
+            "longitude": 127.264906,
+            "providername": "swing",
+            "vehicleid": 271535
+          },
+          {
+            "battery": 58,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.539475,
+            "longitude": 127.14514,
+            "providername": "swing",
+            "vehicleid": 242800
+          },
+          {
+            "battery": 57,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.410198,
+            "longitude": 127.135984,
+            "providername": "swing",
+            "vehicleid": 261556
+          },
+          {
+            "battery": 25,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.491188,
+            "longitude": 127.338628,
+            "providername": "swing",
+            "vehicleid": 221114
+          },
+          {
+            "battery": 68,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.459161,
+            "longitude": 127.295793,
+            "providername": "swing",
+            "vehicleid": 227764
+          },
+          {
+            "battery": 6,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.555333,
+            "longitude": 127.129056,
+            "providername": "swing",
+            "vehicleid": 251122
+          },
+          {
+            "battery": 4,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.417363,
+            "longitude": 127.27853,
+            "providername": "swing",
+            "vehicleid": 269616
+          },
+          {
+            "battery": 27,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.452397,
+            "longitude": 127.265691,
+            "providername": "swing",
+            "vehicleid": 210884
+          },
+          {
+            "battery": 50,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.414171,
+            "longitude": 127.285591,
+            "providername": "swing",
+            "vehicleid": 264219
+          },
+          {
+            "battery": 72,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.584956,
+            "longitude": 127.184543,
+            "providername": "swing",
+            "vehicleid": 258943
+          },
+          {
+            "battery": 24,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.551586,
+            "longitude": 127.151745,
+            "providername": "swing",
+            "vehicleid": 218970
+          },
+          {
+            "battery": 79,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.576418,
+            "longitude": 127.203596,
+            "providername": "swing",
+            "vehicleid": 295198
+          },
+          {
+            "battery": 21,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.515248,
+            "longitude": 127.295154,
+            "providername": "swing",
+            "vehicleid": 220272
+          },
+          {
+            "battery": 9,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.407911,
+            "longitude": 127.278397,
+            "providername": "swing",
+            "vehicleid": 285798
+          },
+          {
+            "battery": 14,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.43878,
+            "longitude": 127.151955,
+            "providername": "swing",
+            "vehicleid": 286938
+          },
+          {
+            "battery": 57,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.487699,
+            "longitude": 127.319423,
+            "providername": "swing",
+            "vehicleid": 213798
+          },
+          {
+            "battery": 7,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.447014,
+            "longitude": 127.336364,
+            "providername": "swing",
+            "vehicleid": 291546
+          },
+          {
+            "battery": 92,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.571642,
+            "longitude": 127.299342,
+            "providername": "swing",
+            "vehicleid": 261713
+          },
+          {
+            "battery": 18,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.407454,
+            "longitude": 127.216658,
+            "providername": "swing",
+            "vehicleid": 206769
+          },
+          {
+            "battery": 10,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.585607,
+            "longitude": 127.342997,
+            "providername": "swing",
+            "vehicleid": 247629
+          },
+          {
+            "battery": 43,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.456452,
+            "longitude": 127.214766,
+            "providername": "swing",
+            "vehicleid": 249444
+          },
+          {
+            "battery": 20,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.425364,
+            "longitude": 127.202257,
+            "providername": "swing",
+            "vehicleid": 242901
+          },
+          {
+            "battery": 45,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.540224,
+            "longitude": 127.361539,
+            "providername": "swing",
+            "vehicleid": 218420
+          },
+          {
+            "battery": 38,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.595553,
+            "longitude": 127.134956,
+            "providername": "swing",
+            "vehicleid": 259621
+          },
+          {
+            "battery": 75,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.452794,
+            "longitude": 127.23942,
+            "providername": "swing",
+            "vehicleid": 249608
+          },
+          {
+            "battery": 51,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.416382,
+            "longitude": 127.219537,
+            "providername": "swing",
+            "vehicleid": 236536
+          },
+          {
+            "battery": 67,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.421354,
+            "longitude": 127.185362,
+            "providername": "swing",
+            "vehicleid": 292102
+          },
+          {
+            "battery": 6,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.575087,
+            "longitude": 127.264844,
+            "providername": "swing",
+            "vehicleid": 295415
+          },
+          {
+            "battery": 8,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.445201,
+            "longitude": 127.25923,
+            "providername": "swing",
+            "vehicleid": 294686
+          },
+          {
+            "battery": 88,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.521151,
+            "longitude": 127.157171,
+            "providername": "swing",
+            "vehicleid": 263569
+          },
+          {
+            "battery": 73,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.509699,
+            "longitude": 127.175286,
+            "providername": "swing",
+            "vehicleid": 288555
+          },
+          {
+            "battery": 77,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.559444,
+            "longitude": 127.163246,
+            "providername": "swing",
+            "vehicleid": 237415
+          },
+          {
+            "battery": 74,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.565539,
+            "longitude": 127.172707,
+            "providername": "swing",
+            "vehicleid": 266659
+          },
+          {
+            "battery": 51,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.421744,
+            "longitude": 127.253948,
+            "providername": "swing",
+            "vehicleid": 253717
+          },
+          {
+            "battery": 10,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.41755,
+            "longitude": 127.325753,
+            "providername": "swing",
+            "vehicleid": 233048
+          },
+          {
+            "battery": 62,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.483771,
+            "longitude": 127.216434,
+            "providername": "swing",
+            "vehicleid": 204329
+          },
+          {
+            "battery": 14,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.460118,
+            "longitude": 127.361259,
+            "providername": "swing",
+            "vehicleid": 227242
+          },
+          {
+            "battery": 8,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.492448,
+            "longitude": 127.137111,
+            "providername": "swing",
+            "vehicleid": 235677
+          },
+          {
+            "battery": 47,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.474452,
+            "longitude": 127.230543,
+            "providername": "swing",
+            "vehicleid": 294885
+          },
+          {
+            "battery": 58,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.585678,
+            "longitude": 127.21246,
+            "providername": "swing",
+            "vehicleid": 222170
+          },
+          {
+            "battery": 91,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.573102,
+            "longitude": 127.211675,
+            "providername": "swing",
+            "vehicleid": 254522
+          },
+          {
+            "battery": 38,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.427905,
+            "longitude": 127.253414,
+            "providername": "swing",
+            "vehicleid": 234256
+          },
+          {
+            "battery": 57,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.484753,
+            "longitude": 127.145934,
+            "providername": "swing",
+            "vehicleid": 284692
+          },
+          {
+            "battery": 5,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.565273,
+            "longitude": 127.183518,
+            "providername": "swing",
+            "vehicleid": 221932
+          },
+          {
+            "battery": 55,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.446528,
+            "longitude": 127.332351,
+            "providername": "swing",
+            "vehicleid": 287418
+          },
+          {
+            "battery": 72,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.450626,
+            "longitude": 127.187049,
+            "providername": "swing",
+            "vehicleid": 263079
+          },
+          {
+            "battery": 16,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.508318,
+            "longitude": 127.226582,
+            "providername": "swing",
+            "vehicleid": 277610
+          },
+          {
+            "battery": 15,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.580274,
+            "longitude": 127.330684,
+            "providername": "swing",
+            "vehicleid": 264225
+          },
+          {
+            "battery": 21,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.563963,
+            "longitude": 127.31738,
+            "providername": "swing",
+            "vehicleid": 277041
+          },
+          {
+            "battery": 28,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.495758,
+            "longitude": 127.197951,
+            "providername": "swing",
+            "vehicleid": 240390
+          },
+          {
+            "battery": 12,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.596706,
+            "longitude": 127.225432,
+            "providername": "swing",
+            "vehicleid": 211511
+          },
+          {
+            "battery": 46,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.477931,
+            "longitude": 127.20944,
+            "providername": "swing",
+            "vehicleid": 215709
+          },
+          {
+            "battery": 33,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.570897,
+            "longitude": 127.180173,
+            "providername": "swing",
+            "vehicleid": 245280
+          },
+          {
+            "battery": 62,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.448205,
+            "longitude": 127.251803,
+            "providername": "swing",
+            "vehicleid": 207500
+          },
+          {
+            "battery": 33,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.583887,
+            "longitude": 127.349386,
+            "providername": "swing",
+            "vehicleid": 252175
+          },
+          {
+            "battery": 49,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.427105,
+            "longitude": 127.237644,
+            "providername": "swing",
+            "vehicleid": 223479
+          },
+          {
+            "battery": 11,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.520857,
+            "longitude": 127.172405,
+            "providername": "swing",
+            "vehicleid": 266439
+          },
+          {
+            "battery": 26,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.43536,
+            "longitude": 127.129178,
+            "providername": "swing",
+            "vehicleid": 208670
+          },
+          {
+            "battery": 27,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.452544,
+            "longitude": 127.135824,
+            "providername": "swing",
+            "vehicleid": 272931
+          },
+          {
+            "battery": 96,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.565115,
+            "longitude": 127.223892,
+            "providername": "swing",
+            "vehicleid": 275809
+          },
+          {
+            "battery": 46,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.446448,
+            "longitude": 127.312271,
+            "providername": "swing",
+            "vehicleid": 295061
+          },
+          {
+            "battery": 97,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.57154,
+            "longitude": 127.203904,
+            "providername": "swing",
+            "vehicleid": 211061
+          },
+          {
+            "battery": 29,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.489857,
+            "longitude": 127.362937,
+            "providername": "swing",
+            "vehicleid": 247906
+          },
+          {
+            "battery": 60,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.596798,
+            "longitude": 127.130936,
+            "providername": "swing",
+            "vehicleid": 210725
+          },
+          {
+            "battery": 88,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.573423,
+            "longitude": 127.291395,
+            "providername": "swing",
+            "vehicleid": 274745
+          },
+          {
+            "battery": 74,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.426506,
+            "longitude": 127.346289,
+            "providername": "swing",
+            "vehicleid": 290380
+          },
+          {
+            "battery": 52,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.452723,
+            "longitude": 127.24424,
+            "providername": "swing",
+            "vehicleid": 257997
+          },
+          {
+            "battery": 6,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.516016,
+            "longitude": 127.18311,
+            "providername": "swing",
+            "vehicleid": 245452
+          },
+          {
+            "battery": 61,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.483617,
+            "longitude": 127.183627,
+            "providername": "swing",
+            "vehicleid": 207839
+          },
+          {
+            "battery": 10,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.55309,
+            "longitude": 127.286705,
+            "providername": "swing",
+            "vehicleid": 230906
+          },
+          {
+            "battery": 45,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.593379,
+            "longitude": 127.31861,
+            "providername": "swing",
+            "vehicleid": 280285
+          },
+          {
+            "battery": 100,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.581511,
+            "longitude": 127.152083,
+            "providername": "swing",
+            "vehicleid": 225733
+          },
+          {
+            "battery": 62,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.493211,
+            "longitude": 127.298599,
+            "providername": "swing",
+            "vehicleid": 229493
+          },
+          {
+            "battery": 64,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.574035,
+            "longitude": 127.302208,
+            "providername": "swing",
+            "vehicleid": 292825
+          },
+          {
+            "battery": 22,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.440636,
+            "longitude": 127.146826,
+            "providername": "swing",
+            "vehicleid": 264365
+          },
+          {
+            "battery": 49,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.434822,
+            "longitude": 127.2478,
+            "providername": "swing",
+            "vehicleid": 247287
+          },
+          {
+            "battery": 95,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.594432,
+            "longitude": 127.189591,
+            "providername": "swing",
+            "vehicleid": 238453
+          },
+          {
+            "battery": 20,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.521715,
+            "longitude": 127.328,
+            "providername": "swing",
+            "vehicleid": 203257
+          },
+          {
+            "battery": 86,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.436642,
+            "longitude": 127.321124,
+            "providername": "swing",
+            "vehicleid": 237852
+          },
+          {
+            "battery": 37,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.502797,
+            "longitude": 127.333099,
+            "providername": "swing",
+            "vehicleid": 216781
+          },
+          {
+            "battery": 19,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.555353,
+            "longitude": 127.232413,
+            "providername": "swing",
+            "vehicleid": 286616
+          },
+          {
+            "battery": 2,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.517191,
+            "longitude": 127.359207,
+            "providername": "swing",
+            "vehicleid": 211660
+          },
+          {
+            "battery": 95,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.565046,
+            "longitude": 127.158077,
+            "providername": "swing",
+            "vehicleid": 241493
+          },
+          {
+            "battery": 72,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.572799,
+            "longitude": 127.269407,
+            "providername": "swing",
+            "vehicleid": 241087
+          },
+          {
+            "battery": 87,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.588267,
+            "longitude": 127.342831,
+            "providername": "swing",
+            "vehicleid": 227120
+          },
+          {
+            "battery": 41,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.491559,
+            "longitude": 127.305281,
+            "providername": "swing",
+            "vehicleid": 276180
+          },
+          {
+            "battery": 5,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.502053,
+            "longitude": 127.336317,
+            "providername": "swing",
+            "vehicleid": 254057
+          },
+          {
+            "battery": 79,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.58877,
+            "longitude": 127.350939,
+            "providername": "swing",
+            "vehicleid": 244905
+          },
+          {
+            "battery": 27,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.465858,
+            "longitude": 127.241057,
+            "providername": "swing",
+            "vehicleid": 262392
+          },
+          {
+            "battery": 45,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.436916,
+            "longitude": 127.298221,
+            "providername": "swing",
+            "vehicleid": 223498
+          },
+          {
+            "battery": 23,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.570745,
+            "longitude": 127.244309,
+            "providername": "swing",
+            "vehicleid": 210323
+          },
+          {
+            "battery": 77,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.500184,
+            "longitude": 127.217818,
+            "providername": "swing",
+            "vehicleid": 245699
+          },
+          {
+            "battery": 53,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.60078,
+            "longitude": 127.358818,
+            "providername": "swing",
+            "vehicleid": 223711
+          },
+          {
+            "battery": 21,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.545517,
+            "longitude": 127.162253,
+            "providername": "swing",
+            "vehicleid": 282652
+          },
+          {
+            "battery": 87,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.469484,
+            "longitude": 127.24109,
+            "providername": "swing",
+            "vehicleid": 246367
+          },
+          {
+            "battery": 10,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.417828,
+            "longitude": 127.362963,
+            "providername": "swing",
+            "vehicleid": 252729
+          },
+          {
+            "battery": 47,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.551236,
+            "longitude": 127.360528,
+            "providername": "swing",
+            "vehicleid": 246656
+          },
+          {
+            "battery": 9,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.56448,
+            "longitude": 127.368643,
+            "providername": "swing",
+            "vehicleid": 294762
+          },
+          {
+            "battery": 13,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.41872,
+            "longitude": 127.140819,
+            "providername": "swing",
+            "vehicleid": 239258
+          },
+          {
+            "battery": 12,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.546247,
+            "longitude": 127.340093,
+            "providername": "swing",
+            "vehicleid": 223036
+          },
+          {
+            "battery": 18,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.53542,
+            "longitude": 127.291857,
+            "providername": "swing",
+            "vehicleid": 245199
+          },
+          {
+            "battery": 28,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.565463,
+            "longitude": 127.14729,
+            "providername": "swing",
+            "vehicleid": 216895
+          },
+          {
+            "battery": 14,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.433164,
+            "longitude": 127.250571,
+            "providername": "swing",
+            "vehicleid": 260697
+          },
+          {
+            "battery": 4,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.548453,
+            "longitude": 127.335814,
+            "providername": "swing",
+            "vehicleid": 280838
+          },
+          {
+            "battery": 60,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.524102,
+            "longitude": 127.344599,
+            "providername": "swing",
+            "vehicleid": 241095
+          },
+          {
+            "battery": 19,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.551524,
+            "longitude": 127.320398,
+            "providername": "swing",
+            "vehicleid": 202466
+          },
+          {
+            "battery": 90,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.455276,
+            "longitude": 127.249274,
+            "providername": "swing",
+            "vehicleid": 226995
+          },
+          {
+            "battery": 51,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.499031,
+            "longitude": 127.221522,
+            "providername": "swing",
+            "vehicleid": 280832
+          },
+          {
+            "battery": 27,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.452133,
+            "longitude": 127.171599,
+            "providername": "swing",
+            "vehicleid": 200243
+          },
+          {
+            "battery": 71,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.575261,
+            "longitude": 127.161147,
+            "providername": "swing",
+            "vehicleid": 213518
+          },
+          {
+            "battery": 29,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.558772,
+            "longitude": 127.189052,
+            "providername": "swing",
+            "vehicleid": 251180
+          },
+          {
+            "battery": 84,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.485714,
+            "longitude": 127.225774,
+            "providername": "swing",
+            "vehicleid": 284799
+          },
+          {
+            "battery": 46,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.468602,
+            "longitude": 127.235255,
+            "providername": "swing",
+            "vehicleid": 202273
+          },
+          {
+            "battery": 27,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.427691,
+            "longitude": 127.156335,
+            "providername": "swing",
+            "vehicleid": 241197
+          },
+          {
+            "battery": 68,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.560271,
+            "longitude": 127.237688,
+            "providername": "swing",
+            "vehicleid": 276540
+          },
+          {
+            "battery": 66,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.594113,
+            "longitude": 127.218029,
+            "providername": "swing",
+            "vehicleid": 206127
+          },
+          {
+            "battery": 60,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.455791,
+            "longitude": 127.216657,
+            "providername": "swing",
+            "vehicleid": 237546
+          },
+          {
+            "battery": 16,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.539197,
+            "longitude": 127.259326,
+            "providername": "swing",
+            "vehicleid": 234450
+          },
+          {
+            "battery": 83,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.471237,
+            "longitude": 127.312826,
+            "providername": "swing",
+            "vehicleid": 229032
+          },
+          {
+            "battery": 87,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.559207,
+            "longitude": 127.32316,
+            "providername": "swing",
+            "vehicleid": 290447
+          },
+          {
+            "battery": 80,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.529915,
+            "longitude": 127.170484,
+            "providername": "swing",
+            "vehicleid": 207548
+          },
+          {
+            "battery": 88,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.574932,
+            "longitude": 127.138738,
+            "providername": "swing",
+            "vehicleid": 262309
+          },
+          {
+            "battery": 14,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.425266,
+            "longitude": 127.178015,
+            "providername": "swing",
+            "vehicleid": 213643
+          },
+          {
+            "battery": 37,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.578605,
+            "longitude": 127.166369,
+            "providername": "swing",
+            "vehicleid": 252306
+          },
+          {
+            "battery": 49,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.448793,
+            "longitude": 127.209203,
+            "providername": "swing",
+            "vehicleid": 211223
+          },
+          {
+            "battery": 90,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.463603,
+            "longitude": 127.223243,
+            "providername": "swing",
+            "vehicleid": 221201
+          },
+          {
+            "battery": 6,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.441699,
+            "longitude": 127.150944,
+            "providername": "swing",
+            "vehicleid": 203046
+          },
+          {
+            "battery": 14,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.514692,
+            "longitude": 127.235225,
+            "providername": "swing",
+            "vehicleid": 284820
+          },
+          {
+            "battery": 76,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.526283,
+            "longitude": 127.177102,
+            "providername": "swing",
+            "vehicleid": 267230
+          },
+          {
+            "battery": 61,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.444286,
+            "longitude": 127.301658,
+            "providername": "swing",
+            "vehicleid": 204484
+          },
+          {
+            "battery": 82,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.487018,
+            "longitude": 127.355699,
+            "providername": "swing",
+            "vehicleid": 262667
+          },
+          {
+            "battery": 32,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.428591,
+            "longitude": 127.190857,
+            "providername": "swing",
+            "vehicleid": 265192
+          },
+          {
+            "battery": 47,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.545693,
+            "longitude": 127.321425,
+            "providername": "swing",
+            "vehicleid": 291419
+          },
+          {
+            "battery": 96,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.408671,
+            "longitude": 127.132424,
+            "providername": "swing",
+            "vehicleid": 285607
+          },
+          {
+            "battery": 100,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.567138,
+            "longitude": 127.282243,
+            "providername": "swing",
+            "vehicleid": 219891
+          },
+          {
+            "battery": 38,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.505935,
+            "longitude": 127.333617,
+            "providername": "swing",
+            "vehicleid": 201395
+          },
+          {
+            "battery": 4,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.510752,
+            "longitude": 127.130218,
+            "providername": "swing",
+            "vehicleid": 280390
+          },
+          {
+            "battery": 1,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.592379,
+            "longitude": 127.158492,
+            "providername": "swing",
+            "vehicleid": 241483
+          },
+          {
+            "battery": 63,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.597354,
+            "longitude": 127.35981,
+            "providername": "swing",
+            "vehicleid": 276960
+          },
+          {
+            "battery": 64,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.483538,
+            "longitude": 127.364973,
+            "providername": "swing",
+            "vehicleid": 252457
+          },
+          {
+            "battery": 36,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.412148,
+            "longitude": 127.186818,
+            "providername": "swing",
+            "vehicleid": 249345
+          },
+          {
+            "battery": 50,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.525975,
+            "longitude": 127.279044,
+            "providername": "swing",
+            "vehicleid": 283587
+          },
+          {
+            "battery": 43,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.46952,
+            "longitude": 127.358611,
+            "providername": "swing",
+            "vehicleid": 231603
+          },
+          {
+            "battery": 64,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.474185,
+            "longitude": 127.160138,
+            "providername": "swing",
+            "vehicleid": 276574
+          },
+          {
+            "battery": 15,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.584887,
+            "longitude": 127.182272,
+            "providername": "swing",
+            "vehicleid": 255942
+          },
+          {
+            "battery": 56,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.45507,
+            "longitude": 127.168392,
+            "providername": "swing",
+            "vehicleid": 273875
+          },
+          {
+            "battery": 20,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.581181,
+            "longitude": 127.260021,
+            "providername": "swing",
+            "vehicleid": 250344
+          },
+          {
+            "battery": 41,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.409988,
+            "longitude": 127.320661,
+            "providername": "swing",
+            "vehicleid": 290666
+          },
+          {
+            "battery": 44,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.439113,
+            "longitude": 127.153696,
+            "providername": "swing",
+            "vehicleid": 261492
+          },
+          {
+            "battery": 26,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.490398,
+            "longitude": 127.139135,
+            "providername": "swing",
+            "vehicleid": 203295
+          },
+          {
+            "battery": 93,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.478785,
+            "longitude": 127.198073,
+            "providername": "swing",
+            "vehicleid": 298411
+          },
+          {
+            "battery": 48,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.592084,
+            "longitude": 127.182651,
+            "providername": "swing",
+            "vehicleid": 238465
+          },
+          {
+            "battery": 59,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.421649,
+            "longitude": 127.232447,
+            "providername": "swing",
+            "vehicleid": 204543
+          },
+          {
+            "battery": 85,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.564181,
+            "longitude": 127.352414,
+            "providername": "swing",
+            "vehicleid": 229934
+          },
+          {
+            "battery": 10,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.593948,
+            "longitude": 127.271878,
+            "providername": "swing",
+            "vehicleid": 284969
+          },
+          {
+            "battery": 89,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.488617,
+            "longitude": 127.225194,
+            "providername": "swing",
+            "vehicleid": 262132
+          },
+          {
+            "battery": 93,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.407062,
+            "longitude": 127.179059,
+            "providername": "swing",
+            "vehicleid": 246594
+          },
+          {
+            "battery": 31,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.559812,
+            "longitude": 127.180323,
+            "providername": "swing",
+            "vehicleid": 270100
+          },
+          {
+            "battery": 73,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.549965,
+            "longitude": 127.129003,
+            "providername": "swing",
+            "vehicleid": 273249
+          },
+          {
+            "battery": 96,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.520978,
+            "longitude": 127.254322,
+            "providername": "swing",
+            "vehicleid": 279397
+          },
+          {
+            "battery": 93,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.539791,
+            "longitude": 127.242611,
+            "providername": "swing",
+            "vehicleid": 207610
+          },
+          {
+            "battery": 54,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.437915,
+            "longitude": 127.335223,
+            "providername": "swing",
+            "vehicleid": 282001
+          },
+          {
+            "battery": 84,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.592152,
+            "longitude": 127.155883,
+            "providername": "swing",
+            "vehicleid": 271317
+          },
+          {
+            "battery": 41,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.579409,
+            "longitude": 127.268783,
+            "providername": "swing",
+            "vehicleid": 266109
+          },
+          {
+            "battery": 35,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.452371,
+            "longitude": 127.20361,
+            "providername": "swing",
+            "vehicleid": 227241
+          },
+          {
+            "battery": 99,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.410208,
+            "longitude": 127.280463,
+            "providername": "swing",
+            "vehicleid": 268545
+          },
+          {
+            "battery": 17,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.564084,
+            "longitude": 127.33038,
+            "providername": "swing",
+            "vehicleid": 261871
+          },
+          {
+            "battery": 33,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.45798,
+            "longitude": 127.316335,
+            "providername": "swing",
+            "vehicleid": 291985
+          },
+          {
+            "battery": 55,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.423801,
+            "longitude": 127.262178,
+            "providername": "swing",
+            "vehicleid": 258899
+          },
+          {
+            "battery": 47,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.579878,
+            "longitude": 127.187997,
+            "providername": "swing",
+            "vehicleid": 206175
+          },
+          {
+            "battery": 13,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.565877,
+            "longitude": 127.335877,
+            "providername": "swing",
+            "vehicleid": 273426
+          },
+          {
+            "battery": 35,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.59387,
+            "longitude": 127.246906,
+            "providername": "swing",
+            "vehicleid": 269133
+          },
+          {
+            "battery": 36,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.525204,
+            "longitude": 127.2592,
+            "providername": "swing",
+            "vehicleid": 289436
+          },
+          {
+            "battery": 4,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.460285,
+            "longitude": 127.349378,
+            "providername": "swing",
+            "vehicleid": 288717
+          },
+          {
+            "battery": 77,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.577157,
+            "longitude": 127.151399,
+            "providername": "swing",
+            "vehicleid": 292658
+          },
+          {
+            "battery": 12,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.570042,
+            "longitude": 127.14062,
+            "providername": "swing",
+            "vehicleid": 273920
+          },
+          {
+            "battery": 13,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.543268,
+            "longitude": 127.148784,
+            "providername": "swing",
+            "vehicleid": 265192
+          },
+          {
+            "battery": 43,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.510976,
+            "longitude": 127.209146,
+            "providername": "swing",
+            "vehicleid": 287357
+          },
+          {
+            "battery": 17,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.522312,
+            "longitude": 127.325578,
+            "providername": "swing",
+            "vehicleid": 243007
+          },
+          {
+            "battery": 59,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.52967,
+            "longitude": 127.236589,
+            "providername": "swing",
+            "vehicleid": 204422
+          },
+          {
+            "battery": 55,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.523401,
+            "longitude": 127.325075,
+            "providername": "swing",
+            "vehicleid": 223054
+          },
+          {
+            "battery": 92,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.510618,
+            "longitude": 127.129373,
+            "providername": "swing",
+            "vehicleid": 217631
+          },
+          {
+            "battery": 1,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.571227,
+            "longitude": 127.131037,
+            "providername": "swing",
+            "vehicleid": 234482
+          },
+          {
+            "battery": 61,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.493592,
+            "longitude": 127.142561,
+            "providername": "swing",
+            "vehicleid": 226956
+          },
+          {
+            "battery": 46,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.511779,
+            "longitude": 127.367494,
+            "providername": "swing",
+            "vehicleid": 254002
+          },
+          {
+            "battery": 54,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.48248,
+            "longitude": 127.211507,
+            "providername": "swing",
+            "vehicleid": 256110
+          },
+          {
+            "battery": 54,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.441825,
+            "longitude": 127.226513,
+            "providername": "swing",
+            "vehicleid": 251829
+          },
+          {
+            "battery": 50,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.59076,
+            "longitude": 127.213868,
+            "providername": "swing",
+            "vehicleid": 211409
+          },
+          {
+            "battery": 65,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.595506,
+            "longitude": 127.280609,
+            "providername": "swing",
+            "vehicleid": 208037
+          },
+          {
+            "battery": 11,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.411738,
+            "longitude": 127.291624,
+            "providername": "swing",
+            "vehicleid": 200054
+          },
+          {
+            "battery": 54,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.488608,
+            "longitude": 127.278322,
+            "providername": "swing",
+            "vehicleid": 244045
+          },
+          {
+            "battery": 97,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.459519,
+            "longitude": 127.151379,
+            "providername": "swing",
+            "vehicleid": 202666
+          },
+          {
+            "battery": 60,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.497097,
+            "longitude": 127.254904,
+            "providername": "swing",
+            "vehicleid": 239703
+          },
+          {
+            "battery": 62,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.502972,
+            "longitude": 127.204043,
+            "providername": "swing",
+            "vehicleid": 209908
+          },
+          {
+            "battery": 47,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.568063,
+            "longitude": 127.270925,
+            "providername": "swing",
+            "vehicleid": 236574
+          },
+          {
+            "battery": 43,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.476317,
+            "longitude": 127.145299,
+            "providername": "swing",
+            "vehicleid": 226095
+          },
+          {
+            "battery": 97,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.432966,
+            "longitude": 127.353868,
+            "providername": "swing",
+            "vehicleid": 286130
+          },
+          {
+            "battery": 81,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.579657,
+            "longitude": 127.244371,
+            "providername": "swing",
+            "vehicleid": 255237
+          },
+          {
+            "battery": 67,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.593246,
+            "longitude": 127.206681,
+            "providername": "swing",
+            "vehicleid": 235631
+          },
+          {
+            "battery": 10,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.522115,
+            "longitude": 127.152704,
+            "providername": "swing",
+            "vehicleid": 285284
+          },
+          {
+            "battery": 51,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.415341,
+            "longitude": 127.19626,
+            "providername": "swing",
+            "vehicleid": 281628
+          },
+          {
+            "battery": 73,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.585452,
+            "longitude": 127.355841,
+            "providername": "swing",
+            "vehicleid": 261643
+          },
+          {
+            "battery": 89,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.523235,
+            "longitude": 127.171206,
+            "providername": "swing",
+            "vehicleid": 260557
+          },
+          {
+            "battery": 24,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.507479,
+            "longitude": 127.182321,
+            "providername": "swing",
+            "vehicleid": 228846
+          },
+          {
+            "battery": 63,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.540285,
+            "longitude": 127.270547,
+            "providername": "swing",
+            "vehicleid": 294037
+          },
+          {
+            "battery": 32,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.565261,
+            "longitude": 127.285282,
+            "providername": "swing",
+            "vehicleid": 282536
+          },
+          {
+            "battery": 91,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.58403,
+            "longitude": 127.358118,
+            "providername": "swing",
+            "vehicleid": 218364
+          },
+          {
+            "battery": 73,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.523844,
+            "longitude": 127.181027,
+            "providername": "swing",
+            "vehicleid": 288501
+          },
+          {
+            "battery": 51,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.533578,
+            "longitude": 127.32956,
+            "providername": "swing",
+            "vehicleid": 273060
+          },
+          {
+            "battery": 85,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.431293,
+            "longitude": 127.362801,
+            "providername": "swing",
+            "vehicleid": 200302
+          },
+          {
+            "battery": 75,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.557764,
+            "longitude": 127.230988,
+            "providername": "swing",
+            "vehicleid": 219447
+          },
+          {
+            "battery": 95,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.461846,
+            "longitude": 127.135091,
+            "providername": "swing",
+            "vehicleid": 246741
+          },
+          {
+            "battery": 50,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.545581,
+            "longitude": 127.357614,
+            "providername": "swing",
+            "vehicleid": 285957
+          },
+          {
+            "battery": 94,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.569394,
+            "longitude": 127.263411,
+            "providername": "swing",
+            "vehicleid": 288375
+          },
+          {
+            "battery": 87,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.575501,
+            "longitude": 127.271502,
+            "providername": "swing",
+            "vehicleid": 207710
+          },
+          {
+            "battery": 85,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.489711,
+            "longitude": 127.208356,
+            "providername": "swing",
+            "vehicleid": 287420
+          },
+          {
+            "battery": 26,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.519997,
+            "longitude": 127.251202,
+            "providername": "swing",
+            "vehicleid": 205551
+          },
+          {
+            "battery": 29,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.599521,
+            "longitude": 127.236536,
+            "providername": "swing",
+            "vehicleid": 218201
+          },
+          {
+            "battery": 87,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.446594,
+            "longitude": 127.301694,
+            "providername": "swing",
+            "vehicleid": 251999
+          },
+          {
+            "battery": 45,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.529739,
+            "longitude": 127.331468,
+            "providername": "swing",
+            "vehicleid": 209709
+          },
+          {
+            "battery": 54,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.525641,
+            "longitude": 127.171535,
+            "providername": "swing",
+            "vehicleid": 245962
+          },
+          {
+            "battery": 82,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.506165,
+            "longitude": 127.368397,
+            "providername": "swing",
+            "vehicleid": 298158
+          },
+          {
+            "battery": 9,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.440528,
+            "longitude": 127.168999,
+            "providername": "swing",
+            "vehicleid": 208397
+          },
+          {
+            "battery": 82,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.521472,
+            "longitude": 127.238658,
+            "providername": "swing",
+            "vehicleid": 271226
+          },
+          {
+            "battery": 39,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.531046,
+            "longitude": 127.343205,
+            "providername": "swing",
+            "vehicleid": 249809
+          },
+          {
+            "battery": 22,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.595169,
+            "longitude": 127.339725,
+            "providername": "swing",
+            "vehicleid": 256051
+          },
+          {
+            "battery": 27,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.431648,
+            "longitude": 127.241971,
+            "providername": "swing",
+            "vehicleid": 223499
+          },
+          {
+            "battery": 58,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.517763,
+            "longitude": 127.270555,
+            "providername": "swing",
+            "vehicleid": 269192
+          },
+          {
+            "battery": 78,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.413584,
+            "longitude": 127.280747,
+            "providername": "swing",
+            "vehicleid": 288464
+          },
+          {
+            "battery": 97,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.534202,
+            "longitude": 127.3085,
+            "providername": "swing",
+            "vehicleid": 292786
+          },
+          {
+            "battery": 25,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.485055,
+            "longitude": 127.235228,
+            "providername": "swing",
+            "vehicleid": 279440
+          },
+          {
+            "battery": 72,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.555393,
+            "longitude": 127.331386,
+            "providername": "swing",
+            "vehicleid": 252847
+          },
+          {
+            "battery": 30,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.452114,
+            "longitude": 127.131897,
+            "providername": "swing",
+            "vehicleid": 215051
+          },
+          {
+            "battery": 76,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.463033,
+            "longitude": 127.158394,
+            "providername": "swing",
+            "vehicleid": 254506
+          },
+          {
+            "battery": 3,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.503309,
+            "longitude": 127.341653,
+            "providername": "swing",
+            "vehicleid": 203432
+          },
+          {
+            "battery": 57,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.513532,
+            "longitude": 127.290766,
+            "providername": "swing",
+            "vehicleid": 222208
+          },
+          {
+            "battery": 11,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.426515,
+            "longitude": 127.13346,
+            "providername": "swing",
+            "vehicleid": 291908
+          },
+          {
+            "battery": 21,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.592405,
+            "longitude": 127.171293,
+            "providername": "swing",
+            "vehicleid": 248685
+          },
+          {
+            "battery": 42,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.445899,
+            "longitude": 127.329503,
+            "providername": "swing",
+            "vehicleid": 276109
+          },
+          {
+            "battery": 90,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.42765,
+            "longitude": 127.191558,
+            "providername": "swing",
+            "vehicleid": 257959
+          },
+          {
+            "battery": 82,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.472274,
+            "longitude": 127.247923,
+            "providername": "swing",
+            "vehicleid": 206005
+          },
+          {
+            "battery": 50,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.598144,
+            "longitude": 127.270866,
+            "providername": "swing",
+            "vehicleid": 256267
+          },
+          {
+            "battery": 75,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.562913,
+            "longitude": 127.129894,
+            "providername": "swing",
+            "vehicleid": 298338
+          },
+          {
+            "battery": 45,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.584909,
+            "longitude": 127.349558,
+            "providername": "swing",
+            "vehicleid": 206429
+          },
+          {
+            "battery": 25,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.51066,
+            "longitude": 127.28063,
+            "providername": "swing",
+            "vehicleid": 268795
+          },
+          {
+            "battery": 63,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.593351,
+            "longitude": 127.145688,
+            "providername": "swing",
+            "vehicleid": 253738
+          },
+          {
+            "battery": 35,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.587451,
+            "longitude": 127.129597,
+            "providername": "swing",
+            "vehicleid": 272704
+          },
+          {
+            "battery": 89,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.547105,
+            "longitude": 127.356467,
+            "providername": "swing",
+            "vehicleid": 212564
+          }
+        ]
+      },
+      "numOfRows": 254,
+      "pageNo": 1,
+      "totalCount": 254
+    }
+  }
+}
