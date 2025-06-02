@@ -44,13 +44,12 @@ if __name__ == "__main__":
 
     os.makedirs("dummy", exist_ok=True)
     providers = [
-        ("gbike", 1),
+        ("gcoo", 1),
         ("swing", 2),
         ("alpaca", 3),
         ("kickgoing", 4),
         ("xingxing", 5),
         ("socarelecle", 6),
-        ("gcoo", 7)
     ]
 
     for name, code in providers:
