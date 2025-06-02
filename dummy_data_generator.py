@@ -1,6 +1,7 @@
 import random
 import json
 import os
+import math
 
 
 def generate_dummy_data(
@@ -15,9 +16,9 @@ def generate_dummy_data(
     num_items = random.randint(200, 299)
     items = [
         {
-            "battery": random.randint(1, 100),                 
-            "citycode": citycode,                              
-            "cityname": cityname,                              
+            "battery": math.trunc(random.betavariate(5,3)*100.0),
+            "citycode": citycode,
+            "cityname": cityname,
             "latitude": round(random.uniform(*lat_range), 6),  
             "longitude": round(random.uniform(*lon_range), 6),
             "providername": providername,
@@ -49,11 +50,12 @@ if __name__ == "__main__":
         ("kickgoing", 4),
         ("xingxing", 5),
         ("socarelecle", 6),
+        ("gcoo", 7)
     ]
 
     for name, code in providers:
         data = generate_dummy_data(providername=name, code=code)
-        path = os.path.join("dummy", f"{name}.json")
+        path = os.path.join("data", f"{name}.json")
         with open(path, "w", encoding="utf-8") as fp:
             json.dump(data, fp, ensure_ascii=False, indent=2)
     
