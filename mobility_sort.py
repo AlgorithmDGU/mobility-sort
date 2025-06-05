@@ -61,6 +61,59 @@ PROVIDER_FEES: Dict[str, Dict[str, Any]] = {
     "swing":                {"base": 1200, "per_min": 150},
 }
 
+def bounding_box(
+    lat: float, lon: float, radius_m: float
+) -> tuple[float, float, float, float]:
+    # 1) 위도 편차 (degree)
+    delta_lat = radius_m / 111_000.0
+
+    # 2) 경도 편차 (degree, 위도에 따라 보정)
+    lat_rad = math.radians(lat)
+    delta_lon = radius_m / (111_000.0 * math.cos(lat_rad))
+
+    lat_min = lat - delta_lat
+    lat_max = lat + delta_lat
+    lon_min = lon - delta_lon
+    lon_max = lon + delta_lon
+
+    return lat_min, lat_max, lon_min, lon_max
+
+
+def filter_devices_fast_py(
+    devices: List[Device],
+    start: Point,
+    radius_m: float = 100.0,
+    battery_min: int = 10,
+) -> List[Device]:
+    # 1) 배터리 우선 필터
+    candidates: List[Device] = [
+        d for d in devices if d.battery >= battery_min
+    ]
+    if not candidates:
+        return []
+
+    # 2) 바운딩 박스 범위 계산
+    lat_min, lat_max, lon_min, lon_max = bounding_box(start.x, start.y, radius_m)
+
+    # 3) 박스 안에 들어오는지 확인 (위도·경도 단순 비교) → 2차 후보
+    box_filtered: List[Device] = []
+    for dev in candidates:
+        if lat_min <= dev.lat <= lat_max and lon_min <= dev.lon <= lon_max:
+            box_filtered.append(dev)
+
+    if not box_filtered:
+        return []
+
+    # 4) 박스 안에 남은 기기에 대해 정확도를 위해 haversine() 계산 → 최종 필터
+    final_filtered: List[Device] = []
+    for dev in box_filtered:
+        # 출발지(start) ⇢ 기기 위치(dev.lat, dev.lon) 거리 계산
+        d = getDistance(start, Point(dev.lat, dev.lon))
+        if d <= radius_m:
+            dev.dist = d
+            final_filtered.append(dev)
+
+    return final_filtered
 
 def getDistance(p1: Point, p2: Point) -> float:
     R = 6_371_000  # m
@@ -145,12 +198,10 @@ class MobilityRecommender:
         radius_m: float = RADIUS_METERS,
         battery_min: int = 10,
     ) -> List[Device]:
-        # 1‧2. 경로 거리·예상 주행 시간
         path_m = getTmapDistance(start, end)
         minutes = getRideMinutes(path_m)
         night = isNight()
 
-        # 3‧4‧5. 반경·배터리 필터링 및 요금 계산
         candidates: List[Device] = []
         for dev in self.devices:
             if dev.battery < battery_min:
@@ -164,7 +215,6 @@ class MobilityRecommender:
         if not candidates:
             return []  # 근처 기기 없음
 
-        # 6. 가격·거리 정규화 점수
         prices = [d.price for d in candidates]
         p_min, p_max = min(prices), max(prices)
 
@@ -186,8 +236,8 @@ class MobilityRecommender:
 
 
 if __name__ == "__main__":
-    src = Point(36.554159, 127.341142)
-    dst = Point(36.579028, 127.283623)
+    src = Point(36.501333, 127.243789)
+    dst = Point(36.494690, 127.266267)
 
     recommender = MobilityRecommender()
     results = recommender.recommend(src, dst)
@@ -195,7 +245,8 @@ if __name__ == "__main__":
     if not results:
         print("추천 가능한 기기가 없습니다.")
     else:
-        for dev in results[:10]:  # 상위 10개만 표시
+        #for dev in results[:10]:
+        for dev in results:
             d = dev.asdict()
             print(
                 f"[{d['score']:5.1f}] {d['provider']:<12}"

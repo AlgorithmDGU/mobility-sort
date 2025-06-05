@@ -8,2179 +8,4357 @@
       "items": {
         "item": [
           {
-            "battery": 66,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.520895,
-            "longitude": 127.300038,
-            "providername": "alpaca",
-            "vehicleid": 334316
-          },
-          {
-            "battery": 41,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.42762,
-            "longitude": 127.245651,
-            "providername": "alpaca",
-            "vehicleid": 301020
-          },
-          {
-            "battery": 44,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.475182,
-            "longitude": 127.264532,
-            "providername": "alpaca",
-            "vehicleid": 394911
-          },
-          {
-            "battery": 50,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.477882,
-            "longitude": 127.163234,
-            "providername": "alpaca",
-            "vehicleid": 339467
-          },
-          {
-            "battery": 81,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.502987,
-            "longitude": 127.19963,
-            "providername": "alpaca",
-            "vehicleid": 305405
-          },
-          {
             "battery": 47,
             "citycode": 12,
             "cityname": "세종특별시",
-            "latitude": 36.458563,
-            "longitude": 127.333075,
+            "latitude": 36.530559,
+            "longitude": 127.33899,
             "providername": "alpaca",
-            "vehicleid": 381674
+            "vehicleid": 314740
           },
           {
-            "battery": 71,
+            "battery": 61,
             "citycode": 12,
             "cityname": "세종특별시",
-            "latitude": 36.511021,
-            "longitude": 127.150455,
+            "latitude": 36.490971,
+            "longitude": 127.29139,
             "providername": "alpaca",
-            "vehicleid": 346576
-          },
-          {
-            "battery": 51,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.425639,
-            "longitude": 127.330909,
-            "providername": "alpaca",
-            "vehicleid": 393620
-          },
-          {
-            "battery": 52,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.415683,
-            "longitude": 127.278722,
-            "providername": "alpaca",
-            "vehicleid": 362889
-          },
-          {
-            "battery": 63,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.589112,
-            "longitude": 127.153376,
-            "providername": "alpaca",
-            "vehicleid": 368766
-          },
-          {
-            "battery": 66,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.44557,
-            "longitude": 127.344842,
-            "providername": "alpaca",
-            "vehicleid": 344746
-          },
-          {
-            "battery": 90,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.460943,
-            "longitude": 127.30876,
-            "providername": "alpaca",
-            "vehicleid": 306052
+            "vehicleid": 309167
           },
           {
             "battery": 56,
             "citycode": 12,
             "cityname": "세종특별시",
-            "latitude": 36.494442,
-            "longitude": 127.253138,
+            "latitude": 36.510452,
+            "longitude": 127.334832,
             "providername": "alpaca",
-            "vehicleid": 381796
+            "vehicleid": 397951
           },
           {
-            "battery": 59,
+            "battery": 88,
             "citycode": 12,
             "cityname": "세종특별시",
-            "latitude": 36.41205,
-            "longitude": 127.185429,
+            "latitude": 36.498885,
+            "longitude": 127.325538,
             "providername": "alpaca",
-            "vehicleid": 361614
+            "vehicleid": 388125
+          },
+          {
+            "battery": 63,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.526765,
+            "longitude": 127.291003,
+            "providername": "alpaca",
+            "vehicleid": 320507
+          },
+          {
+            "battery": 67,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.476425,
+            "longitude": 127.278698,
+            "providername": "alpaca",
+            "vehicleid": 349275
+          },
+          {
+            "battery": 65,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.501938,
+            "longitude": 127.250585,
+            "providername": "alpaca",
+            "vehicleid": 383322
           },
           {
             "battery": 57,
             "citycode": 12,
             "cityname": "세종특별시",
-            "latitude": 36.499336,
-            "longitude": 127.169851,
+            "latitude": 36.551638,
+            "longitude": 127.297923,
             "providername": "alpaca",
-            "vehicleid": 345220
+            "vehicleid": 304982
           },
           {
-            "battery": 56,
+            "battery": 57,
             "citycode": 12,
             "cityname": "세종특별시",
-            "latitude": 36.462997,
-            "longitude": 127.136543,
+            "latitude": 36.522488,
+            "longitude": 127.270685,
             "providername": "alpaca",
-            "vehicleid": 304092
-          },
-          {
-            "battery": 77,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.522486,
-            "longitude": 127.223696,
-            "providername": "alpaca",
-            "vehicleid": 389410
-          },
-          {
-            "battery": 70,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.530711,
-            "longitude": 127.252241,
-            "providername": "alpaca",
-            "vehicleid": 320688
-          },
-          {
-            "battery": 63,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.515911,
-            "longitude": 127.130722,
-            "providername": "alpaca",
-            "vehicleid": 334958
-          },
-          {
-            "battery": 58,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.418394,
-            "longitude": 127.337984,
-            "providername": "alpaca",
-            "vehicleid": 376845
-          },
-          {
-            "battery": 55,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.510447,
-            "longitude": 127.328613,
-            "providername": "alpaca",
-            "vehicleid": 329718
-          },
-          {
-            "battery": 64,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.497625,
-            "longitude": 127.35829,
-            "providername": "alpaca",
-            "vehicleid": 353399
-          },
-          {
-            "battery": 36,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.407485,
-            "longitude": 127.353856,
-            "providername": "alpaca",
-            "vehicleid": 308560
-          },
-          {
-            "battery": 37,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.468089,
-            "longitude": 127.334635,
-            "providername": "alpaca",
-            "vehicleid": 353274
-          },
-          {
-            "battery": 54,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.517202,
-            "longitude": 127.354773,
-            "providername": "alpaca",
-            "vehicleid": 389154
-          },
-          {
-            "battery": 59,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.416343,
-            "longitude": 127.194664,
-            "providername": "alpaca",
-            "vehicleid": 370297
-          },
-          {
-            "battery": 84,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.438365,
-            "longitude": 127.364123,
-            "providername": "alpaca",
-            "vehicleid": 393452
-          },
-          {
-            "battery": 52,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.425992,
-            "longitude": 127.343031,
-            "providername": "alpaca",
-            "vehicleid": 341486
-          },
-          {
-            "battery": 83,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.421478,
-            "longitude": 127.366642,
-            "providername": "alpaca",
-            "vehicleid": 369656
+            "vehicleid": 379797
           },
           {
             "battery": 60,
             "citycode": 12,
             "cityname": "세종특별시",
-            "latitude": 36.446081,
-            "longitude": 127.213138,
+            "latitude": 36.541626,
+            "longitude": 127.275285,
             "providername": "alpaca",
-            "vehicleid": 337274
-          },
-          {
-            "battery": 52,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.578783,
-            "longitude": 127.362476,
-            "providername": "alpaca",
-            "vehicleid": 301735
-          },
-          {
-            "battery": 62,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.501565,
-            "longitude": 127.262691,
-            "providername": "alpaca",
-            "vehicleid": 374316
-          },
-          {
-            "battery": 75,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.408549,
-            "longitude": 127.27641,
-            "providername": "alpaca",
-            "vehicleid": 305741
-          },
-          {
-            "battery": 82,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.477144,
-            "longitude": 127.363925,
-            "providername": "alpaca",
-            "vehicleid": 394471
-          },
-          {
-            "battery": 62,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.446656,
-            "longitude": 127.322359,
-            "providername": "alpaca",
-            "vehicleid": 329599
-          },
-          {
-            "battery": 53,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.480254,
-            "longitude": 127.24784,
-            "providername": "alpaca",
-            "vehicleid": 381698
+            "vehicleid": 374143
           },
           {
             "battery": 86,
             "citycode": 12,
             "cityname": "세종특별시",
-            "latitude": 36.549171,
-            "longitude": 127.28135,
+            "latitude": 36.487191,
+            "longitude": 127.265391,
             "providername": "alpaca",
-            "vehicleid": 359466
+            "vehicleid": 316870
           },
           {
-            "battery": 23,
+            "battery": 67,
             "citycode": 12,
             "cityname": "세종특별시",
-            "latitude": 36.509803,
-            "longitude": 127.258137,
+            "latitude": 36.522426,
+            "longitude": 127.243663,
             "providername": "alpaca",
-            "vehicleid": 367344
+            "vehicleid": 346559
           },
           {
-            "battery": 84,
+            "battery": 76,
             "citycode": 12,
             "cityname": "세종특별시",
-            "latitude": 36.536022,
-            "longitude": 127.243625,
+            "latitude": 36.502588,
+            "longitude": 127.31368,
             "providername": "alpaca",
-            "vehicleid": 381215
-          },
-          {
-            "battery": 42,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.429308,
-            "longitude": 127.195241,
-            "providername": "alpaca",
-            "vehicleid": 366750
-          },
-          {
-            "battery": 68,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.516471,
-            "longitude": 127.345005,
-            "providername": "alpaca",
-            "vehicleid": 319132
-          },
-          {
-            "battery": 34,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.504118,
-            "longitude": 127.19268,
-            "providername": "alpaca",
-            "vehicleid": 398166
-          },
-          {
-            "battery": 90,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.46256,
-            "longitude": 127.31271,
-            "providername": "alpaca",
-            "vehicleid": 309494
-          },
-          {
-            "battery": 60,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.433496,
-            "longitude": 127.271066,
-            "providername": "alpaca",
-            "vehicleid": 310687
-          },
-          {
-            "battery": 74,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.531891,
-            "longitude": 127.167146,
-            "providername": "alpaca",
-            "vehicleid": 367201
-          },
-          {
-            "battery": 62,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.452917,
-            "longitude": 127.175282,
-            "providername": "alpaca",
-            "vehicleid": 319337
-          },
-          {
-            "battery": 38,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.548572,
-            "longitude": 127.24783,
-            "providername": "alpaca",
-            "vehicleid": 335390
+            "vehicleid": 372740
           },
           {
             "battery": 44,
             "citycode": 12,
             "cityname": "세종특별시",
-            "latitude": 36.484733,
-            "longitude": 127.312246,
+            "latitude": 36.538974,
+            "longitude": 127.27848,
             "providername": "alpaca",
-            "vehicleid": 324564
+            "vehicleid": 307456
           },
           {
-            "battery": 67,
+            "battery": 18,
             "citycode": 12,
             "cityname": "세종특별시",
-            "latitude": 36.597721,
-            "longitude": 127.182579,
+            "latitude": 36.485237,
+            "longitude": 127.293548,
             "providername": "alpaca",
-            "vehicleid": 355469
-          },
-          {
-            "battery": 54,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.411854,
-            "longitude": 127.268189,
-            "providername": "alpaca",
-            "vehicleid": 388495
-          },
-          {
-            "battery": 80,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.52462,
-            "longitude": 127.133179,
-            "providername": "alpaca",
-            "vehicleid": 346855
-          },
-          {
-            "battery": 89,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.545583,
-            "longitude": 127.137783,
-            "providername": "alpaca",
-            "vehicleid": 347528
-          },
-          {
-            "battery": 57,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.567467,
-            "longitude": 127.348538,
-            "providername": "alpaca",
-            "vehicleid": 382137
-          },
-          {
-            "battery": 83,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.561684,
-            "longitude": 127.284408,
-            "providername": "alpaca",
-            "vehicleid": 309823
-          },
-          {
-            "battery": 61,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.534001,
-            "longitude": 127.284733,
-            "providername": "alpaca",
-            "vehicleid": 345376
-          },
-          {
-            "battery": 63,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.510087,
-            "longitude": 127.173546,
-            "providername": "alpaca",
-            "vehicleid": 362059
-          },
-          {
-            "battery": 59,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.588425,
-            "longitude": 127.15285,
-            "providername": "alpaca",
-            "vehicleid": 309640
-          },
-          {
-            "battery": 61,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.454295,
-            "longitude": 127.320829,
-            "providername": "alpaca",
-            "vehicleid": 319958
-          },
-          {
-            "battery": 59,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.592324,
-            "longitude": 127.258044,
-            "providername": "alpaca",
-            "vehicleid": 336018
-          },
-          {
-            "battery": 82,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.464298,
-            "longitude": 127.270234,
-            "providername": "alpaca",
-            "vehicleid": 380798
-          },
-          {
-            "battery": 42,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.485323,
-            "longitude": 127.13636,
-            "providername": "alpaca",
-            "vehicleid": 380881
-          },
-          {
-            "battery": 67,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.543047,
-            "longitude": 127.215369,
-            "providername": "alpaca",
-            "vehicleid": 301423
-          },
-          {
-            "battery": 75,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.512531,
-            "longitude": 127.29587,
-            "providername": "alpaca",
-            "vehicleid": 344969
-          },
-          {
-            "battery": 54,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.489427,
-            "longitude": 127.278414,
-            "providername": "alpaca",
-            "vehicleid": 330205
-          },
-          {
-            "battery": 60,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.57718,
-            "longitude": 127.319402,
-            "providername": "alpaca",
-            "vehicleid": 324570
-          },
-          {
-            "battery": 83,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.522699,
-            "longitude": 127.209546,
-            "providername": "alpaca",
-            "vehicleid": 370024
-          },
-          {
-            "battery": 86,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.495348,
-            "longitude": 127.238094,
-            "providername": "alpaca",
-            "vehicleid": 311762
-          },
-          {
-            "battery": 91,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.415091,
-            "longitude": 127.336546,
-            "providername": "alpaca",
-            "vehicleid": 359182
-          },
-          {
-            "battery": 33,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.539753,
-            "longitude": 127.27261,
-            "providername": "alpaca",
-            "vehicleid": 363253
-          },
-          {
-            "battery": 83,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.418143,
-            "longitude": 127.205438,
-            "providername": "alpaca",
-            "vehicleid": 323278
-          },
-          {
-            "battery": 68,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.459725,
-            "longitude": 127.222655,
-            "providername": "alpaca",
-            "vehicleid": 306836
-          },
-          {
-            "battery": 52,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.478101,
-            "longitude": 127.130559,
-            "providername": "alpaca",
-            "vehicleid": 342038
-          },
-          {
-            "battery": 11,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.502886,
-            "longitude": 127.343467,
-            "providername": "alpaca",
-            "vehicleid": 341045
-          },
-          {
-            "battery": 58,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.543738,
-            "longitude": 127.258964,
-            "providername": "alpaca",
-            "vehicleid": 345427
-          },
-          {
-            "battery": 64,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.593305,
-            "longitude": 127.194627,
-            "providername": "alpaca",
-            "vehicleid": 302536
-          },
-          {
-            "battery": 23,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.451914,
-            "longitude": 127.284176,
-            "providername": "alpaca",
-            "vehicleid": 323238
-          },
-          {
-            "battery": 35,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.46347,
-            "longitude": 127.155217,
-            "providername": "alpaca",
-            "vehicleid": 301492
-          },
-          {
-            "battery": 84,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.491585,
-            "longitude": 127.286105,
-            "providername": "alpaca",
-            "vehicleid": 323842
-          },
-          {
-            "battery": 54,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.500101,
-            "longitude": 127.271024,
-            "providername": "alpaca",
-            "vehicleid": 315238
-          },
-          {
-            "battery": 49,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.517046,
-            "longitude": 127.170744,
-            "providername": "alpaca",
-            "vehicleid": 359335
-          },
-          {
-            "battery": 72,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.588135,
-            "longitude": 127.151448,
-            "providername": "alpaca",
-            "vehicleid": 371587
-          },
-          {
-            "battery": 51,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.449705,
-            "longitude": 127.284728,
-            "providername": "alpaca",
-            "vehicleid": 300778
-          },
-          {
-            "battery": 67,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.55731,
-            "longitude": 127.22504,
-            "providername": "alpaca",
-            "vehicleid": 360713
-          },
-          {
-            "battery": 67,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.548656,
-            "longitude": 127.25922,
-            "providername": "alpaca",
-            "vehicleid": 375470
-          },
-          {
-            "battery": 83,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.506007,
-            "longitude": 127.355618,
-            "providername": "alpaca",
-            "vehicleid": 338570
-          },
-          {
-            "battery": 62,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.574996,
-            "longitude": 127.191462,
-            "providername": "alpaca",
-            "vehicleid": 342529
+            "vehicleid": 378393
           },
           {
             "battery": 66,
             "citycode": 12,
             "cityname": "세종특별시",
-            "latitude": 36.476514,
-            "longitude": 127.353595,
+            "latitude": 36.512959,
+            "longitude": 127.331206,
             "providername": "alpaca",
-            "vehicleid": 379517
-          },
-          {
-            "battery": 87,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.446076,
-            "longitude": 127.165239,
-            "providername": "alpaca",
-            "vehicleid": 381333
-          },
-          {
-            "battery": 66,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.414717,
-            "longitude": 127.17628,
-            "providername": "alpaca",
-            "vehicleid": 329551
-          },
-          {
-            "battery": 85,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.551387,
-            "longitude": 127.247516,
-            "providername": "alpaca",
-            "vehicleid": 341933
-          },
-          {
-            "battery": 48,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.509913,
-            "longitude": 127.225322,
-            "providername": "alpaca",
-            "vehicleid": 387231
-          },
-          {
-            "battery": 64,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.421166,
-            "longitude": 127.202787,
-            "providername": "alpaca",
-            "vehicleid": 376636
-          },
-          {
-            "battery": 79,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.424954,
-            "longitude": 127.140661,
-            "providername": "alpaca",
-            "vehicleid": 369885
+            "vehicleid": 327398
           },
           {
             "battery": 81,
             "citycode": 12,
             "cityname": "세종특별시",
-            "latitude": 36.484768,
-            "longitude": 127.367051,
+            "latitude": 36.518841,
+            "longitude": 127.301516,
             "providername": "alpaca",
-            "vehicleid": 332749
+            "vehicleid": 350484
           },
           {
-            "battery": 68,
+            "battery": 51,
             "citycode": 12,
             "cityname": "세종특별시",
-            "latitude": 36.55755,
-            "longitude": 127.35034,
+            "latitude": 36.538484,
+            "longitude": 127.319149,
             "providername": "alpaca",
-            "vehicleid": 391112
+            "vehicleid": 301460
           },
           {
-            "battery": 63,
+            "battery": 59,
             "citycode": 12,
             "cityname": "세종특별시",
-            "latitude": 36.440559,
-            "longitude": 127.235214,
+            "latitude": 36.486584,
+            "longitude": 127.257302,
             "providername": "alpaca",
-            "vehicleid": 388279
-          },
-          {
-            "battery": 38,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.565039,
-            "longitude": 127.339488,
-            "providername": "alpaca",
-            "vehicleid": 306836
-          },
-          {
-            "battery": 61,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.479027,
-            "longitude": 127.230266,
-            "providername": "alpaca",
-            "vehicleid": 366349
+            "vehicleid": 391914
           },
           {
             "battery": 64,
             "citycode": 12,
             "cityname": "세종특별시",
-            "latitude": 36.475526,
-            "longitude": 127.232524,
+            "latitude": 36.502455,
+            "longitude": 127.347188,
             "providername": "alpaca",
-            "vehicleid": 344783
-          },
-          {
-            "battery": 55,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.534593,
-            "longitude": 127.354377,
-            "providername": "alpaca",
-            "vehicleid": 386760
-          },
-          {
-            "battery": 85,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.457191,
-            "longitude": 127.180029,
-            "providername": "alpaca",
-            "vehicleid": 361492
-          },
-          {
-            "battery": 86,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.465908,
-            "longitude": 127.332998,
-            "providername": "alpaca",
-            "vehicleid": 369207
-          },
-          {
-            "battery": 26,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.595661,
-            "longitude": 127.251103,
-            "providername": "alpaca",
-            "vehicleid": 316326
-          },
-          {
-            "battery": 70,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.586379,
-            "longitude": 127.200749,
-            "providername": "alpaca",
-            "vehicleid": 350777
+            "vehicleid": 306489
           },
           {
             "battery": 43,
             "citycode": 12,
             "cityname": "세종특별시",
-            "latitude": 36.494631,
-            "longitude": 127.323174,
+            "latitude": 36.530767,
+            "longitude": 127.333286,
             "providername": "alpaca",
-            "vehicleid": 330706
+            "vehicleid": 317771
           },
           {
-            "battery": 76,
+            "battery": 66,
             "citycode": 12,
             "cityname": "세종특별시",
-            "latitude": 36.440462,
-            "longitude": 127.291195,
+            "latitude": 36.509481,
+            "longitude": 127.248952,
             "providername": "alpaca",
-            "vehicleid": 384609
+            "vehicleid": 304476
           },
           {
-            "battery": 69,
+            "battery": 36,
             "citycode": 12,
             "cityname": "세종특별시",
-            "latitude": 36.563954,
-            "longitude": 127.32719,
+            "latitude": 36.495875,
+            "longitude": 127.248209,
             "providername": "alpaca",
-            "vehicleid": 364547
-          },
-          {
-            "battery": 87,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.49459,
-            "longitude": 127.247936,
-            "providername": "alpaca",
-            "vehicleid": 334144
-          },
-          {
-            "battery": 55,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.527075,
-            "longitude": 127.144747,
-            "providername": "alpaca",
-            "vehicleid": 339031
-          },
-          {
-            "battery": 40,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.468413,
-            "longitude": 127.29611,
-            "providername": "alpaca",
-            "vehicleid": 380521
-          },
-          {
-            "battery": 71,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.532099,
-            "longitude": 127.173336,
-            "providername": "alpaca",
-            "vehicleid": 394091
+            "vehicleid": 387772
           },
           {
             "battery": 86,
             "citycode": 12,
             "cityname": "세종특별시",
-            "latitude": 36.453361,
-            "longitude": 127.307371,
+            "latitude": 36.479785,
+            "longitude": 127.30724,
             "providername": "alpaca",
-            "vehicleid": 390801
-          },
-          {
-            "battery": 61,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.417729,
-            "longitude": 127.29592,
-            "providername": "alpaca",
-            "vehicleid": 393592
-          },
-          {
-            "battery": 33,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.523898,
-            "longitude": 127.175611,
-            "providername": "alpaca",
-            "vehicleid": 318739
-          },
-          {
-            "battery": 69,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.440082,
-            "longitude": 127.151861,
-            "providername": "alpaca",
-            "vehicleid": 309118
-          },
-          {
-            "battery": 68,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.414651,
-            "longitude": 127.166363,
-            "providername": "alpaca",
-            "vehicleid": 327428
-          },
-          {
-            "battery": 33,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.471011,
-            "longitude": 127.160248,
-            "providername": "alpaca",
-            "vehicleid": 376056
-          },
-          {
-            "battery": 72,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.51874,
-            "longitude": 127.241205,
-            "providername": "alpaca",
-            "vehicleid": 305057
-          },
-          {
-            "battery": 72,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.460219,
-            "longitude": 127.362461,
-            "providername": "alpaca",
-            "vehicleid": 322974
-          },
-          {
-            "battery": 44,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.551213,
-            "longitude": 127.169544,
-            "providername": "alpaca",
-            "vehicleid": 388741
-          },
-          {
-            "battery": 87,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.408941,
-            "longitude": 127.345117,
-            "providername": "alpaca",
-            "vehicleid": 313440
-          },
-          {
-            "battery": 61,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.542803,
-            "longitude": 127.278922,
-            "providername": "alpaca",
-            "vehicleid": 313219
-          },
-          {
-            "battery": 84,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.579028,
-            "longitude": 127.143399,
-            "providername": "alpaca",
-            "vehicleid": 333547
-          },
-          {
-            "battery": 89,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.48179,
-            "longitude": 127.160862,
-            "providername": "alpaca",
-            "vehicleid": 357207
-          },
-          {
-            "battery": 50,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.409793,
-            "longitude": 127.244762,
-            "providername": "alpaca",
-            "vehicleid": 304348
-          },
-          {
-            "battery": 42,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.532575,
-            "longitude": 127.343519,
-            "providername": "alpaca",
-            "vehicleid": 389674
-          },
-          {
-            "battery": 52,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.490807,
-            "longitude": 127.139823,
-            "providername": "alpaca",
-            "vehicleid": 389504
-          },
-          {
-            "battery": 75,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.447555,
-            "longitude": 127.22976,
-            "providername": "alpaca",
-            "vehicleid": 322304
-          },
-          {
-            "battery": 58,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.535645,
-            "longitude": 127.133933,
-            "providername": "alpaca",
-            "vehicleid": 320518
-          },
-          {
-            "battery": 47,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.555468,
-            "longitude": 127.289285,
-            "providername": "alpaca",
-            "vehicleid": 387465
-          },
-          {
-            "battery": 82,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.431841,
-            "longitude": 127.344384,
-            "providername": "alpaca",
-            "vehicleid": 335508
-          },
-          {
-            "battery": 67,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.573092,
-            "longitude": 127.215403,
-            "providername": "alpaca",
-            "vehicleid": 318912
-          },
-          {
-            "battery": 66,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.513726,
-            "longitude": 127.355386,
-            "providername": "alpaca",
-            "vehicleid": 364064
-          },
-          {
-            "battery": 75,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.510593,
-            "longitude": 127.130282,
-            "providername": "alpaca",
-            "vehicleid": 301049
-          },
-          {
-            "battery": 76,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.484327,
-            "longitude": 127.212753,
-            "providername": "alpaca",
-            "vehicleid": 399345
-          },
-          {
-            "battery": 22,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.474336,
-            "longitude": 127.21005,
-            "providername": "alpaca",
-            "vehicleid": 300735
-          },
-          {
-            "battery": 31,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.556146,
-            "longitude": 127.224301,
-            "providername": "alpaca",
-            "vehicleid": 303677
-          },
-          {
-            "battery": 83,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.475354,
-            "longitude": 127.186102,
-            "providername": "alpaca",
-            "vehicleid": 347136
-          },
-          {
-            "battery": 90,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.461036,
-            "longitude": 127.317557,
-            "providername": "alpaca",
-            "vehicleid": 306391
-          },
-          {
-            "battery": 80,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.448441,
-            "longitude": 127.24556,
-            "providername": "alpaca",
-            "vehicleid": 330674
-          },
-          {
-            "battery": 84,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.506042,
-            "longitude": 127.304163,
-            "providername": "alpaca",
-            "vehicleid": 368993
-          },
-          {
-            "battery": 55,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.532819,
-            "longitude": 127.138746,
-            "providername": "alpaca",
-            "vehicleid": 325136
-          },
-          {
-            "battery": 78,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.523525,
-            "longitude": 127.177073,
-            "providername": "alpaca",
-            "vehicleid": 373365
-          },
-          {
-            "battery": 76,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.461728,
-            "longitude": 127.31847,
-            "providername": "alpaca",
-            "vehicleid": 365403
-          },
-          {
-            "battery": 47,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.474696,
-            "longitude": 127.27859,
-            "providername": "alpaca",
-            "vehicleid": 375021
-          },
-          {
-            "battery": 76,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.519399,
-            "longitude": 127.144562,
-            "providername": "alpaca",
-            "vehicleid": 388829
-          },
-          {
-            "battery": 83,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.547293,
-            "longitude": 127.138599,
-            "providername": "alpaca",
-            "vehicleid": 376103
-          },
-          {
-            "battery": 64,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.449896,
-            "longitude": 127.149657,
-            "providername": "alpaca",
-            "vehicleid": 382724
-          },
-          {
-            "battery": 87,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.45425,
-            "longitude": 127.1333,
-            "providername": "alpaca",
-            "vehicleid": 323760
-          },
-          {
-            "battery": 75,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.475539,
-            "longitude": 127.269013,
-            "providername": "alpaca",
-            "vehicleid": 306322
-          },
-          {
-            "battery": 72,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.485692,
-            "longitude": 127.274756,
-            "providername": "alpaca",
-            "vehicleid": 341815
-          },
-          {
-            "battery": 60,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.546115,
-            "longitude": 127.191235,
-            "providername": "alpaca",
-            "vehicleid": 310844
-          },
-          {
-            "battery": 68,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.458955,
-            "longitude": 127.226019,
-            "providername": "alpaca",
-            "vehicleid": 393139
-          },
-          {
-            "battery": 71,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.460416,
-            "longitude": 127.230287,
-            "providername": "alpaca",
-            "vehicleid": 372808
-          },
-          {
-            "battery": 55,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.500759,
-            "longitude": 127.366778,
-            "providername": "alpaca",
-            "vehicleid": 314076
-          },
-          {
-            "battery": 66,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.543204,
-            "longitude": 127.293833,
-            "providername": "alpaca",
-            "vehicleid": 340112
-          },
-          {
-            "battery": 60,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.543533,
-            "longitude": 127.216035,
-            "providername": "alpaca",
-            "vehicleid": 378531
-          },
-          {
-            "battery": 81,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.439593,
-            "longitude": 127.297175,
-            "providername": "alpaca",
-            "vehicleid": 320846
-          },
-          {
-            "battery": 69,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.48886,
-            "longitude": 127.226725,
-            "providername": "alpaca",
-            "vehicleid": 375117
-          },
-          {
-            "battery": 71,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.425028,
-            "longitude": 127.360788,
-            "providername": "alpaca",
-            "vehicleid": 398391
-          },
-          {
-            "battery": 75,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.43175,
-            "longitude": 127.339387,
-            "providername": "alpaca",
-            "vehicleid": 300879
-          },
-          {
-            "battery": 70,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.531416,
-            "longitude": 127.289652,
-            "providername": "alpaca",
-            "vehicleid": 393928
-          },
-          {
-            "battery": 74,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.443409,
-            "longitude": 127.237477,
-            "providername": "alpaca",
-            "vehicleid": 305314
-          },
-          {
-            "battery": 69,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.445575,
-            "longitude": 127.198926,
-            "providername": "alpaca",
-            "vehicleid": 323540
-          },
-          {
-            "battery": 64,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.478559,
-            "longitude": 127.163579,
-            "providername": "alpaca",
-            "vehicleid": 309343
-          },
-          {
-            "battery": 73,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.435877,
-            "longitude": 127.356756,
-            "providername": "alpaca",
-            "vehicleid": 305303
-          },
-          {
-            "battery": 62,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.459884,
-            "longitude": 127.195117,
-            "providername": "alpaca",
-            "vehicleid": 389733
-          },
-          {
-            "battery": 65,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.410735,
-            "longitude": 127.249318,
-            "providername": "alpaca",
-            "vehicleid": 323606
-          },
-          {
-            "battery": 65,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.577938,
-            "longitude": 127.285236,
-            "providername": "alpaca",
-            "vehicleid": 371006
-          },
-          {
-            "battery": 41,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.494954,
-            "longitude": 127.27821,
-            "providername": "alpaca",
-            "vehicleid": 364484
-          },
-          {
-            "battery": 58,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.515198,
-            "longitude": 127.30873,
-            "providername": "alpaca",
-            "vehicleid": 344109
-          },
-          {
-            "battery": 69,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.420201,
-            "longitude": 127.368289,
-            "providername": "alpaca",
-            "vehicleid": 354126
-          },
-          {
-            "battery": 83,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.443184,
-            "longitude": 127.246919,
-            "providername": "alpaca",
-            "vehicleid": 373050
-          },
-          {
-            "battery": 48,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.551073,
-            "longitude": 127.172066,
-            "providername": "alpaca",
-            "vehicleid": 308275
-          },
-          {
-            "battery": 52,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.427412,
-            "longitude": 127.167662,
-            "providername": "alpaca",
-            "vehicleid": 322798
-          },
-          {
-            "battery": 56,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.529077,
-            "longitude": 127.149097,
-            "providername": "alpaca",
-            "vehicleid": 351906
-          },
-          {
-            "battery": 47,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.496297,
-            "longitude": 127.155354,
-            "providername": "alpaca",
-            "vehicleid": 337722
-          },
-          {
-            "battery": 75,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.493745,
-            "longitude": 127.296374,
-            "providername": "alpaca",
-            "vehicleid": 314638
-          },
-          {
-            "battery": 46,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.576849,
-            "longitude": 127.137814,
-            "providername": "alpaca",
-            "vehicleid": 384131
-          },
-          {
-            "battery": 34,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.427971,
-            "longitude": 127.349731,
-            "providername": "alpaca",
-            "vehicleid": 318985
-          },
-          {
-            "battery": 50,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.489661,
-            "longitude": 127.318505,
-            "providername": "alpaca",
-            "vehicleid": 321870
-          },
-          {
-            "battery": 69,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.517724,
-            "longitude": 127.214984,
-            "providername": "alpaca",
-            "vehicleid": 366927
-          },
-          {
-            "battery": 47,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.415718,
-            "longitude": 127.300035,
-            "providername": "alpaca",
-            "vehicleid": 300926
-          },
-          {
-            "battery": 42,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.448569,
-            "longitude": 127.252986,
-            "providername": "alpaca",
-            "vehicleid": 345736
-          },
-          {
-            "battery": 48,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.555379,
-            "longitude": 127.284621,
-            "providername": "alpaca",
-            "vehicleid": 353657
+            "vehicleid": 377283
           },
           {
             "battery": 63,
             "citycode": 12,
             "cityname": "세종특별시",
-            "latitude": 36.520372,
-            "longitude": 127.255637,
+            "latitude": 36.507576,
+            "longitude": 127.270912,
             "providername": "alpaca",
-            "vehicleid": 363037
-          },
-          {
-            "battery": 49,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.564967,
-            "longitude": 127.192399,
-            "providername": "alpaca",
-            "vehicleid": 393428
-          },
-          {
-            "battery": 61,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.531524,
-            "longitude": 127.333044,
-            "providername": "alpaca",
-            "vehicleid": 338807
-          },
-          {
-            "battery": 65,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.504976,
-            "longitude": 127.192909,
-            "providername": "alpaca",
-            "vehicleid": 394525
-          },
-          {
-            "battery": 51,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.560212,
-            "longitude": 127.162576,
-            "providername": "alpaca",
-            "vehicleid": 340320
-          },
-          {
-            "battery": 87,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.407608,
-            "longitude": 127.267058,
-            "providername": "alpaca",
-            "vehicleid": 313232
-          },
-          {
-            "battery": 87,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.482447,
-            "longitude": 127.245695,
-            "providername": "alpaca",
-            "vehicleid": 325357
-          },
-          {
-            "battery": 82,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.486651,
-            "longitude": 127.170661,
-            "providername": "alpaca",
-            "vehicleid": 313230
-          },
-          {
-            "battery": 59,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.457685,
-            "longitude": 127.265746,
-            "providername": "alpaca",
-            "vehicleid": 316053
-          },
-          {
-            "battery": 77,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.440539,
-            "longitude": 127.230403,
-            "providername": "alpaca",
-            "vehicleid": 374355
-          },
-          {
-            "battery": 54,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.560027,
-            "longitude": 127.170808,
-            "providername": "alpaca",
-            "vehicleid": 323104
-          },
-          {
-            "battery": 45,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.446718,
-            "longitude": 127.286888,
-            "providername": "alpaca",
-            "vehicleid": 362274
-          },
-          {
-            "battery": 71,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.575999,
-            "longitude": 127.247925,
-            "providername": "alpaca",
-            "vehicleid": 347999
-          },
-          {
-            "battery": 80,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.420125,
-            "longitude": 127.28772,
-            "providername": "alpaca",
-            "vehicleid": 303181
-          },
-          {
-            "battery": 75,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.502258,
-            "longitude": 127.344396,
-            "providername": "alpaca",
-            "vehicleid": 319931
-          },
-          {
-            "battery": 57,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.46709,
-            "longitude": 127.229808,
-            "providername": "alpaca",
-            "vehicleid": 377703
-          },
-          {
-            "battery": 66,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.581219,
-            "longitude": 127.314844,
-            "providername": "alpaca",
-            "vehicleid": 310239
-          },
-          {
-            "battery": 21,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.465748,
-            "longitude": 127.341568,
-            "providername": "alpaca",
-            "vehicleid": 364829
-          },
-          {
-            "battery": 72,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.5688,
-            "longitude": 127.16855,
-            "providername": "alpaca",
-            "vehicleid": 360919
-          },
-          {
-            "battery": 34,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.453032,
-            "longitude": 127.361519,
-            "providername": "alpaca",
-            "vehicleid": 378911
-          },
-          {
-            "battery": 66,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.500529,
-            "longitude": 127.204452,
-            "providername": "alpaca",
-            "vehicleid": 311556
-          },
-          {
-            "battery": 78,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.539278,
-            "longitude": 127.171146,
-            "providername": "alpaca",
-            "vehicleid": 389058
-          },
-          {
-            "battery": 77,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.551078,
-            "longitude": 127.227586,
-            "providername": "alpaca",
-            "vehicleid": 317567
-          },
-          {
-            "battery": 77,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.447024,
-            "longitude": 127.177282,
-            "providername": "alpaca",
-            "vehicleid": 378049
-          },
-          {
-            "battery": 77,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.454665,
-            "longitude": 127.315812,
-            "providername": "alpaca",
-            "vehicleid": 314592
-          },
-          {
-            "battery": 51,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.448102,
-            "longitude": 127.22859,
-            "providername": "alpaca",
-            "vehicleid": 374423
-          },
-          {
-            "battery": 70,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.489272,
-            "longitude": 127.25346,
-            "providername": "alpaca",
-            "vehicleid": 346275
+            "vehicleid": 335003
           },
           {
             "battery": 60,
             "citycode": 12,
             "cityname": "세종특별시",
-            "latitude": 36.419161,
-            "longitude": 127.133302,
+            "latitude": 36.49524,
+            "longitude": 127.322208,
             "providername": "alpaca",
-            "vehicleid": 382295
+            "vehicleid": 338847
           },
           {
-            "battery": 46,
+            "battery": 54,
             "citycode": 12,
             "cityname": "세종특별시",
-            "latitude": 36.436194,
-            "longitude": 127.250533,
+            "latitude": 36.493799,
+            "longitude": 127.259106,
             "providername": "alpaca",
-            "vehicleid": 307015
+            "vehicleid": 376931
           },
           {
-            "battery": 51,
+            "battery": 61,
             "citycode": 12,
             "cityname": "세종특별시",
-            "latitude": 36.554064,
-            "longitude": 127.240025,
+            "latitude": 36.495519,
+            "longitude": 127.312324,
             "providername": "alpaca",
-            "vehicleid": 336692
-          },
-          {
-            "battery": 70,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.599913,
-            "longitude": 127.314495,
-            "providername": "alpaca",
-            "vehicleid": 380726
-          },
-          {
-            "battery": 34,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.437667,
-            "longitude": 127.27103,
-            "providername": "alpaca",
-            "vehicleid": 358345
-          },
-          {
-            "battery": 72,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.433359,
-            "longitude": 127.311029,
-            "providername": "alpaca",
-            "vehicleid": 398632
-          },
-          {
-            "battery": 56,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.4858,
-            "longitude": 127.192441,
-            "providername": "alpaca",
-            "vehicleid": 339349
-          },
-          {
-            "battery": 65,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.506238,
-            "longitude": 127.159398,
-            "providername": "alpaca",
-            "vehicleid": 309062
-          },
-          {
-            "battery": 70,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.541702,
-            "longitude": 127.258005,
-            "providername": "alpaca",
-            "vehicleid": 396721
-          },
-          {
-            "battery": 70,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.42963,
-            "longitude": 127.202803,
-            "providername": "alpaca",
-            "vehicleid": 330870
-          },
-          {
-            "battery": 37,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.512549,
-            "longitude": 127.217441,
-            "providername": "alpaca",
-            "vehicleid": 305430
-          },
-          {
-            "battery": 71,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.599807,
-            "longitude": 127.227244,
-            "providername": "alpaca",
-            "vehicleid": 321097
-          },
-          {
-            "battery": 75,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.550972,
-            "longitude": 127.129572,
-            "providername": "alpaca",
-            "vehicleid": 327708
-          },
-          {
-            "battery": 62,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.515708,
-            "longitude": 127.264819,
-            "providername": "alpaca",
-            "vehicleid": 376830
-          },
-          {
-            "battery": 57,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.592269,
-            "longitude": 127.223061,
-            "providername": "alpaca",
-            "vehicleid": 327294
-          },
-          {
-            "battery": 72,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.416242,
-            "longitude": 127.219709,
-            "providername": "alpaca",
-            "vehicleid": 379425
-          },
-          {
-            "battery": 65,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.571644,
-            "longitude": 127.324197,
-            "providername": "alpaca",
-            "vehicleid": 340414
-          },
-          {
-            "battery": 41,
-            "citycode": 12,
-            "cityname": "세종특별시",
-            "latitude": 36.440142,
-            "longitude": 127.214164,
-            "providername": "alpaca",
-            "vehicleid": 312309
+            "vehicleid": 308749
           },
           {
             "battery": 89,
             "citycode": 12,
             "cityname": "세종특별시",
-            "latitude": 36.539431,
-            "longitude": 127.139324,
+            "latitude": 36.471531,
+            "longitude": 127.290109,
             "providername": "alpaca",
-            "vehicleid": 389414
+            "vehicleid": 385702
           },
           {
-            "battery": 69,
+            "battery": 17,
             "citycode": 12,
             "cityname": "세종특별시",
-            "latitude": 36.56079,
-            "longitude": 127.143772,
+            "latitude": 36.516936,
+            "longitude": 127.305563,
             "providername": "alpaca",
-            "vehicleid": 393253
+            "vehicleid": 352219
+          },
+          {
+            "battery": 85,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.522787,
+            "longitude": 127.247411,
+            "providername": "alpaca",
+            "vehicleid": 315972
+          },
+          {
+            "battery": 49,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.48475,
+            "longitude": 127.317844,
+            "providername": "alpaca",
+            "vehicleid": 378582
+          },
+          {
+            "battery": 48,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.471034,
+            "longitude": 127.298629,
+            "providername": "alpaca",
+            "vehicleid": 376011
+          },
+          {
+            "battery": 96,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.490418,
+            "longitude": 127.302292,
+            "providername": "alpaca",
+            "vehicleid": 383562
+          },
+          {
+            "battery": 56,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.492054,
+            "longitude": 127.335888,
+            "providername": "alpaca",
+            "vehicleid": 316103
           },
           {
             "battery": 57,
             "citycode": 12,
             "cityname": "세종특별시",
-            "latitude": 36.509492,
-            "longitude": 127.203418,
+            "latitude": 36.524993,
+            "longitude": 127.317114,
             "providername": "alpaca",
-            "vehicleid": 349642
+            "vehicleid": 368289
           },
           {
-            "battery": 49,
+            "battery": 85,
             "citycode": 12,
             "cityname": "세종특별시",
-            "latitude": 36.430122,
-            "longitude": 127.270136,
+            "latitude": 36.485403,
+            "longitude": 127.295663,
             "providername": "alpaca",
-            "vehicleid": 324852
+            "vehicleid": 336376
           },
           {
-            "battery": 49,
+            "battery": 97,
             "citycode": 12,
             "cityname": "세종특별시",
-            "latitude": 36.437906,
-            "longitude": 127.138007,
+            "latitude": 36.483074,
+            "longitude": 127.276145,
             "providername": "alpaca",
-            "vehicleid": 316810
+            "vehicleid": 364635
           },
           {
-            "battery": 48,
+            "battery": 73,
             "citycode": 12,
             "cityname": "세종특별시",
-            "latitude": 36.57329,
-            "longitude": 127.220783,
+            "latitude": 36.470554,
+            "longitude": 127.277713,
             "providername": "alpaca",
-            "vehicleid": 303448
+            "vehicleid": 340823
           },
           {
-            "battery": 37,
+            "battery": 46,
             "citycode": 12,
             "cityname": "세종특별시",
-            "latitude": 36.55284,
-            "longitude": 127.239509,
+            "latitude": 36.535691,
+            "longitude": 127.281304,
             "providername": "alpaca",
-            "vehicleid": 382178
+            "vehicleid": 389787
           },
           {
-            "battery": 64,
+            "battery": 66,
             "citycode": 12,
             "cityname": "세종특별시",
-            "latitude": 36.456057,
-            "longitude": 127.202525,
+            "latitude": 36.535806,
+            "longitude": 127.274404,
             "providername": "alpaca",
-            "vehicleid": 304433
+            "vehicleid": 329578
+          },
+          {
+            "battery": 73,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.547377,
+            "longitude": 127.319107,
+            "providername": "alpaca",
+            "vehicleid": 311593
+          },
+          {
+            "battery": 38,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.517574,
+            "longitude": 127.262159,
+            "providername": "alpaca",
+            "vehicleid": 381956
+          },
+          {
+            "battery": 51,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.522999,
+            "longitude": 127.343201,
+            "providername": "alpaca",
+            "vehicleid": 322575
+          },
+          {
+            "battery": 51,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.497591,
+            "longitude": 127.254445,
+            "providername": "alpaca",
+            "vehicleid": 379706
           },
           {
             "battery": 86,
             "citycode": 12,
             "cityname": "세종특별시",
-            "latitude": 36.582308,
-            "longitude": 127.257872,
+            "latitude": 36.535074,
+            "longitude": 127.303853,
             "providername": "alpaca",
-            "vehicleid": 322772
+            "vehicleid": 347482
           },
           {
-            "battery": 48,
+            "battery": 45,
             "citycode": 12,
             "cityname": "세종특별시",
-            "latitude": 36.580489,
-            "longitude": 127.224576,
+            "latitude": 36.5459,
+            "longitude": 127.311869,
             "providername": "alpaca",
-            "vehicleid": 375809
+            "vehicleid": 357462
           },
           {
             "battery": 49,
             "citycode": 12,
             "cityname": "세종특별시",
-            "latitude": 36.540653,
-            "longitude": 127.303189,
+            "latitude": 36.479017,
+            "longitude": 127.256719,
             "providername": "alpaca",
-            "vehicleid": 338492
+            "vehicleid": 337576
+          },
+          {
+            "battery": 64,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.493739,
+            "longitude": 127.27788,
+            "providername": "alpaca",
+            "vehicleid": 370182
+          },
+          {
+            "battery": 80,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.508044,
+            "longitude": 127.265054,
+            "providername": "alpaca",
+            "vehicleid": 309039
+          },
+          {
+            "battery": 86,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.53633,
+            "longitude": 127.303401,
+            "providername": "alpaca",
+            "vehicleid": 350786
+          },
+          {
+            "battery": 68,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.506458,
+            "longitude": 127.307445,
+            "providername": "alpaca",
+            "vehicleid": 363530
+          },
+          {
+            "battery": 47,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.539982,
+            "longitude": 127.252091,
+            "providername": "alpaca",
+            "vehicleid": 387484
+          },
+          {
+            "battery": 58,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.498171,
+            "longitude": 127.265722,
+            "providername": "alpaca",
+            "vehicleid": 392250
+          },
+          {
+            "battery": 63,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.554136,
+            "longitude": 127.291428,
+            "providername": "alpaca",
+            "vehicleid": 381649
+          },
+          {
+            "battery": 76,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.483513,
+            "longitude": 127.26834,
+            "providername": "alpaca",
+            "vehicleid": 312224
+          },
+          {
+            "battery": 90,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.468628,
+            "longitude": 127.279559,
+            "providername": "alpaca",
+            "vehicleid": 353182
+          },
+          {
+            "battery": 72,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.496233,
+            "longitude": 127.263872,
+            "providername": "alpaca",
+            "vehicleid": 309902
+          },
+          {
+            "battery": 79,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.478106,
+            "longitude": 127.310695,
+            "providername": "alpaca",
+            "vehicleid": 345788
+          },
+          {
+            "battery": 40,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.539568,
+            "longitude": 127.308708,
+            "providername": "alpaca",
+            "vehicleid": 304697
+          },
+          {
+            "battery": 65,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.493786,
+            "longitude": 127.265256,
+            "providername": "alpaca",
+            "vehicleid": 345313
+          },
+          {
+            "battery": 73,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.514749,
+            "longitude": 127.264691,
+            "providername": "alpaca",
+            "vehicleid": 385424
+          },
+          {
+            "battery": 62,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.515811,
+            "longitude": 127.344274,
+            "providername": "alpaca",
+            "vehicleid": 338305
+          },
+          {
+            "battery": 49,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.526616,
+            "longitude": 127.295831,
+            "providername": "alpaca",
+            "vehicleid": 391004
+          },
+          {
+            "battery": 83,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.51134,
+            "longitude": 127.284954,
+            "providername": "alpaca",
+            "vehicleid": 337072
+          },
+          {
+            "battery": 57,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.50675,
+            "longitude": 127.346563,
+            "providername": "alpaca",
+            "vehicleid": 327583
+          },
+          {
+            "battery": 73,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.50891,
+            "longitude": 127.309729,
+            "providername": "alpaca",
+            "vehicleid": 394956
+          },
+          {
+            "battery": 61,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.549111,
+            "longitude": 127.284081,
+            "providername": "alpaca",
+            "vehicleid": 305005
+          },
+          {
+            "battery": 62,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.545189,
+            "longitude": 127.270064,
+            "providername": "alpaca",
+            "vehicleid": 305245
+          },
+          {
+            "battery": 41,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.516675,
+            "longitude": 127.330376,
+            "providername": "alpaca",
+            "vehicleid": 332927
+          },
+          {
+            "battery": 74,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.529924,
+            "longitude": 127.260293,
+            "providername": "alpaca",
+            "vehicleid": 389250
+          },
+          {
+            "battery": 90,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.499647,
+            "longitude": 127.31331,
+            "providername": "alpaca",
+            "vehicleid": 300723
+          },
+          {
+            "battery": 83,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.540463,
+            "longitude": 127.298518,
+            "providername": "alpaca",
+            "vehicleid": 323057
+          },
+          {
+            "battery": 76,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.475031,
+            "longitude": 127.300908,
+            "providername": "alpaca",
+            "vehicleid": 311657
+          },
+          {
+            "battery": 88,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.537918,
+            "longitude": 127.284217,
+            "providername": "alpaca",
+            "vehicleid": 311221
+          },
+          {
+            "battery": 69,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.523482,
+            "longitude": 127.262677,
+            "providername": "alpaca",
+            "vehicleid": 393490
+          },
+          {
+            "battery": 75,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.503483,
+            "longitude": 127.336184,
+            "providername": "alpaca",
+            "vehicleid": 377855
+          },
+          {
+            "battery": 46,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.541758,
+            "longitude": 127.319978,
+            "providername": "alpaca",
+            "vehicleid": 349384
+          },
+          {
+            "battery": 55,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.519415,
+            "longitude": 127.289711,
+            "providername": "alpaca",
+            "vehicleid": 334715
+          },
+          {
+            "battery": 43,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.53372,
+            "longitude": 127.267928,
+            "providername": "alpaca",
+            "vehicleid": 352690
+          },
+          {
+            "battery": 45,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.545435,
+            "longitude": 127.314576,
+            "providername": "alpaca",
+            "vehicleid": 356756
+          },
+          {
+            "battery": 84,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.541849,
+            "longitude": 127.287757,
+            "providername": "alpaca",
+            "vehicleid": 390078
+          },
+          {
+            "battery": 44,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.540254,
+            "longitude": 127.253839,
+            "providername": "alpaca",
+            "vehicleid": 318978
+          },
+          {
+            "battery": 73,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.495928,
+            "longitude": 127.29634,
+            "providername": "alpaca",
+            "vehicleid": 357285
+          },
+          {
+            "battery": 63,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.500024,
+            "longitude": 127.260348,
+            "providername": "alpaca",
+            "vehicleid": 334524
+          },
+          {
+            "battery": 57,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.519339,
+            "longitude": 127.268086,
+            "providername": "alpaca",
+            "vehicleid": 309526
+          },
+          {
+            "battery": 27,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.53279,
+            "longitude": 127.276853,
+            "providername": "alpaca",
+            "vehicleid": 336114
+          },
+          {
+            "battery": 48,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.528507,
+            "longitude": 127.285336,
+            "providername": "alpaca",
+            "vehicleid": 368665
+          },
+          {
+            "battery": 60,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.503986,
+            "longitude": 127.290801,
+            "providername": "alpaca",
+            "vehicleid": 313302
+          },
+          {
+            "battery": 22,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.495411,
+            "longitude": 127.309774,
+            "providername": "alpaca",
+            "vehicleid": 387362
+          },
+          {
+            "battery": 63,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.524845,
+            "longitude": 127.313112,
+            "providername": "alpaca",
+            "vehicleid": 397233
+          },
+          {
+            "battery": 85,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.530275,
+            "longitude": 127.245986,
+            "providername": "alpaca",
+            "vehicleid": 364957
+          },
+          {
+            "battery": 68,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.53237,
+            "longitude": 127.273578,
+            "providername": "alpaca",
+            "vehicleid": 392924
+          },
+          {
+            "battery": 53,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.549883,
+            "longitude": 127.29794,
+            "providername": "alpaca",
+            "vehicleid": 381741
+          },
+          {
+            "battery": 49,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.532132,
+            "longitude": 127.29399,
+            "providername": "alpaca",
+            "vehicleid": 323003
+          },
+          {
+            "battery": 80,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.547621,
+            "longitude": 127.272788,
+            "providername": "alpaca",
+            "vehicleid": 349485
+          },
+          {
+            "battery": 68,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.510137,
+            "longitude": 127.335888,
+            "providername": "alpaca",
+            "vehicleid": 399155
+          },
+          {
+            "battery": 38,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.501236,
+            "longitude": 127.282682,
+            "providername": "alpaca",
+            "vehicleid": 395786
+          },
+          {
+            "battery": 58,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.512291,
+            "longitude": 127.343318,
+            "providername": "alpaca",
+            "vehicleid": 308713
+          },
+          {
+            "battery": 52,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.533444,
+            "longitude": 127.322713,
+            "providername": "alpaca",
+            "vehicleid": 337681
+          },
+          {
+            "battery": 65,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.507316,
+            "longitude": 127.272273,
+            "providername": "alpaca",
+            "vehicleid": 357362
+          },
+          {
+            "battery": 55,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.488348,
+            "longitude": 127.314135,
+            "providername": "alpaca",
+            "vehicleid": 377391
+          },
+          {
+            "battery": 50,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.484956,
+            "longitude": 127.312134,
+            "providername": "alpaca",
+            "vehicleid": 394528
+          },
+          {
+            "battery": 31,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.499615,
+            "longitude": 127.280755,
+            "providername": "alpaca",
+            "vehicleid": 379851
+          },
+          {
+            "battery": 68,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.499243,
+            "longitude": 127.245926,
+            "providername": "alpaca",
+            "vehicleid": 352728
+          },
+          {
+            "battery": 72,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.500904,
+            "longitude": 127.322536,
+            "providername": "alpaca",
+            "vehicleid": 325860
+          },
+          {
+            "battery": 44,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.46924,
+            "longitude": 127.307876,
+            "providername": "alpaca",
+            "vehicleid": 309458
+          },
+          {
+            "battery": 90,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.498248,
+            "longitude": 127.312089,
+            "providername": "alpaca",
+            "vehicleid": 391439
+          },
+          {
+            "battery": 71,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.481546,
+            "longitude": 127.267367,
+            "providername": "alpaca",
+            "vehicleid": 382459
+          },
+          {
+            "battery": 61,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.500766,
+            "longitude": 127.251412,
+            "providername": "alpaca",
+            "vehicleid": 303645
+          },
+          {
+            "battery": 67,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.55303,
+            "longitude": 127.296764,
+            "providername": "alpaca",
+            "vehicleid": 338054
+          },
+          {
+            "battery": 40,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.508583,
+            "longitude": 127.238294,
+            "providername": "alpaca",
+            "vehicleid": 366054
+          },
+          {
+            "battery": 83,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.504775,
+            "longitude": 127.277253,
+            "providername": "alpaca",
+            "vehicleid": 375270
+          },
+          {
+            "battery": 50,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.494915,
+            "longitude": 127.336488,
+            "providername": "alpaca",
+            "vehicleid": 303144
+          },
+          {
+            "battery": 67,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.516589,
+            "longitude": 127.281337,
+            "providername": "alpaca",
+            "vehicleid": 371722
+          },
+          {
+            "battery": 84,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.541443,
+            "longitude": 127.319447,
+            "providername": "alpaca",
+            "vehicleid": 322170
+          },
+          {
+            "battery": 60,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.527963,
+            "longitude": 127.296979,
+            "providername": "alpaca",
+            "vehicleid": 345884
+          },
+          {
+            "battery": 80,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.486536,
+            "longitude": 127.330962,
+            "providername": "alpaca",
+            "vehicleid": 342448
+          },
+          {
+            "battery": 85,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.504119,
+            "longitude": 127.315358,
+            "providername": "alpaca",
+            "vehicleid": 339221
+          },
+          {
+            "battery": 59,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.504373,
+            "longitude": 127.248705,
+            "providername": "alpaca",
+            "vehicleid": 381206
+          },
+          {
+            "battery": 92,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.479582,
+            "longitude": 127.317135,
+            "providername": "alpaca",
+            "vehicleid": 355676
+          },
+          {
+            "battery": 94,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.482387,
+            "longitude": 127.317353,
+            "providername": "alpaca",
+            "vehicleid": 331116
+          },
+          {
+            "battery": 47,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.483213,
+            "longitude": 127.335659,
+            "providername": "alpaca",
+            "vehicleid": 356957
+          },
+          {
+            "battery": 82,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.497438,
+            "longitude": 127.314059,
+            "providername": "alpaca",
+            "vehicleid": 305938
+          },
+          {
+            "battery": 77,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.478131,
+            "longitude": 127.266957,
+            "providername": "alpaca",
+            "vehicleid": 319816
+          },
+          {
+            "battery": 57,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.50216,
+            "longitude": 127.2891,
+            "providername": "alpaca",
+            "vehicleid": 340810
+          },
+          {
+            "battery": 84,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.553434,
+            "longitude": 127.28016,
+            "providername": "alpaca",
+            "vehicleid": 351397
+          },
+          {
+            "battery": 78,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.492162,
+            "longitude": 127.280497,
+            "providername": "alpaca",
+            "vehicleid": 330480
+          },
+          {
+            "battery": 46,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.522017,
+            "longitude": 127.265172,
+            "providername": "alpaca",
+            "vehicleid": 346591
+          },
+          {
+            "battery": 56,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.496377,
+            "longitude": 127.324926,
+            "providername": "alpaca",
+            "vehicleid": 333606
+          },
+          {
+            "battery": 59,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.4836,
+            "longitude": 127.301767,
+            "providername": "alpaca",
+            "vehicleid": 314306
+          },
+          {
+            "battery": 29,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.547611,
+            "longitude": 127.267339,
+            "providername": "alpaca",
+            "vehicleid": 369792
+          },
+          {
+            "battery": 44,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.540919,
+            "longitude": 127.289754,
+            "providername": "alpaca",
+            "vehicleid": 350014
+          },
+          {
+            "battery": 65,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.544633,
+            "longitude": 127.305914,
+            "providername": "alpaca",
+            "vehicleid": 365031
+          },
+          {
+            "battery": 71,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.50569,
+            "longitude": 127.289918,
+            "providername": "alpaca",
+            "vehicleid": 389194
+          },
+          {
+            "battery": 33,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.516127,
+            "longitude": 127.302792,
+            "providername": "alpaca",
+            "vehicleid": 380470
+          },
+          {
+            "battery": 73,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.489138,
+            "longitude": 127.276295,
+            "providername": "alpaca",
+            "vehicleid": 355855
+          },
+          {
+            "battery": 58,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.489607,
+            "longitude": 127.330419,
+            "providername": "alpaca",
+            "vehicleid": 382088
+          },
+          {
+            "battery": 69,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.527503,
+            "longitude": 127.308115,
+            "providername": "alpaca",
+            "vehicleid": 376461
+          },
+          {
+            "battery": 84,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.534526,
+            "longitude": 127.246549,
+            "providername": "alpaca",
+            "vehicleid": 389768
+          },
+          {
+            "battery": 83,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.51331,
+            "longitude": 127.317518,
+            "providername": "alpaca",
+            "vehicleid": 307332
+          },
+          {
+            "battery": 35,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.486282,
+            "longitude": 127.315941,
+            "providername": "alpaca",
+            "vehicleid": 341829
+          },
+          {
+            "battery": 27,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.513539,
+            "longitude": 127.269518,
+            "providername": "alpaca",
+            "vehicleid": 300134
+          },
+          {
+            "battery": 45,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.534662,
+            "longitude": 127.296552,
+            "providername": "alpaca",
+            "vehicleid": 363060
+          },
+          {
+            "battery": 84,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.513561,
+            "longitude": 127.323955,
+            "providername": "alpaca",
+            "vehicleid": 341856
+          },
+          {
+            "battery": 62,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.49576,
+            "longitude": 127.287797,
+            "providername": "alpaca",
+            "vehicleid": 344889
+          },
+          {
+            "battery": 62,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.50704,
+            "longitude": 127.29524,
+            "providername": "alpaca",
+            "vehicleid": 379713
+          },
+          {
+            "battery": 86,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.556119,
+            "longitude": 127.285501,
+            "providername": "alpaca",
+            "vehicleid": 324220
+          },
+          {
+            "battery": 70,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.493238,
+            "longitude": 127.295437,
+            "providername": "alpaca",
+            "vehicleid": 348099
+          },
+          {
+            "battery": 27,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.516558,
+            "longitude": 127.309645,
+            "providername": "alpaca",
+            "vehicleid": 352071
+          },
+          {
+            "battery": 47,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.506276,
+            "longitude": 127.304538,
+            "providername": "alpaca",
+            "vehicleid": 365965
+          },
+          {
+            "battery": 62,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.511432,
+            "longitude": 127.24228,
+            "providername": "alpaca",
+            "vehicleid": 384727
+          },
+          {
+            "battery": 79,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.551369,
+            "longitude": 127.305064,
+            "providername": "alpaca",
+            "vehicleid": 346229
+          },
+          {
+            "battery": 45,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.499224,
+            "longitude": 127.261597,
+            "providername": "alpaca",
+            "vehicleid": 305352
+          },
+          {
+            "battery": 52,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.513325,
+            "longitude": 127.322762,
+            "providername": "alpaca",
+            "vehicleid": 364586
+          },
+          {
+            "battery": 82,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.545741,
+            "longitude": 127.273282,
+            "providername": "alpaca",
+            "vehicleid": 388055
+          },
+          {
+            "battery": 43,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.483809,
+            "longitude": 127.334302,
+            "providername": "alpaca",
+            "vehicleid": 395875
+          },
+          {
+            "battery": 44,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.53849,
+            "longitude": 127.268189,
+            "providername": "alpaca",
+            "vehicleid": 383560
+          },
+          {
+            "battery": 74,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.486056,
+            "longitude": 127.310034,
+            "providername": "alpaca",
+            "vehicleid": 320418
+          },
+          {
+            "battery": 62,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.517772,
+            "longitude": 127.309016,
+            "providername": "alpaca",
+            "vehicleid": 350620
+          },
+          {
+            "battery": 67,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.506568,
+            "longitude": 127.314374,
+            "providername": "alpaca",
+            "vehicleid": 396143
+          },
+          {
+            "battery": 72,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.491806,
+            "longitude": 127.274835,
+            "providername": "alpaca",
+            "vehicleid": 341004
+          },
+          {
+            "battery": 66,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.49506,
+            "longitude": 127.32657,
+            "providername": "alpaca",
+            "vehicleid": 323145
+          },
+          {
+            "battery": 76,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.506369,
+            "longitude": 127.329975,
+            "providername": "alpaca",
+            "vehicleid": 320031
+          },
+          {
+            "battery": 79,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.510503,
+            "longitude": 127.339483,
+            "providername": "alpaca",
+            "vehicleid": 351821
+          },
+          {
+            "battery": 62,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.474621,
+            "longitude": 127.30561,
+            "providername": "alpaca",
+            "vehicleid": 303748
+          },
+          {
+            "battery": 55,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.541464,
+            "longitude": 127.285628,
+            "providername": "alpaca",
+            "vehicleid": 379545
+          },
+          {
+            "battery": 53,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.515333,
+            "longitude": 127.303354,
+            "providername": "alpaca",
+            "vehicleid": 313218
+          },
+          {
+            "battery": 77,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.528696,
+            "longitude": 127.254887,
+            "providername": "alpaca",
+            "vehicleid": 344695
+          },
+          {
+            "battery": 27,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.548513,
+            "longitude": 127.311686,
+            "providername": "alpaca",
+            "vehicleid": 337525
+          },
+          {
+            "battery": 72,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.529667,
+            "longitude": 127.335596,
+            "providername": "alpaca",
+            "vehicleid": 309345
+          },
+          {
+            "battery": 59,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.516729,
+            "longitude": 127.26079,
+            "providername": "alpaca",
+            "vehicleid": 349109
+          },
+          {
+            "battery": 40,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.507782,
+            "longitude": 127.344625,
+            "providername": "alpaca",
+            "vehicleid": 361556
+          },
+          {
+            "battery": 59,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.546666,
+            "longitude": 127.296595,
+            "providername": "alpaca",
+            "vehicleid": 377984
+          },
+          {
+            "battery": 76,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.49505,
+            "longitude": 127.3355,
+            "providername": "alpaca",
+            "vehicleid": 386716
+          },
+          {
+            "battery": 76,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.506276,
+            "longitude": 127.254279,
+            "providername": "alpaca",
+            "vehicleid": 373794
+          },
+          {
+            "battery": 39,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.521535,
+            "longitude": 127.279051,
+            "providername": "alpaca",
+            "vehicleid": 356078
+          },
+          {
+            "battery": 60,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.52417,
+            "longitude": 127.305304,
+            "providername": "alpaca",
+            "vehicleid": 328744
+          },
+          {
+            "battery": 78,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.532637,
+            "longitude": 127.291131,
+            "providername": "alpaca",
+            "vehicleid": 340566
+          },
+          {
+            "battery": 78,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.541876,
+            "longitude": 127.32008,
+            "providername": "alpaca",
+            "vehicleid": 359424
+          },
+          {
+            "battery": 65,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.531594,
+            "longitude": 127.30047,
+            "providername": "alpaca",
+            "vehicleid": 390391
+          },
+          {
+            "battery": 60,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.542768,
+            "longitude": 127.264962,
+            "providername": "alpaca",
+            "vehicleid": 354245
+          },
+          {
+            "battery": 47,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.519051,
+            "longitude": 127.278027,
+            "providername": "alpaca",
+            "vehicleid": 373599
+          },
+          {
+            "battery": 69,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.488768,
+            "longitude": 127.271714,
+            "providername": "alpaca",
+            "vehicleid": 346557
+          },
+          {
+            "battery": 47,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.478479,
+            "longitude": 127.291321,
+            "providername": "alpaca",
+            "vehicleid": 300553
+          },
+          {
+            "battery": 37,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.536135,
+            "longitude": 127.319583,
+            "providername": "alpaca",
+            "vehicleid": 364552
+          },
+          {
+            "battery": 48,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.487986,
+            "longitude": 127.263987,
+            "providername": "alpaca",
+            "vehicleid": 338081
+          },
+          {
+            "battery": 81,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.483899,
+            "longitude": 127.296416,
+            "providername": "alpaca",
+            "vehicleid": 386022
+          },
+          {
+            "battery": 55,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.473679,
+            "longitude": 127.318437,
+            "providername": "alpaca",
+            "vehicleid": 368344
+          },
+          {
+            "battery": 54,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.556002,
+            "longitude": 127.287228,
+            "providername": "alpaca",
+            "vehicleid": 337500
+          },
+          {
+            "battery": 45,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.501385,
+            "longitude": 127.289539,
+            "providername": "alpaca",
+            "vehicleid": 373741
+          },
+          {
+            "battery": 48,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.529452,
+            "longitude": 127.323712,
+            "providername": "alpaca",
+            "vehicleid": 393383
+          },
+          {
+            "battery": 63,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.550502,
+            "longitude": 127.285759,
+            "providername": "alpaca",
+            "vehicleid": 349860
+          },
+          {
+            "battery": 64,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.502105,
+            "longitude": 127.34119,
+            "providername": "alpaca",
+            "vehicleid": 342453
+          },
+          {
+            "battery": 38,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.52126,
+            "longitude": 127.24721,
+            "providername": "alpaca",
+            "vehicleid": 350771
+          },
+          {
+            "battery": 69,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.482532,
+            "longitude": 127.268074,
+            "providername": "alpaca",
+            "vehicleid": 355861
+          },
+          {
+            "battery": 68,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.519257,
+            "longitude": 127.315257,
+            "providername": "alpaca",
+            "vehicleid": 338189
+          },
+          {
+            "battery": 86,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.509942,
+            "longitude": 127.290992,
+            "providername": "alpaca",
+            "vehicleid": 363129
+          },
+          {
+            "battery": 34,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.471605,
+            "longitude": 127.312806,
+            "providername": "alpaca",
+            "vehicleid": 315361
+          },
+          {
+            "battery": 36,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.548923,
+            "longitude": 127.315477,
+            "providername": "alpaca",
+            "vehicleid": 300419
+          },
+          {
+            "battery": 63,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.525593,
+            "longitude": 127.292405,
+            "providername": "alpaca",
+            "vehicleid": 363273
+          },
+          {
+            "battery": 57,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.50919,
+            "longitude": 127.270464,
+            "providername": "alpaca",
+            "vehicleid": 334539
+          },
+          {
+            "battery": 52,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.534108,
+            "longitude": 127.305763,
+            "providername": "alpaca",
+            "vehicleid": 372234
+          },
+          {
+            "battery": 64,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.527595,
+            "longitude": 127.321289,
+            "providername": "alpaca",
+            "vehicleid": 314560
+          },
+          {
+            "battery": 51,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.533181,
+            "longitude": 127.270195,
+            "providername": "alpaca",
+            "vehicleid": 302083
+          },
+          {
+            "battery": 48,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.500785,
+            "longitude": 127.343196,
+            "providername": "alpaca",
+            "vehicleid": 307867
+          },
+          {
+            "battery": 89,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.531374,
+            "longitude": 127.272899,
+            "providername": "alpaca",
+            "vehicleid": 361403
+          },
+          {
+            "battery": 67,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.524954,
+            "longitude": 127.284239,
+            "providername": "alpaca",
+            "vehicleid": 364090
+          },
+          {
+            "battery": 47,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.515441,
+            "longitude": 127.258182,
+            "providername": "alpaca",
+            "vehicleid": 357610
+          },
+          {
+            "battery": 62,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.539615,
+            "longitude": 127.286322,
+            "providername": "alpaca",
+            "vehicleid": 354323
+          },
+          {
+            "battery": 68,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.500709,
+            "longitude": 127.255594,
+            "providername": "alpaca",
+            "vehicleid": 369983
+          },
+          {
+            "battery": 88,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.547784,
+            "longitude": 127.273233,
+            "providername": "alpaca",
+            "vehicleid": 391763
+          },
+          {
+            "battery": 44,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.472771,
+            "longitude": 127.306359,
+            "providername": "alpaca",
+            "vehicleid": 368443
+          },
+          {
+            "battery": 79,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.509998,
+            "longitude": 127.283642,
+            "providername": "alpaca",
+            "vehicleid": 397636
+          },
+          {
+            "battery": 70,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.534719,
+            "longitude": 127.252317,
+            "providername": "alpaca",
+            "vehicleid": 369319
+          },
+          {
+            "battery": 87,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.480643,
+            "longitude": 127.275467,
+            "providername": "alpaca",
+            "vehicleid": 393513
+          },
+          {
+            "battery": 79,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.542695,
+            "longitude": 127.318735,
+            "providername": "alpaca",
+            "vehicleid": 303548
+          },
+          {
+            "battery": 43,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.486051,
+            "longitude": 127.31073,
+            "providername": "alpaca",
+            "vehicleid": 396154
+          },
+          {
+            "battery": 65,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.488235,
+            "longitude": 127.279992,
+            "providername": "alpaca",
+            "vehicleid": 380039
+          },
+          {
+            "battery": 81,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.508915,
+            "longitude": 127.266387,
+            "providername": "alpaca",
+            "vehicleid": 317625
+          },
+          {
+            "battery": 91,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.512841,
+            "longitude": 127.245425,
+            "providername": "alpaca",
+            "vehicleid": 305845
+          },
+          {
+            "battery": 38,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.514766,
+            "longitude": 127.332649,
+            "providername": "alpaca",
+            "vehicleid": 383426
+          },
+          {
+            "battery": 68,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.531947,
+            "longitude": 127.280397,
+            "providername": "alpaca",
+            "vehicleid": 302452
+          },
+          {
+            "battery": 82,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.484286,
+            "longitude": 127.328901,
+            "providername": "alpaca",
+            "vehicleid": 323278
+          },
+          {
+            "battery": 55,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.526269,
+            "longitude": 127.306634,
+            "providername": "alpaca",
+            "vehicleid": 345252
+          },
+          {
+            "battery": 55,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.480306,
+            "longitude": 127.282557,
+            "providername": "alpaca",
+            "vehicleid": 362817
+          },
+          {
+            "battery": 75,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.500462,
+            "longitude": 127.277634,
+            "providername": "alpaca",
+            "vehicleid": 330596
+          },
+          {
+            "battery": 62,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.491153,
+            "longitude": 127.272449,
+            "providername": "alpaca",
+            "vehicleid": 360602
+          },
+          {
+            "battery": 72,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.493011,
+            "longitude": 127.308436,
+            "providername": "alpaca",
+            "vehicleid": 324541
+          },
+          {
+            "battery": 64,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.505801,
+            "longitude": 127.328354,
+            "providername": "alpaca",
+            "vehicleid": 390787
+          },
+          {
+            "battery": 46,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.517784,
+            "longitude": 127.336565,
+            "providername": "alpaca",
+            "vehicleid": 346516
+          },
+          {
+            "battery": 65,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.534123,
+            "longitude": 127.256135,
+            "providername": "alpaca",
+            "vehicleid": 319029
+          },
+          {
+            "battery": 69,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.553068,
+            "longitude": 127.281909,
+            "providername": "alpaca",
+            "vehicleid": 367978
+          },
+          {
+            "battery": 57,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.488839,
+            "longitude": 127.271759,
+            "providername": "alpaca",
+            "vehicleid": 302318
+          },
+          {
+            "battery": 72,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.471148,
+            "longitude": 127.28053,
+            "providername": "alpaca",
+            "vehicleid": 391526
+          },
+          {
+            "battery": 79,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.468282,
+            "longitude": 127.304926,
+            "providername": "alpaca",
+            "vehicleid": 308669
+          },
+          {
+            "battery": 23,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.555449,
+            "longitude": 127.299267,
+            "providername": "alpaca",
+            "vehicleid": 347960
+          },
+          {
+            "battery": 62,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.533948,
+            "longitude": 127.320795,
+            "providername": "alpaca",
+            "vehicleid": 388857
+          },
+          {
+            "battery": 80,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.546882,
+            "longitude": 127.305524,
+            "providername": "alpaca",
+            "vehicleid": 321263
+          },
+          {
+            "battery": 50,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.484247,
+            "longitude": 127.28149,
+            "providername": "alpaca",
+            "vehicleid": 376910
+          },
+          {
+            "battery": 55,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.517766,
+            "longitude": 127.269329,
+            "providername": "alpaca",
+            "vehicleid": 301379
+          },
+          {
+            "battery": 89,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.523764,
+            "longitude": 127.288558,
+            "providername": "alpaca",
+            "vehicleid": 314191
+          },
+          {
+            "battery": 47,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.549686,
+            "longitude": 127.268845,
+            "providername": "alpaca",
+            "vehicleid": 392326
+          },
+          {
+            "battery": 42,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.508485,
+            "longitude": 127.27224,
+            "providername": "alpaca",
+            "vehicleid": 397547
+          },
+          {
+            "battery": 30,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.510929,
+            "longitude": 127.247482,
+            "providername": "alpaca",
+            "vehicleid": 308331
+          },
+          {
+            "battery": 48,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.542517,
+            "longitude": 127.313376,
+            "providername": "alpaca",
+            "vehicleid": 385671
+          },
+          {
+            "battery": 87,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.466827,
+            "longitude": 127.292285,
+            "providername": "alpaca",
+            "vehicleid": 346803
+          },
+          {
+            "battery": 38,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.503707,
+            "longitude": 127.289561,
+            "providername": "alpaca",
+            "vehicleid": 305114
+          },
+          {
+            "battery": 59,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.503152,
+            "longitude": 127.268226,
+            "providername": "alpaca",
+            "vehicleid": 306202
+          },
+          {
+            "battery": 70,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.506951,
+            "longitude": 127.33171,
+            "providername": "alpaca",
+            "vehicleid": 337558
+          },
+          {
+            "battery": 48,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.484944,
+            "longitude": 127.334735,
+            "providername": "alpaca",
+            "vehicleid": 306232
+          },
+          {
+            "battery": 70,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.497483,
+            "longitude": 127.328322,
+            "providername": "alpaca",
+            "vehicleid": 325090
+          },
+          {
+            "battery": 80,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.496065,
+            "longitude": 127.253483,
+            "providername": "alpaca",
+            "vehicleid": 312686
+          },
+          {
+            "battery": 79,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.546073,
+            "longitude": 127.27684,
+            "providername": "alpaca",
+            "vehicleid": 334921
+          },
+          {
+            "battery": 63,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.490839,
+            "longitude": 127.259667,
+            "providername": "alpaca",
+            "vehicleid": 366104
+          },
+          {
+            "battery": 70,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.497969,
+            "longitude": 127.264165,
+            "providername": "alpaca",
+            "vehicleid": 383135
+          },
+          {
+            "battery": 79,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.521159,
+            "longitude": 127.260095,
+            "providername": "alpaca",
+            "vehicleid": 307878
+          },
+          {
+            "battery": 72,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.542834,
+            "longitude": 127.328746,
+            "providername": "alpaca",
+            "vehicleid": 389669
+          },
+          {
+            "battery": 56,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.503818,
+            "longitude": 127.278527,
+            "providername": "alpaca",
+            "vehicleid": 329698
+          },
+          {
+            "battery": 69,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.493346,
+            "longitude": 127.281126,
+            "providername": "alpaca",
+            "vehicleid": 322010
+          },
+          {
+            "battery": 44,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.474151,
+            "longitude": 127.285954,
+            "providername": "alpaca",
+            "vehicleid": 383811
+          },
+          {
+            "battery": 94,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.519799,
+            "longitude": 127.332219,
+            "providername": "alpaca",
+            "vehicleid": 303072
+          },
+          {
+            "battery": 80,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.47191,
+            "longitude": 127.281191,
+            "providername": "alpaca",
+            "vehicleid": 349057
+          },
+          {
+            "battery": 85,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.524536,
+            "longitude": 127.327951,
+            "providername": "alpaca",
+            "vehicleid": 399801
+          },
+          {
+            "battery": 77,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.476724,
+            "longitude": 127.309761,
+            "providername": "alpaca",
+            "vehicleid": 375993
+          },
+          {
+            "battery": 53,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.486037,
+            "longitude": 127.273195,
+            "providername": "alpaca",
+            "vehicleid": 363215
+          },
+          {
+            "battery": 51,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.478999,
+            "longitude": 127.259324,
+            "providername": "alpaca",
+            "vehicleid": 389291
+          },
+          {
+            "battery": 87,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.52831,
+            "longitude": 127.303389,
+            "providername": "alpaca",
+            "vehicleid": 356060
+          },
+          {
+            "battery": 57,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.544536,
+            "longitude": 127.255086,
+            "providername": "alpaca",
+            "vehicleid": 335455
+          },
+          {
+            "battery": 84,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.530712,
+            "longitude": 127.321519,
+            "providername": "alpaca",
+            "vehicleid": 338481
+          },
+          {
+            "battery": 69,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.522231,
+            "longitude": 127.252974,
+            "providername": "alpaca",
+            "vehicleid": 317234
+          },
+          {
+            "battery": 16,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.507706,
+            "longitude": 127.290754,
+            "providername": "alpaca",
+            "vehicleid": 372541
+          },
+          {
+            "battery": 56,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.496221,
+            "longitude": 127.288191,
+            "providername": "alpaca",
+            "vehicleid": 307272
+          },
+          {
+            "battery": 81,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.506339,
+            "longitude": 127.270615,
+            "providername": "alpaca",
+            "vehicleid": 393455
+          },
+          {
+            "battery": 60,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.548548,
+            "longitude": 127.322113,
+            "providername": "alpaca",
+            "vehicleid": 349535
+          },
+          {
+            "battery": 70,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.493278,
+            "longitude": 127.263063,
+            "providername": "alpaca",
+            "vehicleid": 381117
+          },
+          {
+            "battery": 59,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.505353,
+            "longitude": 127.25826,
+            "providername": "alpaca",
+            "vehicleid": 389453
+          },
+          {
+            "battery": 57,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.48395,
+            "longitude": 127.292047,
+            "providername": "alpaca",
+            "vehicleid": 308591
+          },
+          {
+            "battery": 61,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.502266,
+            "longitude": 127.257642,
+            "providername": "alpaca",
+            "vehicleid": 323495
+          },
+          {
+            "battery": 83,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.507924,
+            "longitude": 127.309218,
+            "providername": "alpaca",
+            "vehicleid": 316765
+          },
+          {
+            "battery": 35,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.477728,
+            "longitude": 127.258761,
+            "providername": "alpaca",
+            "vehicleid": 382171
+          },
+          {
+            "battery": 85,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.478947,
+            "longitude": 127.269445,
+            "providername": "alpaca",
+            "vehicleid": 345661
+          },
+          {
+            "battery": 40,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.490024,
+            "longitude": 127.341121,
+            "providername": "alpaca",
+            "vehicleid": 352027
+          },
+          {
+            "battery": 73,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.515866,
+            "longitude": 127.330516,
+            "providername": "alpaca",
+            "vehicleid": 398276
+          },
+          {
+            "battery": 76,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.554822,
+            "longitude": 127.294711,
+            "providername": "alpaca",
+            "vehicleid": 323948
+          },
+          {
+            "battery": 61,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.485391,
+            "longitude": 127.298927,
+            "providername": "alpaca",
+            "vehicleid": 330593
+          },
+          {
+            "battery": 53,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.531217,
+            "longitude": 127.25964,
+            "providername": "alpaca",
+            "vehicleid": 339775
+          },
+          {
+            "battery": 73,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.492567,
+            "longitude": 127.34008,
+            "providername": "alpaca",
+            "vehicleid": 351852
+          },
+          {
+            "battery": 85,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.469167,
+            "longitude": 127.29343,
+            "providername": "alpaca",
+            "vehicleid": 392010
+          },
+          {
+            "battery": 88,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.542216,
+            "longitude": 127.327821,
+            "providername": "alpaca",
+            "vehicleid": 369399
+          },
+          {
+            "battery": 77,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.544846,
+            "longitude": 127.317018,
+            "providername": "alpaca",
+            "vehicleid": 362749
+          },
+          {
+            "battery": 64,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.480129,
+            "longitude": 127.321724,
+            "providername": "alpaca",
+            "vehicleid": 399432
+          },
+          {
+            "battery": 70,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.487119,
+            "longitude": 127.278099,
+            "providername": "alpaca",
+            "vehicleid": 355838
+          },
+          {
+            "battery": 78,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.520714,
+            "longitude": 127.328242,
+            "providername": "alpaca",
+            "vehicleid": 390086
+          },
+          {
+            "battery": 74,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.499816,
+            "longitude": 127.300007,
+            "providername": "alpaca",
+            "vehicleid": 357461
+          },
+          {
+            "battery": 87,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.486088,
+            "longitude": 127.325641,
+            "providername": "alpaca",
+            "vehicleid": 389134
+          },
+          {
+            "battery": 37,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.517781,
+            "longitude": 127.27544,
+            "providername": "alpaca",
+            "vehicleid": 312097
+          },
+          {
+            "battery": 79,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.528107,
+            "longitude": 127.334419,
+            "providername": "alpaca",
+            "vehicleid": 321341
+          },
+          {
+            "battery": 69,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.484969,
+            "longitude": 127.265384,
+            "providername": "alpaca",
+            "vehicleid": 355251
+          },
+          {
+            "battery": 62,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.519552,
+            "longitude": 127.302067,
+            "providername": "alpaca",
+            "vehicleid": 329299
+          },
+          {
+            "battery": 68,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.542529,
+            "longitude": 127.326567,
+            "providername": "alpaca",
+            "vehicleid": 329894
+          },
+          {
+            "battery": 73,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.467985,
+            "longitude": 127.283409,
+            "providername": "alpaca",
+            "vehicleid": 372589
+          },
+          {
+            "battery": 57,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.507764,
+            "longitude": 127.263464,
+            "providername": "alpaca",
+            "vehicleid": 391993
+          },
+          {
+            "battery": 74,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.501968,
+            "longitude": 127.240114,
+            "providername": "alpaca",
+            "vehicleid": 316808
+          },
+          {
+            "battery": 76,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.532198,
+            "longitude": 127.323894,
+            "providername": "alpaca",
+            "vehicleid": 331670
+          },
+          {
+            "battery": 89,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.518616,
+            "longitude": 127.321446,
+            "providername": "alpaca",
+            "vehicleid": 390989
+          },
+          {
+            "battery": 44,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.499914,
+            "longitude": 127.295084,
+            "providername": "alpaca",
+            "vehicleid": 359997
+          },
+          {
+            "battery": 67,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.518827,
+            "longitude": 127.326676,
+            "providername": "alpaca",
+            "vehicleid": 345678
+          },
+          {
+            "battery": 84,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.477175,
+            "longitude": 127.327074,
+            "providername": "alpaca",
+            "vehicleid": 380868
+          },
+          {
+            "battery": 81,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.528075,
+            "longitude": 127.330761,
+            "providername": "alpaca",
+            "vehicleid": 313737
+          },
+          {
+            "battery": 78,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.506681,
+            "longitude": 127.318425,
+            "providername": "alpaca",
+            "vehicleid": 307242
+          },
+          {
+            "battery": 56,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.543872,
+            "longitude": 127.302518,
+            "providername": "alpaca",
+            "vehicleid": 359603
+          },
+          {
+            "battery": 59,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.516278,
+            "longitude": 127.339962,
+            "providername": "alpaca",
+            "vehicleid": 341725
+          },
+          {
+            "battery": 56,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.546896,
+            "longitude": 127.270551,
+            "providername": "alpaca",
+            "vehicleid": 301220
+          },
+          {
+            "battery": 72,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.549979,
+            "longitude": 127.303989,
+            "providername": "alpaca",
+            "vehicleid": 399071
+          },
+          {
+            "battery": 64,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.505756,
+            "longitude": 127.333704,
+            "providername": "alpaca",
+            "vehicleid": 348783
+          },
+          {
+            "battery": 32,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.521708,
+            "longitude": 127.263023,
+            "providername": "alpaca",
+            "vehicleid": 320486
+          },
+          {
+            "battery": 54,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.51,
+            "longitude": 127.347268,
+            "providername": "alpaca",
+            "vehicleid": 387476
+          },
+          {
+            "battery": 42,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.529191,
+            "longitude": 127.323806,
+            "providername": "alpaca",
+            "vehicleid": 393765
+          },
+          {
+            "battery": 67,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.536959,
+            "longitude": 127.2967,
+            "providername": "alpaca",
+            "vehicleid": 334791
+          },
+          {
+            "battery": 57,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.515652,
+            "longitude": 127.348585,
+            "providername": "alpaca",
+            "vehicleid": 337878
+          },
+          {
+            "battery": 64,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.51651,
+            "longitude": 127.327444,
+            "providername": "alpaca",
+            "vehicleid": 335330
+          },
+          {
+            "battery": 80,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.480367,
+            "longitude": 127.271907,
+            "providername": "alpaca",
+            "vehicleid": 350845
+          },
+          {
+            "battery": 49,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.482132,
+            "longitude": 127.281772,
+            "providername": "alpaca",
+            "vehicleid": 334943
+          },
+          {
+            "battery": 52,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.51387,
+            "longitude": 127.250909,
+            "providername": "alpaca",
+            "vehicleid": 383881
+          },
+          {
+            "battery": 63,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.504907,
+            "longitude": 127.300164,
+            "providername": "alpaca",
+            "vehicleid": 375158
+          },
+          {
+            "battery": 77,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.51295,
+            "longitude": 127.32905,
+            "providername": "alpaca",
+            "vehicleid": 343301
+          },
+          {
+            "battery": 41,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.526497,
+            "longitude": 127.339578,
+            "providername": "alpaca",
+            "vehicleid": 355807
+          },
+          {
+            "battery": 65,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.544026,
+            "longitude": 127.322201,
+            "providername": "alpaca",
+            "vehicleid": 394384
+          },
+          {
+            "battery": 72,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.482472,
+            "longitude": 127.288551,
+            "providername": "alpaca",
+            "vehicleid": 311862
+          },
+          {
+            "battery": 57,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.481413,
+            "longitude": 127.328225,
+            "providername": "alpaca",
+            "vehicleid": 365552
+          },
+          {
+            "battery": 67,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.512465,
+            "longitude": 127.342385,
+            "providername": "alpaca",
+            "vehicleid": 376064
+          },
+          {
+            "battery": 51,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.488255,
+            "longitude": 127.273389,
+            "providername": "alpaca",
+            "vehicleid": 357328
+          },
+          {
+            "battery": 74,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.521106,
+            "longitude": 127.323423,
+            "providername": "alpaca",
+            "vehicleid": 366317
+          },
+          {
+            "battery": 72,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.49558,
+            "longitude": 127.322271,
+            "providername": "alpaca",
+            "vehicleid": 318189
+          },
+          {
+            "battery": 84,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.503008,
+            "longitude": 127.240246,
+            "providername": "alpaca",
+            "vehicleid": 363376
+          },
+          {
+            "battery": 70,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.542865,
+            "longitude": 127.303953,
+            "providername": "alpaca",
+            "vehicleid": 390237
+          },
+          {
+            "battery": 28,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.497882,
+            "longitude": 127.262467,
+            "providername": "alpaca",
+            "vehicleid": 366078
+          },
+          {
+            "battery": 80,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.496301,
+            "longitude": 127.28945,
+            "providername": "alpaca",
+            "vehicleid": 333082
+          },
+          {
+            "battery": 68,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.541503,
+            "longitude": 127.251532,
+            "providername": "alpaca",
+            "vehicleid": 350618
+          },
+          {
+            "battery": 61,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.527912,
+            "longitude": 127.296903,
+            "providername": "alpaca",
+            "vehicleid": 315931
+          },
+          {
+            "battery": 78,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.49688,
+            "longitude": 127.273724,
+            "providername": "alpaca",
+            "vehicleid": 358112
+          },
+          {
+            "battery": 60,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.545779,
+            "longitude": 127.304843,
+            "providername": "alpaca",
+            "vehicleid": 334449
+          },
+          {
+            "battery": 50,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.490549,
+            "longitude": 127.306802,
+            "providername": "alpaca",
+            "vehicleid": 300963
+          },
+          {
+            "battery": 55,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.521765,
+            "longitude": 127.296564,
+            "providername": "alpaca",
+            "vehicleid": 365555
+          },
+          {
+            "battery": 64,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.53751,
+            "longitude": 127.284398,
+            "providername": "alpaca",
+            "vehicleid": 355759
+          },
+          {
+            "battery": 61,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.507813,
+            "longitude": 127.302031,
+            "providername": "alpaca",
+            "vehicleid": 391679
+          },
+          {
+            "battery": 41,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.514486,
+            "longitude": 127.281132,
+            "providername": "alpaca",
+            "vehicleid": 351703
+          },
+          {
+            "battery": 63,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.520426,
+            "longitude": 127.329199,
+            "providername": "alpaca",
+            "vehicleid": 340959
+          },
+          {
+            "battery": 76,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.525181,
+            "longitude": 127.313636,
+            "providername": "alpaca",
+            "vehicleid": 304636
+          },
+          {
+            "battery": 82,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.543089,
+            "longitude": 127.324208,
+            "providername": "alpaca",
+            "vehicleid": 320195
+          },
+          {
+            "battery": 46,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.48262,
+            "longitude": 127.3351,
+            "providername": "alpaca",
+            "vehicleid": 334122
+          },
+          {
+            "battery": 36,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.480881,
+            "longitude": 127.286912,
+            "providername": "alpaca",
+            "vehicleid": 322556
+          },
+          {
+            "battery": 94,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.475743,
+            "longitude": 127.263006,
+            "providername": "alpaca",
+            "vehicleid": 301660
+          },
+          {
+            "battery": 56,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.500632,
+            "longitude": 127.328935,
+            "providername": "alpaca",
+            "vehicleid": 318565
+          },
+          {
+            "battery": 43,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.530122,
+            "longitude": 127.305024,
+            "providername": "alpaca",
+            "vehicleid": 348230
+          },
+          {
+            "battery": 60,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.539197,
+            "longitude": 127.280505,
+            "providername": "alpaca",
+            "vehicleid": 325023
+          },
+          {
+            "battery": 55,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.476335,
+            "longitude": 127.266589,
+            "providername": "alpaca",
+            "vehicleid": 334738
+          },
+          {
+            "battery": 68,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.503457,
+            "longitude": 127.262948,
+            "providername": "alpaca",
+            "vehicleid": 362797
+          },
+          {
+            "battery": 44,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.521912,
+            "longitude": 127.335904,
+            "providername": "alpaca",
+            "vehicleid": 307452
+          },
+          {
+            "battery": 52,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.517896,
+            "longitude": 127.276103,
+            "providername": "alpaca",
+            "vehicleid": 322331
+          },
+          {
+            "battery": 42,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.520104,
+            "longitude": 127.242485,
+            "providername": "alpaca",
+            "vehicleid": 337059
+          },
+          {
+            "battery": 67,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.533192,
+            "longitude": 127.299071,
+            "providername": "alpaca",
+            "vehicleid": 396872
+          },
+          {
+            "battery": 54,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.541289,
+            "longitude": 127.269828,
+            "providername": "alpaca",
+            "vehicleid": 345654
+          },
+          {
+            "battery": 78,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.516317,
+            "longitude": 127.330036,
+            "providername": "alpaca",
+            "vehicleid": 376159
+          },
+          {
+            "battery": 70,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.506095,
+            "longitude": 127.321497,
+            "providername": "alpaca",
+            "vehicleid": 389131
+          },
+          {
+            "battery": 59,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.500766,
+            "longitude": 127.242167,
+            "providername": "alpaca",
+            "vehicleid": 351801
+          },
+          {
+            "battery": 45,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.540969,
+            "longitude": 127.319587,
+            "providername": "alpaca",
+            "vehicleid": 328155
+          },
+          {
+            "battery": 53,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.531055,
+            "longitude": 127.283746,
+            "providername": "alpaca",
+            "vehicleid": 392694
+          },
+          {
+            "battery": 74,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.495842,
+            "longitude": 127.274876,
+            "providername": "alpaca",
+            "vehicleid": 359849
+          },
+          {
+            "battery": 78,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.526016,
+            "longitude": 127.253196,
+            "providername": "alpaca",
+            "vehicleid": 312768
+          },
+          {
+            "battery": 46,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.536672,
+            "longitude": 127.289739,
+            "providername": "alpaca",
+            "vehicleid": 332726
+          },
+          {
+            "battery": 69,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.538767,
+            "longitude": 127.318687,
+            "providername": "alpaca",
+            "vehicleid": 315671
+          },
+          {
+            "battery": 71,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.497005,
+            "longitude": 127.31218,
+            "providername": "alpaca",
+            "vehicleid": 307679
+          },
+          {
+            "battery": 57,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.487485,
+            "longitude": 127.290204,
+            "providername": "alpaca",
+            "vehicleid": 306804
+          },
+          {
+            "battery": 71,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.515916,
+            "longitude": 127.299376,
+            "providername": "alpaca",
+            "vehicleid": 363164
+          },
+          {
+            "battery": 66,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.521901,
+            "longitude": 127.259472,
+            "providername": "alpaca",
+            "vehicleid": 310323
+          },
+          {
+            "battery": 41,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.502957,
+            "longitude": 127.271761,
+            "providername": "alpaca",
+            "vehicleid": 387129
+          },
+          {
+            "battery": 73,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.475914,
+            "longitude": 127.273289,
+            "providername": "alpaca",
+            "vehicleid": 347011
+          },
+          {
+            "battery": 57,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.532314,
+            "longitude": 127.314377,
+            "providername": "alpaca",
+            "vehicleid": 325586
+          },
+          {
+            "battery": 64,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.501083,
+            "longitude": 127.303082,
+            "providername": "alpaca",
+            "vehicleid": 309699
+          },
+          {
+            "battery": 56,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.530785,
+            "longitude": 127.250584,
+            "providername": "alpaca",
+            "vehicleid": 324291
+          },
+          {
+            "battery": 68,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.482949,
+            "longitude": 127.25053,
+            "providername": "alpaca",
+            "vehicleid": 326110
+          },
+          {
+            "battery": 69,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.538563,
+            "longitude": 127.292169,
+            "providername": "alpaca",
+            "vehicleid": 301437
+          },
+          {
+            "battery": 65,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.523587,
+            "longitude": 127.291231,
+            "providername": "alpaca",
+            "vehicleid": 302154
+          },
+          {
+            "battery": 37,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.550979,
+            "longitude": 127.290505,
+            "providername": "alpaca",
+            "vehicleid": 319243
+          },
+          {
+            "battery": 52,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.511793,
+            "longitude": 127.254813,
+            "providername": "alpaca",
+            "vehicleid": 359569
+          },
+          {
+            "battery": 82,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.526661,
+            "longitude": 127.33819,
+            "providername": "alpaca",
+            "vehicleid": 352441
+          },
+          {
+            "battery": 81,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.502829,
+            "longitude": 127.326293,
+            "providername": "alpaca",
+            "vehicleid": 364191
+          },
+          {
+            "battery": 65,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.522725,
+            "longitude": 127.274438,
+            "providername": "alpaca",
+            "vehicleid": 394802
+          },
+          {
+            "battery": 51,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.498503,
+            "longitude": 127.285077,
+            "providername": "alpaca",
+            "vehicleid": 330614
+          },
+          {
+            "battery": 68,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.546989,
+            "longitude": 127.292848,
+            "providername": "alpaca",
+            "vehicleid": 323249
+          },
+          {
+            "battery": 26,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.483136,
+            "longitude": 127.268351,
+            "providername": "alpaca",
+            "vehicleid": 326027
+          },
+          {
+            "battery": 57,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.525841,
+            "longitude": 127.304146,
+            "providername": "alpaca",
+            "vehicleid": 345200
+          },
+          {
+            "battery": 80,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.504393,
+            "longitude": 127.263454,
+            "providername": "alpaca",
+            "vehicleid": 301877
+          },
+          {
+            "battery": 38,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.509309,
+            "longitude": 127.296208,
+            "providername": "alpaca",
+            "vehicleid": 302037
+          },
+          {
+            "battery": 43,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.545056,
+            "longitude": 127.294347,
+            "providername": "alpaca",
+            "vehicleid": 304817
+          },
+          {
+            "battery": 69,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.540633,
+            "longitude": 127.25179,
+            "providername": "alpaca",
+            "vehicleid": 342996
+          },
+          {
+            "battery": 55,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.548885,
+            "longitude": 127.27238,
+            "providername": "alpaca",
+            "vehicleid": 334896
+          },
+          {
+            "battery": 55,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.477709,
+            "longitude": 127.309404,
+            "providername": "alpaca",
+            "vehicleid": 386189
+          },
+          {
+            "battery": 68,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.502848,
+            "longitude": 127.264287,
+            "providername": "alpaca",
+            "vehicleid": 353157
+          },
+          {
+            "battery": 90,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.510126,
+            "longitude": 127.335652,
+            "providername": "alpaca",
+            "vehicleid": 323523
+          },
+          {
+            "battery": 45,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.487602,
+            "longitude": 127.281855,
+            "providername": "alpaca",
+            "vehicleid": 385451
+          },
+          {
+            "battery": 70,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.52158,
+            "longitude": 127.286386,
+            "providername": "alpaca",
+            "vehicleid": 392744
+          },
+          {
+            "battery": 92,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.486435,
+            "longitude": 127.288228,
+            "providername": "alpaca",
+            "vehicleid": 346831
+          },
+          {
+            "battery": 51,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.473378,
+            "longitude": 127.301761,
+            "providername": "alpaca",
+            "vehicleid": 302638
+          },
+          {
+            "battery": 68,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.5258,
+            "longitude": 127.300285,
+            "providername": "alpaca",
+            "vehicleid": 361855
+          },
+          {
+            "battery": 76,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.511427,
+            "longitude": 127.332707,
+            "providername": "alpaca",
+            "vehicleid": 313065
+          },
+          {
+            "battery": 80,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.503338,
+            "longitude": 127.26001,
+            "providername": "alpaca",
+            "vehicleid": 328122
+          },
+          {
+            "battery": 75,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.508998,
+            "longitude": 127.336382,
+            "providername": "alpaca",
+            "vehicleid": 355466
+          },
+          {
+            "battery": 33,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.497397,
+            "longitude": 127.324321,
+            "providername": "alpaca",
+            "vehicleid": 398303
+          },
+          {
+            "battery": 57,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.540948,
+            "longitude": 127.264629,
+            "providername": "alpaca",
+            "vehicleid": 302267
+          },
+          {
+            "battery": 83,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.516552,
+            "longitude": 127.31848,
+            "providername": "alpaca",
+            "vehicleid": 321537
+          },
+          {
+            "battery": 49,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.531997,
+            "longitude": 127.325974,
+            "providername": "alpaca",
+            "vehicleid": 319201
+          },
+          {
+            "battery": 93,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.53432,
+            "longitude": 127.252706,
+            "providername": "alpaca",
+            "vehicleid": 356494
+          },
+          {
+            "battery": 61,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.512128,
+            "longitude": 127.294475,
+            "providername": "alpaca",
+            "vehicleid": 392238
+          },
+          {
+            "battery": 75,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.508802,
+            "longitude": 127.293931,
+            "providername": "alpaca",
+            "vehicleid": 305688
+          },
+          {
+            "battery": 64,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.5418,
+            "longitude": 127.288128,
+            "providername": "alpaca",
+            "vehicleid": 317455
+          },
+          {
+            "battery": 89,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.483803,
+            "longitude": 127.311023,
+            "providername": "alpaca",
+            "vehicleid": 366657
+          },
+          {
+            "battery": 33,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.517747,
+            "longitude": 127.279106,
+            "providername": "alpaca",
+            "vehicleid": 375679
+          },
+          {
+            "battery": 70,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.5455,
+            "longitude": 127.300912,
+            "providername": "alpaca",
+            "vehicleid": 346133
+          },
+          {
+            "battery": 77,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.502842,
+            "longitude": 127.326515,
+            "providername": "alpaca",
+            "vehicleid": 337864
+          },
+          {
+            "battery": 96,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.521766,
+            "longitude": 127.304598,
+            "providername": "alpaca",
+            "vehicleid": 344706
+          },
+          {
+            "battery": 54,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.490682,
+            "longitude": 127.302801,
+            "providername": "alpaca",
+            "vehicleid": 395677
+          },
+          {
+            "battery": 70,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.525489,
+            "longitude": 127.270288,
+            "providername": "alpaca",
+            "vehicleid": 382279
+          },
+          {
+            "battery": 48,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.529306,
+            "longitude": 127.295027,
+            "providername": "alpaca",
+            "vehicleid": 372379
+          },
+          {
+            "battery": 36,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.529687,
+            "longitude": 127.328906,
+            "providername": "alpaca",
+            "vehicleid": 358720
+          },
+          {
+            "battery": 47,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.519537,
+            "longitude": 127.34319,
+            "providername": "alpaca",
+            "vehicleid": 383473
+          },
+          {
+            "battery": 80,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.516614,
+            "longitude": 127.251769,
+            "providername": "alpaca",
+            "vehicleid": 335042
+          },
+          {
+            "battery": 48,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.501159,
+            "longitude": 127.24737,
+            "providername": "alpaca",
+            "vehicleid": 394394
+          },
+          {
+            "battery": 30,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.531552,
+            "longitude": 127.25672,
+            "providername": "alpaca",
+            "vehicleid": 305666
+          },
+          {
+            "battery": 51,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.475272,
+            "longitude": 127.264554,
+            "providername": "alpaca",
+            "vehicleid": 392859
+          },
+          {
+            "battery": 58,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.484559,
+            "longitude": 127.277261,
+            "providername": "alpaca",
+            "vehicleid": 309454
+          },
+          {
+            "battery": 50,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.473784,
+            "longitude": 127.316456,
+            "providername": "alpaca",
+            "vehicleid": 304592
+          },
+          {
+            "battery": 64,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.482537,
+            "longitude": 127.280866,
+            "providername": "alpaca",
+            "vehicleid": 356899
+          },
+          {
+            "battery": 62,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.509767,
+            "longitude": 127.256339,
+            "providername": "alpaca",
+            "vehicleid": 366946
+          },
+          {
+            "battery": 37,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.481138,
+            "longitude": 127.285934,
+            "providername": "alpaca",
+            "vehicleid": 346481
+          },
+          {
+            "battery": 82,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.544344,
+            "longitude": 127.31474,
+            "providername": "alpaca",
+            "vehicleid": 334500
+          },
+          {
+            "battery": 32,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.496331,
+            "longitude": 127.263927,
+            "providername": "alpaca",
+            "vehicleid": 345916
+          },
+          {
+            "battery": 66,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.542049,
+            "longitude": 127.328982,
+            "providername": "alpaca",
+            "vehicleid": 383909
+          },
+          {
+            "battery": 46,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.534361,
+            "longitude": 127.292573,
+            "providername": "alpaca",
+            "vehicleid": 342548
+          },
+          {
+            "battery": 62,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.489294,
+            "longitude": 127.295552,
+            "providername": "alpaca",
+            "vehicleid": 390890
+          },
+          {
+            "battery": 70,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.483512,
+            "longitude": 127.281136,
+            "providername": "alpaca",
+            "vehicleid": 373100
+          },
+          {
+            "battery": 46,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.542796,
+            "longitude": 127.261413,
+            "providername": "alpaca",
+            "vehicleid": 365929
+          },
+          {
+            "battery": 59,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.471116,
+            "longitude": 127.28654,
+            "providername": "alpaca",
+            "vehicleid": 322083
+          },
+          {
+            "battery": 74,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.472175,
+            "longitude": 127.290779,
+            "providername": "alpaca",
+            "vehicleid": 326390
+          },
+          {
+            "battery": 55,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.500375,
+            "longitude": 127.33138,
+            "providername": "alpaca",
+            "vehicleid": 334281
+          },
+          {
+            "battery": 40,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.510252,
+            "longitude": 127.287611,
+            "providername": "alpaca",
+            "vehicleid": 340632
+          },
+          {
+            "battery": 73,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.488442,
+            "longitude": 127.276211,
+            "providername": "alpaca",
+            "vehicleid": 335540
+          },
+          {
+            "battery": 86,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.508483,
+            "longitude": 127.346668,
+            "providername": "alpaca",
+            "vehicleid": 343348
+          },
+          {
+            "battery": 50,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.508334,
+            "longitude": 127.311158,
+            "providername": "alpaca",
+            "vehicleid": 382667
+          },
+          {
+            "battery": 21,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.510575,
+            "longitude": 127.294561,
+            "providername": "alpaca",
+            "vehicleid": 322284
+          },
+          {
+            "battery": 72,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.520363,
+            "longitude": 127.256954,
+            "providername": "alpaca",
+            "vehicleid": 391244
+          },
+          {
+            "battery": 57,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.481875,
+            "longitude": 127.256303,
+            "providername": "alpaca",
+            "vehicleid": 372702
+          },
+          {
+            "battery": 60,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.524722,
+            "longitude": 127.331096,
+            "providername": "alpaca",
+            "vehicleid": 354827
+          },
+          {
+            "battery": 86,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.548122,
+            "longitude": 127.272793,
+            "providername": "alpaca",
+            "vehicleid": 335388
+          },
+          {
+            "battery": 73,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.541995,
+            "longitude": 127.308146,
+            "providername": "alpaca",
+            "vehicleid": 349095
+          },
+          {
+            "battery": 79,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.484619,
+            "longitude": 127.281102,
+            "providername": "alpaca",
+            "vehicleid": 314489
+          },
+          {
+            "battery": 60,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.505551,
+            "longitude": 127.284432,
+            "providername": "alpaca",
+            "vehicleid": 317035
+          },
+          {
+            "battery": 42,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.502433,
+            "longitude": 127.298715,
+            "providername": "alpaca",
+            "vehicleid": 389174
+          },
+          {
+            "battery": 70,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.499417,
+            "longitude": 127.320424,
+            "providername": "alpaca",
+            "vehicleid": 375501
+          },
+          {
+            "battery": 55,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.517865,
+            "longitude": 127.297081,
+            "providername": "alpaca",
+            "vehicleid": 340202
+          },
+          {
+            "battery": 67,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.535583,
+            "longitude": 127.24841,
+            "providername": "alpaca",
+            "vehicleid": 374680
+          },
+          {
+            "battery": 47,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.517715,
+            "longitude": 127.245609,
+            "providername": "alpaca",
+            "vehicleid": 366918
+          },
+          {
+            "battery": 93,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.484208,
+            "longitude": 127.294449,
+            "providername": "alpaca",
+            "vehicleid": 300376
+          },
+          {
+            "battery": 45,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.480871,
+            "longitude": 127.295176,
+            "providername": "alpaca",
+            "vehicleid": 357228
+          },
+          {
+            "battery": 67,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.486604,
+            "longitude": 127.259552,
+            "providername": "alpaca",
+            "vehicleid": 368018
+          },
+          {
+            "battery": 61,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.510342,
+            "longitude": 127.326758,
+            "providername": "alpaca",
+            "vehicleid": 398746
+          },
+          {
+            "battery": 52,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.508962,
+            "longitude": 127.299341,
+            "providername": "alpaca",
+            "vehicleid": 306296
+          },
+          {
+            "battery": 54,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.481872,
+            "longitude": 127.288257,
+            "providername": "alpaca",
+            "vehicleid": 329023
+          },
+          {
+            "battery": 55,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.509787,
+            "longitude": 127.347902,
+            "providername": "alpaca",
+            "vehicleid": 393419
+          },
+          {
+            "battery": 79,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.52668,
+            "longitude": 127.333643,
+            "providername": "alpaca",
+            "vehicleid": 393405
+          },
+          {
+            "battery": 78,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.527362,
+            "longitude": 127.340566,
+            "providername": "alpaca",
+            "vehicleid": 376469
+          },
+          {
+            "battery": 70,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.526282,
+            "longitude": 127.32008,
+            "providername": "alpaca",
+            "vehicleid": 383910
+          },
+          {
+            "battery": 45,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.53228,
+            "longitude": 127.2932,
+            "providername": "alpaca",
+            "vehicleid": 307042
+          },
+          {
+            "battery": 93,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.504465,
+            "longitude": 127.278894,
+            "providername": "alpaca",
+            "vehicleid": 302948
+          },
+          {
+            "battery": 87,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.477795,
+            "longitude": 127.297027,
+            "providername": "alpaca",
+            "vehicleid": 343528
+          },
+          {
+            "battery": 52,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.491511,
+            "longitude": 127.293736,
+            "providername": "alpaca",
+            "vehicleid": 366851
+          },
+          {
+            "battery": 65,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.521374,
+            "longitude": 127.291434,
+            "providername": "alpaca",
+            "vehicleid": 339180
+          },
+          {
+            "battery": 89,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.533417,
+            "longitude": 127.261488,
+            "providername": "alpaca",
+            "vehicleid": 374244
+          },
+          {
+            "battery": 73,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.487355,
+            "longitude": 127.288202,
+            "providername": "alpaca",
+            "vehicleid": 382599
+          },
+          {
+            "battery": 62,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.486851,
+            "longitude": 127.250324,
+            "providername": "alpaca",
+            "vehicleid": 345792
+          },
+          {
+            "battery": 75,
+            "citycode": 12,
+            "cityname": "세종특별시",
+            "latitude": 36.469748,
+            "longitude": 127.302783,
+            "providername": "alpaca",
+            "vehicleid": 371516
           }
         ]
       },
-      "numOfRows": 241,
+      "numOfRows": 483,
       "pageNo": 1,
-      "totalCount": 241
+      "totalCount": 483
     }
   }
 }

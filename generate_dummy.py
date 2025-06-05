@@ -6,14 +6,15 @@ import math
 
 def generate_dummy_data(
     providername: str = "gbike",
-    lat_range: tuple[float, float] = (36.406900, 36.601200),
-    lon_range: tuple[float, float] = (127.128600, 127.370400),
+    # 36.563478, 127.346569  36.460080, 127.240231
+    lat_range: tuple[float, float] = (36.460080, 36.563478),
+    lon_range: tuple[float, float] = (127.240231, 127.346569),
     citycode: int = 12,
     cityname: str = "세종특별시",
     code: int = 1,
 ) -> dict:
 
-    num_items = random.randint(200, 299)
+    num_items = random.randint(400, 499)
     items = [
         {
             "battery": math.trunc(random.betavariate(5,3)*100.0),
