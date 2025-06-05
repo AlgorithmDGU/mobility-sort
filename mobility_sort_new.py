@@ -2,7 +2,7 @@ from __future__ import annotations
 import json
 import math
 import os
-import datetime as _dt
+import datetime
 from pathlib import Path
 from dataclasses import dataclass, field
 from typing import Dict, List, Any
@@ -40,7 +40,7 @@ class Device:
 
 DATA_DIR = Path(__file__).with_suffix("").parent / "data"
 RADIUS_METERS = 500
-AVG_SCOOTER_SPEED_M_PER_MIN = 250  # ≈15 km/h
+AVG_SCOOTER_SPEED_M_PER_MIN = 250  # 15 km/h
 
 NIGHT_START_HOUR = 22
 NIGHT_END_HOUR = 6
@@ -73,8 +73,8 @@ def getDistance(p1: Point, p2: Point) -> float:
     return 2 * R * math.asin(math.sqrt(a))
 
 
-def isNight(now: _dt.datetime | None = None) -> bool:
-    now = now or _dt.datetime.now(_dt.timezone(_dt.timedelta(hours=9)))
+def isNight() -> bool:
+    now = datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=9)))
     return now.hour >= NIGHT_START_HOUR or now.hour < NIGHT_END_HOUR
 
 
@@ -82,7 +82,7 @@ def getRideMinutes(distance_m: float) -> float:
     return distance_m / AVG_SCOOTER_SPEED_M_PER_MIN
 
 
-def calculateFee(provider: str, minutes: float, night: bool) -> int:
+def calculateSpecialFee(provider: str, minutes: float, night: bool) -> int:
     key = provider
     if provider in {"gcoo", "socarelecle"}:
         key = f"{provider}_{'night' if night else 'day'}"
@@ -139,11 +139,11 @@ def filterDevices(devices: List[Device], start: Point) -> List[Device]:
     return filtered
 
 
-def getPrices(devices: List[Device], path_m: float, now: _dt.datetime):
+def getPrices(devices: List[Device], path_m: float):
     minutes = getRideMinutes(path_m)
-    night_flag = isNight(now)
+    night_flag = isNight()
     for dev in devices:
-        dev.price = calculateFee(dev.provider, minutes, night_flag)
+        dev.price = calculateSpecialFee(dev.provider, minutes, night_flag)
 
 def computeScore(devices: List[Device]):
     prices = [d.price for d in devices]
