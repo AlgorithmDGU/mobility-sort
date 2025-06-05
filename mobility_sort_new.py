@@ -1,5 +1,4 @@
 from __future__ import annotations
-
 import json
 import math
 import os
@@ -7,7 +6,6 @@ import datetime as _dt
 from pathlib import Path
 from dataclasses import dataclass, field
 from typing import Dict, List, Any
-
 import requests
 from dotenv import load_dotenv
 
@@ -46,6 +44,7 @@ AVG_SCOOTER_SPEED_M_PER_MIN = 250  # ≈15 km/h
 
 NIGHT_START_HOUR = 22
 NIGHT_END_HOUR = 6
+MIN_BATTERY_PERCENTAGE = 10
 
 load_dotenv()
 TMAP_KEY = os.getenv("TMAP_KEY", "")
@@ -84,7 +83,6 @@ def getRideMinutes(distance_m: float) -> float:
 
 
 def calculateFee(provider: str, minutes: float, night: bool) -> int:
-    """업체·시간대별 요금(원)."""
     key = provider
     if provider in {"gcoo", "socarelecle"}:
         key = f"{provider}_{'night' if night else 'day'}"
@@ -92,7 +90,7 @@ def calculateFee(provider: str, minutes: float, night: bool) -> int:
     return int(fee["base"] + fee["per_min"] * math.ceil(minutes))
 
 
-def getTmapDistance(start: Point, end: Point, timeout: int = 5) -> float:
+def getTmapDistance(start: Point, end: Point) -> float:
     headers = {"appKey": TMAP_KEY, "Content-Type": "application/x-www-form-urlencoded"}
     payload = {
         "startX": str(start.y),
@@ -106,15 +104,15 @@ def getTmapDistance(start: Point, end: Point, timeout: int = 5) -> float:
     }
     url = "https://apis.openapi.sk.com/tmap/routes/pedestrian?version=1"
     try:
-        res = requests.post(url, headers=headers, data=payload, timeout=timeout)
+        res = requests.post(url, headers=headers, data=payload, timeout=5)
         res.raise_for_status()
         return res.json()["features"][0]["properties"]["totalDistance"]
     except Exception:
         return getDistance(start, end) * 1.2
 
-def loadDevicesFromJson(data_dir: Path = DATA_DIR) -> List[Device]:
+def loadDevicesFromJson() -> List[Device]:
     devices: List[Device] = []
-    for json_file in data_dir.glob("*.json"):
+    for json_file in DATA_DIR.glob("*.json"):
         provider_name = json_file.stem
         with open(json_file, encoding="utf-8") as f:
             items = json.load(f)["response"]["body"]["items"]["item"]
@@ -130,31 +128,24 @@ def loadDevicesFromJson(data_dir: Path = DATA_DIR) -> List[Device]:
                 )
     return devices
 
-def filterDevices(
-    devices: List[Device],
-    start: Point,
-    radius_m: float = RADIUS_METERS,
-    battery_min: int = 10,
-) -> List[Device]:
+def filterDevices(devices: List[Device], start: Point) -> List[Device]:
     filtered: List[Device] = []
     for dev in devices:
-        if dev.battery < battery_min:
+        if dev.battery < MIN_BATTERY_PERCENTAGE:
             continue
         dev.dist = getDistance(start, Point(dev.lat, dev.lon))
-        if dev.dist <= radius_m:
+        if dev.dist <= RADIUS_METERS:
             filtered.append(dev)
     return filtered
 
 
-def getPrices(
-    devices: List[Device], path_m: float, now: _dt.datetime | None = None
-) -> None:
+def getPrices(devices: List[Device], path_m: float, now: _dt.datetime):
     minutes = getRideMinutes(path_m)
     night_flag = isNight(now)
     for dev in devices:
         dev.price = calculateFee(dev.provider, minutes, night_flag)
 
-def computeScore(devices: List[Device], radius_m: float = RADIUS_METERS) -> None:
+def computeScore(devices: List[Device]):
     prices = [d.price for d in devices]
     p_min, p_max = min(prices), max(prices)
     price_span = p_max - p_min
@@ -164,7 +155,7 @@ def computeScore(devices: List[Device], radius_m: float = RADIUS_METERS) -> None
             price_score = 100.0
         else:
             price_score = (p_max - dev.price) / price_span * 100
-        dist_score = max(0.0, (radius_m - dev.dist) / radius_m * 100)
+        dist_score = max(0.0, (RADIUS_METERS - dev.dist) / RADIUS_METERS * 100)
         dev.score = price_score * 0.2 + dist_score * 0.8
 
 def quicksort(devices: List[Device]) -> List[Device]:
@@ -181,15 +172,15 @@ if __name__ == "__main__":
     src = Point(36.501333, 127.243789)
     dst = Point(36.494690, 127.266267)
 
-    devices = loadDevicesFromJson(DATA_DIR)
-    nearby = filterDevices(devices, src, RADIUS_METERS, battery_min=10)
+    devices = loadDevicesFromJson()
+    nearby = filterDevices(devices, src)
 
     if not nearby:
         print("추천 가능한 기기가 없습니다.")
     else:
         path_m = getTmapDistance(src, dst)
         getPrices(nearby, path_m)
-        computeScore(nearby, RADIUS_METERS)
+        computeScore(nearby)
 
         for dev in quicksort(nearby):
             d = dev.asdict()
