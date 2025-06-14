@@ -1,24 +1,23 @@
 import time
 import statistics
 import math
+import random
+import heapq
+import copy
 from typing import List
 from mobility_sort_new import (
     Point, Device, loadDevicesFromJson, filterDevices,
-    getPrices, computeScore, quicksort, getTmapDistance
+    getPrices, computeScore, getTmapDistance
 )
-import heapq
-import copy
-import random
 
 
+# 1. 실 데이터 전처리
 def extract_scored_devices() -> List[Device]:
     src = Point(36.501333, 127.243789)
     dst = Point(36.494690, 127.266267)
 
     devices = loadDevicesFromJson()
     nearby = filterDevices(devices, src)
-    if not nearby:
-        return []
 
     try:
         path_m = getTmapDistance(src, dst)
@@ -33,7 +32,6 @@ def extract_scored_devices() -> List[Device]:
 
 
 def expand_devices_with_variation(base_devices: List[Device], target_size: int) -> List[Device]:
-    """기존 기기 데이터를 기반으로 유사하지만 약간씩 다른 기기들을 생성"""
     expanded = []
     base_count = len(base_devices)
 
@@ -54,11 +52,19 @@ def expand_devices_with_variation(base_devices: List[Device], target_size: int) 
     return expanded
 
 
-def quick_sort_wrapper(devices):
-    return quicksort(copy.deepcopy(devices))
+# 2. 정렬 알고리즘 정의
+
+def quick_sort(devices: List[Device]) -> List[Device]:
+    """재귀 기반 QuickSort 구현 (내림차순 점수 기준)"""
+    if len(devices) <= 1:
+        return devices
+    pivot = devices[0]
+    left = [d for d in devices[1:] if d.score > pivot.score]
+    right = [d for d in devices[1:] if d.score <= pivot.score]
+    return quick_sort(left) + [pivot] + quick_sort(right)
 
 
-def heap_sort_wrapper(devices):
+def heap_sort(devices: List[Device]) -> List[Device]:
     heap = [(-dev.score, i, dev) for i, dev in enumerate(devices)]
     heapq.heapify(heap)
     result = []
@@ -68,23 +74,37 @@ def heap_sort_wrapper(devices):
     return result
 
 
-def bucket_sort_wrapper(devices, bucket_count=10):
+def bucket_sort(devices: List[Device], bucket_count=10) -> List[Device]:
     if not devices:
         return []
     min_score = min(dev.score for dev in devices)
     max_score = max(dev.score for dev in devices)
     range_size = (max_score - min_score) / bucket_count or 1
-    buckets: List[List[Device]] = [[] for _ in range(bucket_count)]
+    buckets = [[] for _ in range(bucket_count)]
     for dev in devices:
         idx = int((dev.score - min_score) / range_size)
         if idx == bucket_count:
             idx -= 1
         buckets[idx].append(dev)
-    sorted_devices: List[Device] = []
+    sorted_devices = []
     for bucket in buckets:
         sorted_devices.extend(sorted(bucket, key=lambda d: d.score, reverse=True))
     return sorted_devices
 
+
+# 3. 래퍼 함수로 통일된 인터페이스
+
+def quick_sort_wrapper(devices):
+    return quick_sort(copy.deepcopy(devices))
+
+def heap_sort_wrapper(devices):
+    return heap_sort(copy.deepcopy(devices))
+
+def bucket_sort_wrapper(devices):
+    return bucket_sort(copy.deepcopy(devices))
+
+
+# 4. 정렬 시간 및 복잡도 측정
 
 def measure_sorting_time(sort_func, devices: List[Device]) -> float:
     test_devices = copy.deepcopy(devices)
@@ -138,6 +158,8 @@ def run_tests(name: str, sort_func, devices: List[Device], theory_complexity: fl
     return results
 
 
+# 5. 전체 테스트 실행
+
 def compare_all():
     devices = extract_scored_devices()
     if not devices:
@@ -149,12 +171,11 @@ def compare_all():
     b = run_tests("BucketSort", bucket_sort_wrapper, devices, theory_complexity=1.00)
 
     def avg(d): return sum(d.values()) / len(d)
-
     print("[성능 요약 (단위: 초)]")
-    print(f"QuickSort 평균시간:  {avg(q):.4f} s")
-    print(f"HeapSort 평균시간:   {avg(h):.4f} s")
-    print(f"BucketSort 평균시간: {avg(b):.4f} s")
+    print(f"QuickSort 평균시간:  {avg(q):.5f} s")
+    print(f"HeapSort 평균시간:   {avg(h):.5f} s")
+    print(f"BucketSort 평균시간: {avg(b):.5f} s")
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     compare_all()
