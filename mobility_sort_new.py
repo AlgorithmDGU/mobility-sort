@@ -133,7 +133,8 @@ def filterDevices(devices: List[Device], start: Point) -> List[Device]:
     for dev in devices:
         if dev.battery < MIN_BATTERY_PERCENTAGE:
             continue
-        dev.dist = getDistance(start, Point(dev.lat, dev.lon))
+        dev.dist = getDistance(start, Point(dev.lat, dev.lon)) *1.27
+        #보정계수 곱해주기
         if dev.dist <= RADIUS_METERS:
             filtered.append(dev)
     return filtered
