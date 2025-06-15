@@ -1,181 +1,148 @@
 import time
-import statistics
 import math
 import random
-import heapq
-import copy
-from typing import List
+import numpy as np
+import gc
+from statistics import mean
+from typing import List, Callable, Dict
+
 from mobility_sort_new import (
     Point, Device, loadDevicesFromJson, filterDevices,
-    getPrices, computeScore, getTmapDistance
+    getPrices, computeScore, getTmapDistance, getDistance
 )
 
 
-# 1. 실 데이터 전처리
 def extract_scored_devices() -> List[Device]:
     src = Point(36.501333, 127.243789)
     dst = Point(36.494690, 127.266267)
-
-    devices = loadDevicesFromJson()
-    nearby = filterDevices(devices, src)
-
+    devices = filterDevices(loadDevicesFromJson(), src)
     try:
         path_m = getTmapDistance(src, dst)
-    except:
-        from mobility_sort_new import getDistance
+    except Exception:
         path_m = getDistance(src, dst) * 1.2
-
-    getPrices(nearby, path_m)
-    computeScore(nearby)
-
-    return [dev for dev in nearby if hasattr(dev, 'score') and dev.score > 0]
+    getPrices(devices, path_m)
+    computeScore(devices)
+    return [d for d in devices if d.score > 0]
 
 
-def expand_devices_with_variation(base_devices: List[Device], target_size: int) -> List[Device]:
-    expanded = []
-    base_count = len(base_devices)
+def expand_devices(base: List[Device], target: int) -> List[Device]:
+    base_n = len(base)
+    if target <= base_n:
+        return random.sample(base, target)
 
-    for i in range(target_size):
-        orig = base_devices[i % base_count]
-        new_dev = Device(
+    extra = target - base_n
+    idx = np.arange(extra) % base_n
+    lat_off = np.random.uniform(-0.0005, 0.0005, extra)
+    lon_off = np.random.uniform(-0.0005, 0.0005, extra)
+    bat_off = np.random.randint(-5, 6, extra)
+    mult = np.random.uniform(0.95, 1.05, (extra, 3))
+
+    clones = []
+    for i, src_idx in enumerate(idx):
+        o = base[src_idx]
+        d = Device(
             id=10_000_000 + i,
-            provider=orig.provider,
-            lat=orig.lat + random.uniform(-0.0005, 0.0005),
-            lon=orig.lon + random.uniform(-0.0005, 0.0005),
-            battery=max(0, min(100, orig.battery + random.randint(-5, 5)))
+            provider=o.provider,
+            lat=o.lat + lat_off[i],
+            lon=o.lon + lon_off[i],
+            battery=int(np.clip(o.battery + bat_off[i], 0, 100)),
         )
-        new_dev.dist = orig.dist * random.uniform(0.95, 1.05)
-        new_dev.price = orig.price * random.uniform(0.95, 1.05)
-        new_dev.score = orig.score * random.uniform(0.95, 1.05)
-        expanded.append(new_dev)
-
-    return expanded
-
-
-# 2. 정렬 알고리즘 정의
-
-def quick_sort(devices: List[Device]) -> List[Device]:
-    """재귀 기반 QuickSort 구현 (내림차순 점수 기준)"""
-    if len(devices) <= 1:
-        return devices
-    pivot = devices[0]
-    left = [d for d in devices[1:] if d.score > pivot.score]
-    right = [d for d in devices[1:] if d.score <= pivot.score]
-    return quick_sort(left) + [pivot] + quick_sort(right)
+        d.dist = o.dist * mult[i, 0]
+        d.price = o.price * mult[i, 1]
+        d.score = o.score * mult[i, 2]
+        clones.append(d)
+    return base + clones
 
 
-def heap_sort(devices: List[Device]) -> List[Device]:
-    heap = [(-dev.score, i, dev) for i, dev in enumerate(devices)]
-    heapq.heapify(heap)
-    result = []
-    while heap:
-        _, _, dev = heapq.heappop(heap)
-        result.append(dev)
-    return result
+def quick_sort(arr: List[Device]) -> List[Device]:
+    if len(arr) <= 1:
+        return arr
+    pivot = arr[len(arr) // 2].score
+    left = [d for d in arr if d.score > pivot]
+    mid = [d for d in arr if math.isclose(d.score, pivot)]
+    right = [d for d in arr if d.score < pivot]
+    return quick_sort(left) + mid + quick_sort(right)
 
 
-def bucket_sort(devices: List[Device], bucket_count=10) -> List[Device]:
-    if not devices:
+def heap_sort(arr: List[Device]) -> List[Device]:
+    import heapq
+    h = [(-d.score, i, d) for i, d in enumerate(arr)]
+    heapq.heapify(h)
+    out = []
+    while h:
+        out.append(heapq.heappop(h)[2])
+    return out
+
+
+def bucket_sort(arr: List[Device], k: int = 10) -> List[Device]:
+    if not arr:
         return []
-    min_score = min(dev.score for dev in devices)
-    max_score = max(dev.score for dev in devices)
-    range_size = (max_score - min_score) / bucket_count or 1
-    buckets = [[] for _ in range(bucket_count)]
-    for dev in devices:
-        idx = int((dev.score - min_score) / range_size)
-        if idx == bucket_count:
-            idx -= 1
-        buckets[idx].append(dev)
-    sorted_devices = []
-    for bucket in buckets:
-        sorted_devices.extend(sorted(bucket, key=lambda d: d.score, reverse=True))
-    return sorted_devices
+    scores = np.fromiter((d.score for d in arr), float)
+    s_min, s_max = scores.min(), scores.max()
+    span = (s_max - s_min) / k or 1
+    bins = np.clip(((scores - s_min) / span).astype(int), 0, k - 1)
+
+    buckets: List[List[Device]] = [[] for _ in range(k)]
+    for dev, b in zip(arr, bins):
+        buckets[b].append(dev)
+
+    out: List[Device] = []
+    for b in buckets:
+        out.extend(sorted(b, key=lambda d: d.score, reverse=True))
+    return out
 
 
-# 3. 래퍼 함수로 통일된 인터페이스
-
-def quick_sort_wrapper(devices):
-    return quick_sort(copy.deepcopy(devices))
-
-def heap_sort_wrapper(devices):
-    return heap_sort(copy.deepcopy(devices))
-
-def bucket_sort_wrapper(devices):
-    return bucket_sort(copy.deepcopy(devices))
+def measure(sort_fn: Callable[[List[Device]], List[Device]], data: List[Device]) -> float:
+    gc.collect()
+    start = time.perf_counter()
+    sort_fn(data.copy())
+    return time.perf_counter() - start
 
 
-# 4. 정렬 시간 및 복잡도 측정
+def run_tests(
+    name: str,
+    sort_fn: Callable[[List[Device]], List[Device]],
+    base: List[Device],
+    sizes=(100, 1_000, 10_000, 20_000, 100_000, 200_000, 500_000, 1_000_000, 2_000_000),
+) -> Dict[int, float]:
+    print(f"\n{name} 성능 분석\n" + "=" * 30)
+    datasets = {
+        n: (random.sample(base, n) if n <= len(base) else expand_devices(base, n))
+        for n in sizes
+    }
+    times: Dict[int, float] = {}
+    comp: Dict[int, float] = {}
+    ordered = sorted(datasets)
 
-def measure_sorting_time(sort_func, devices: List[Device]) -> float:
-    test_devices = copy.deepcopy(devices)
-    start_time = time.perf_counter()
-    _ = sort_func(test_devices)
-    end_time = time.perf_counter()
-    return end_time - start_time
+    for i, n in enumerate(ordered):
+        measures = [measure(sort_fn, datasets[n]) for _ in range(3)]
+        times[n] = np.median(measures)
+        if i:
+            p = ordered[i - 1]
+            comp[n] = math.log(times[n] / times[p]) / math.log(n / p)
 
-
-def run_tests(name: str, sort_func, devices: List[Device], theory_complexity: float, test_sizes=[100, 1000, 5000, 10000, 20000, 50000]):
-    print(f"{name} 성능 분석\n" + "=" * 30)
-    base_count = len(devices)
-    datasets = {}
-    for size in test_sizes:
-        if size <= base_count:
-            datasets[size] = random.sample(devices, size)
-        else:
-            datasets[size] = expand_devices_with_variation(devices, size)
-
-    results = {}
-    complexities = {}
-
-    for i, size in enumerate(sorted(datasets.keys())):
-        times = [measure_sorting_time(sort_func, datasets[size]) for _ in range(5)]
-        avg_time = statistics.mean(times)
-        results[size] = avg_time
-
-        if i > 0:
-            prev_size = sorted(datasets.keys())[i - 1]
-            prev_time = results[prev_size]
-            if avg_time > prev_time:
-                r = math.log(avg_time / prev_time) / math.log(size / prev_size)
-                complexities[size] = r
-
-    print(f"{'Size':>6} {'Time(s)':>10} {'Complexity':>11}")
+    print(f"{'Size':>9} {'Time(s)':>10} {'Complexity':>11}")
     print("-" * 30)
-    for size in sorted(results):
-        time_s = results[size]
-        c = complexities.get(size, '-')
-        if c != '-':
-            print(f"{size:>6,} {time_s:>10.4f} {c:>11.2f}")
-        else:
-            print(f"{size:>6,} {time_s:>10.4f} {c:>11}")
-
-    if complexities:
-        avg_c = sum(complexities.values()) / len(complexities)
-        print(f"\n평균 복잡도: {avg_c:.2f} (이론값: {theory_complexity:.2f})")
-        status = "우수" if avg_c < theory_complexity else "양호"
-        print(f"성능 평가: {status}")
-    print()
-    return results
-
-
-# 5. 전체 테스트 실행
-
-def compare_all():
-    devices = extract_scored_devices()
-    if not devices:
-        print("추천 가능한 기기가 없습니다.")
-        return
-
-    q = run_tests("QuickSort", quick_sort_wrapper, devices, theory_complexity=1.58)
-    h = run_tests("HeapSort", heap_sort_wrapper, devices, theory_complexity=1.15)
-    b = run_tests("BucketSort", bucket_sort_wrapper, devices, theory_complexity=1.00)
-
-    def avg(d): return sum(d.values()) / len(d)
-    print("[성능 요약 (단위: 초)]")
-    print(f"QuickSort 평균시간:  {avg(q):.5f} s")
-    print(f"HeapSort 평균시간:   {avg(h):.5f} s")
-    print(f"BucketSort 평균시간: {avg(b):.5f} s")
+    for n in ordered:
+        c = comp.get(n, "-")
+        print(f"{n:>9,} {times[n]:>10.4f} {c if c == '-' else f'{c:>11.3f}'}")
+    if comp:
+        print(f"\n평균 복잡도: {mean(comp.values()):.3f}\n")
+    return times
 
 
 if __name__ == "__main__":
-    compare_all()
+    devices = extract_scored_devices()
+    if not devices:
+        print("추천 가능한 기기가 없습니다.")
+    else:
+        quick = run_tests("QuickSort", quick_sort, devices)
+        heap = run_tests("HeapSort", heap_sort, devices)
+        bucket = run_tests("BucketSort", bucket_sort, devices)
+
+        def avg(d): return mean(d.values())
+
+        print("[성능 요약 (단위: 초)]")
+        print(f"QuickSort 평균시간:  {avg(quick):.5f} s")
+        print(f"HeapSort 평균시간:   {avg(heap):.5f} s")
+        print(f"BucketSort 평균시간: {avg(bucket):.5f} s")
